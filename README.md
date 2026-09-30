@@ -196,8 +196,6 @@ python3 utility/evaluate_review_results.py \
 
 For the paper's OpenRouter models, set `provider=openrouter`, choose `model=z-ai/glm-5.2`, `moonshotai/kimi-k2.6`, or `openai/gpt-oss-120b`, and set `reasoning=(--reasoning-effort high)`. Use a separate `run_dir` for each configuration. OpenAI runs leave reasoning at the provider default.
 
-The full example makes 3,192 model calls before retries on an uncached run. Add `--dry-run` to the scoring commands to inspect selection without API calls. Token limits and sampling parameters use provider defaults; the PDF engine defaults to `auto`. Document-specific API rejections are saved as single-PDF failures and do not stop a batch with successful results. Authentication, model, and quota errors stop the batch; repeated HTTP 429 responses also stop it after respecting `Retry-After` or exponential backoff, so the remaining PDFs are not marked missing. Fatal API errors or batches with no successful results return a nonzero exit code. Caches are checked against PDF content and settings. Fusion averages matching successful branch scores. By default, a failed or absent branch produces a missing fused score; `--require-complete` in this example rejects it instead. The complete example stops if any selected score is missing; rerun the same scoring command to retry failed cells.
-
 ## Evaluation from Review Results
 
 `utility/evaluate_review_results.py` computes the seven benchmark metrics directly from completed review results. It reads the saved ratings and `data/meta.json`; it does not call an API or inspect the PDFs.
