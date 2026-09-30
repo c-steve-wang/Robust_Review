@@ -1,0 +1,3997 @@
+{
+  "schema_version": 1,
+  "file_count": 798,
+  "total_bytes": 3058569175,
+  "files": [
+    {
+      "path": "1/original.pdf",
+      "size_bytes": 6199313,
+      "sha256": "b3236a213acbffc52ab9c674b06fe2e70b9a1bbe8aa8d957b59c5ea4139afbb4"
+    },
+    {
+      "path": "1/rewrites/condition_01.pdf",
+      "size_bytes": 6062389,
+      "sha256": "7269f33769765aa15311162a20885597013913997078f6a7757cb17712444364"
+    },
+    {
+      "path": "1/rewrites/condition_02.pdf",
+      "size_bytes": 6136472,
+      "sha256": "46d7707a931eab4c3e5016d10f413a49c2e460905f21146009430ffc1e4af28e"
+    },
+    {
+      "path": "1/rewrites/condition_03.pdf",
+      "size_bytes": 6159060,
+      "sha256": "6d2fe363f1b125adc25c8840dc63a3dccab9601663b8747375b70f487ce162fd"
+    },
+    {
+      "path": "1/rewrites/condition_04.pdf",
+      "size_bytes": 6195741,
+      "sha256": "3109e7ab5b53d4c712999b9eea4064e161bdd5310d636291636f2f1590e2492b"
+    },
+    {
+      "path": "1/rewrites/condition_05.pdf",
+      "size_bytes": 6158433,
+      "sha256": "73e3679ca19b7a87356ad9c7cea931df15acdc3b58062c2b547ad60a556e5aae"
+    },
+    {
+      "path": "1/rewrites/condition_06.pdf",
+      "size_bytes": 6455166,
+      "sha256": "7754d13c8f3854cc8863c265c7ccf5107a62a160075f0e2bec5c6df1a4288795"
+    },
+    {
+      "path": "1/rewrites/condition_07.pdf",
+      "size_bytes": 6200075,
+      "sha256": "0509e6244af3df7b70398fae1bf81357fea95e7349ee5bb10e61d5590377b83d"
+    },
+    {
+      "path": "1/rewrites/condition_08.pdf",
+      "size_bytes": 6514481,
+      "sha256": "af9457f0a31d3d403fdebe1713a1ea1d0f287e395c90d402af05397935c977f6"
+    },
+    {
+      "path": "1/rewrites/condition_09.pdf",
+      "size_bytes": 6219391,
+      "sha256": "8c665adbb506e4f8b797e684d98b0751136edbb7e86eb59e71d94c1501d6db08"
+    },
+    {
+      "path": "1/rewrites/condition_10.pdf",
+      "size_bytes": 6456382,
+      "sha256": "38383c4661061399ca3ad2759a0ca796a1ba5104e3f9b01d8ae85c65edc43a82"
+    },
+    {
+      "path": "1/rewrites/condition_11.pdf",
+      "size_bytes": 6144408,
+      "sha256": "5c0e6dbb8074aee7ab1d43d7ee6675989d1cd6e83279125ff2af71513747c238"
+    },
+    {
+      "path": "1/rewrites/condition_12.pdf",
+      "size_bytes": 6635743,
+      "sha256": "16ef30c1807991f186bb5cf6a5720295dc6de2137bfb151d7a9e24dc88def4a0"
+    },
+    {
+      "path": "1/rewrites/condition_13.pdf",
+      "size_bytes": 6309795,
+      "sha256": "5b879ed7a596b8978716411125ccb5e44ca458dc57e002e6adb72d443bbee96d"
+    },
+    {
+      "path": "1/rewrites/condition_14.pdf",
+      "size_bytes": 6551741,
+      "sha256": "4f75c6d225e291a4b82f1d881da56d4009ac4fe8c4c44877edec3e0c9958693c"
+    },
+    {
+      "path": "1/rewrites/condition_15.pdf",
+      "size_bytes": 6293328,
+      "sha256": "fa18e21881af5ffae27bed5f33f0d4eb4ace2ba63a5d036b0e496dafac44ae73"
+    },
+    {
+      "path": "1/rewrites/condition_16.pdf",
+      "size_bytes": 6698327,
+      "sha256": "e0820a933f6bb4ea42351170d2e0607177c3623cbf48006785facf0fb0065773"
+    },
+    {
+      "path": "1/rewrites/condition_17.pdf",
+      "size_bytes": 6239846,
+      "sha256": "7be0b6a71904f75255e018015eef4d94f619bd5e3511c827223b668d1dfdd632"
+    },
+    {
+      "path": "1/rewrites/condition_18.pdf",
+      "size_bytes": 6508648,
+      "sha256": "08b8dea2976324388a3cc7e7937dff5d49f4a1cdea8cbd7029162c63bfb339ca"
+    },
+    {
+      "path": "1/rewrites/condition_19.pdf",
+      "size_bytes": 6143022,
+      "sha256": "beb144b27991b8a2f02619d6a921d671a42852f7ba3c7bfc3434bb6a20b06e96"
+    },
+    {
+      "path": "1/rewrites/condition_20.pdf",
+      "size_bytes": 6120628,
+      "sha256": "e42766e47a819dbd6777a39b171adebc06282ff929920cef93e242c3357df279"
+    },
+    {
+      "path": "10/original.pdf",
+      "size_bytes": 6291332,
+      "sha256": "2938d4a888a17ad0d0fe2a5274de7a6e40a0d063eb7f5d623d2795bcd277e12c"
+    },
+    {
+      "path": "10/rewrites/condition_01.pdf",
+      "size_bytes": 6060707,
+      "sha256": "38b7b395b3423947cd380685824841b8adaea27b15b108d1696c2f08978deb08"
+    },
+    {
+      "path": "10/rewrites/condition_02.pdf",
+      "size_bytes": 6219852,
+      "sha256": "011805487142d227af66327f5c6e2885850e01960805844529049172f5b574ec"
+    },
+    {
+      "path": "10/rewrites/condition_03.pdf",
+      "size_bytes": 6278194,
+      "sha256": "b243fa1ff33a6a6ebb13a425ebb03339da3b11c27b026a785a8b240786bb5869"
+    },
+    {
+      "path": "10/rewrites/condition_04.pdf",
+      "size_bytes": 6406687,
+      "sha256": "6dc93f3d25e7ffa5657543209f3f4f968d4acfe2a325dc5b3d888801a1231a96"
+    },
+    {
+      "path": "10/rewrites/condition_05.pdf",
+      "size_bytes": 6283617,
+      "sha256": "1dc029c16551d5813089b2a9fcd0439a4e79a2c8aa7478f5e0eb6cbb07a6a5cc"
+    },
+    {
+      "path": "10/rewrites/condition_06.pdf",
+      "size_bytes": 6706501,
+      "sha256": "ead0ed72895479c1e5a8f304f4d67c38471b9563d872481bd30adc8cbc22244b"
+    },
+    {
+      "path": "10/rewrites/condition_07.pdf",
+      "size_bytes": 6313554,
+      "sha256": "7a66258ddbab047ca7432d541562c5f2cbed5a15f22e61bcafc3dcd35ac0a538"
+    },
+    {
+      "path": "10/rewrites/condition_08.pdf",
+      "size_bytes": 6840083,
+      "sha256": "0417e3af10401a8d5449bf6f3a3828a65ad4591b9628cfcd6258e8accc708d1d"
+    },
+    {
+      "path": "10/rewrites/condition_09.pdf",
+      "size_bytes": 6250571,
+      "sha256": "7f3842007a5bb6b0ac9047e5f1a21ea4544339eacb0ffa8c039eb15b4b0c0b92"
+    },
+    {
+      "path": "10/rewrites/condition_10.pdf",
+      "size_bytes": 6383778,
+      "sha256": "ff724e2cdb7138ae6cdacda381bd986296ea83826f790b48d705affe3d65a583"
+    },
+    {
+      "path": "10/rewrites/condition_11.pdf",
+      "size_bytes": 6229460,
+      "sha256": "2914f0ab338e0d4775ee77795afe879131ebb1dbd288244bdae9501861c013f6"
+    },
+    {
+      "path": "10/rewrites/condition_12.pdf",
+      "size_bytes": 6412045,
+      "sha256": "bb4d6ad37e61d6a4f614ad60e051f52822f204b6a2840c3700a4f298d70aaa50"
+    },
+    {
+      "path": "10/rewrites/condition_13.pdf",
+      "size_bytes": 6361649,
+      "sha256": "f2cd355c800ad72bd78e8769ae90dae3c4a278003d2bd6be7a117fda901e1e43"
+    },
+    {
+      "path": "10/rewrites/condition_14.pdf",
+      "size_bytes": 6492504,
+      "sha256": "c7b38ccc0271854b62fc57cad02ced114bfb3f063c1bfc60547150c675365380"
+    },
+    {
+      "path": "10/rewrites/condition_15.pdf",
+      "size_bytes": 6260669,
+      "sha256": "c2c413744df368998c51e5421bc5902107b70f69c3d9060ccab09c0b1a35df36"
+    },
+    {
+      "path": "10/rewrites/condition_16.pdf",
+      "size_bytes": 6708150,
+      "sha256": "50b17c1ba70ffacb6f719e8c0849b837f0f32ae707e5d1e3b69bf75b7d0b7755"
+    },
+    {
+      "path": "10/rewrites/condition_17.pdf",
+      "size_bytes": 6274374,
+      "sha256": "3307281cc3696d48ffb55750156796bdb41502294aba204fcca4db814798b2e5"
+    },
+    {
+      "path": "10/rewrites/condition_18.pdf",
+      "size_bytes": 6754639,
+      "sha256": "19e6cf62bdf8d567e4f0fe3a24bbea8147270db12b7701427472293396aae4a4"
+    },
+    {
+      "path": "10/rewrites/condition_19.pdf",
+      "size_bytes": 6277427,
+      "sha256": "cdea264d3abe65959e950f971c448ae9281225042f28a5c68440fe583582f56b"
+    },
+    {
+      "path": "10/rewrites/condition_20.pdf",
+      "size_bytes": 6215236,
+      "sha256": "750785d63489e0b2584b4214503c3fa62f8c2597b42e540debd29e3784eba04a"
+    },
+    {
+      "path": "11/original.pdf",
+      "size_bytes": 1031378,
+      "sha256": "aa7dd3c6aae462ddb3c6c158866e349dcd30ab983463926e91bd1c55aec464fe"
+    },
+    {
+      "path": "11/rewrites/condition_01.pdf",
+      "size_bytes": 1026052,
+      "sha256": "c1de9f5c49a59207f48fbe49dd6efcbe568ac1c7417cb7e754c10d32075dcd82"
+    },
+    {
+      "path": "11/rewrites/condition_02.pdf",
+      "size_bytes": 1030029,
+      "sha256": "6b3387de579a1a71e2e8ecb915220400b4af7848ad67a996b85546e0d14a5e22"
+    },
+    {
+      "path": "11/rewrites/condition_03.pdf",
+      "size_bytes": 1032838,
+      "sha256": "13e70ec89a833abb6290184f5f08fe352492474c0d543fc2d5c1b4f1a0d41846"
+    },
+    {
+      "path": "11/rewrites/condition_04.pdf",
+      "size_bytes": 1037768,
+      "sha256": "82391a14dec22a858fe0a04403b9fdf66dcd19d53ff48aa022092a6e79779195"
+    },
+    {
+      "path": "11/rewrites/condition_05.pdf",
+      "size_bytes": 1032838,
+      "sha256": "ff7ce46c1b30f0c3d2716ffabb814509e1b109d97c136fcf477a5ceb0ead9f72"
+    },
+    {
+      "path": "11/rewrites/condition_06.pdf",
+      "size_bytes": 1040696,
+      "sha256": "5dc3a8538d4205cea5682f04f1cc34c1d3dc61367d286243b8f2a660bcd44d33"
+    },
+    {
+      "path": "11/rewrites/condition_07.pdf",
+      "size_bytes": 1032838,
+      "sha256": "8d06a68e7051d0134a35f5ed6ca0a18b8be7ac44bc9a0e93968296121eac4c63"
+    },
+    {
+      "path": "11/rewrites/condition_08.pdf",
+      "size_bytes": 1041918,
+      "sha256": "b34dae4097a20b7c191b4f5e8728dc18dc0ba98e6cbecee0558d93e7771baaba"
+    },
+    {
+      "path": "11/rewrites/condition_09.pdf",
+      "size_bytes": 1030281,
+      "sha256": "e79aca8e798ec0dad9ad821091fb3f27c0a46da810550fe7f707a2522ed7d528"
+    },
+    {
+      "path": "11/rewrites/condition_10.pdf",
+      "size_bytes": 1032820,
+      "sha256": "79ed1b1b11a9cf85c4ae2597f70d1815e97230f3c04cbb0ba30a07f19c50479a"
+    },
+    {
+      "path": "11/rewrites/condition_11.pdf",
+      "size_bytes": 1033290,
+      "sha256": "f0c384cd3d61caf13dd198ff65d3d0bc446b4aa4cf7c6b4610bcee661ad3f3f4"
+    },
+    {
+      "path": "11/rewrites/condition_12.pdf",
+      "size_bytes": 1033886,
+      "sha256": "6a6fd013009bf10b7b43567fdf29fb8989d783ca3f75ffeef14ad63444298f2a"
+    },
+    {
+      "path": "11/rewrites/condition_13.pdf",
+      "size_bytes": 1032155,
+      "sha256": "45c309216c871924c524063540977afeedd6f555fbba4dcd581f7909c5cfecf1"
+    },
+    {
+      "path": "11/rewrites/condition_14.pdf",
+      "size_bytes": 1035797,
+      "sha256": "92399a7aead4a01ed29332c14d35d554ae6987ac0527d0ed9de4bacd096f26c3"
+    },
+    {
+      "path": "11/rewrites/condition_15.pdf",
+      "size_bytes": 1030851,
+      "sha256": "77f336b5f67721705e1e7c235122afa4d20cabacb8246dd47696eac6435d4cd4"
+    },
+    {
+      "path": "11/rewrites/condition_16.pdf",
+      "size_bytes": 1042704,
+      "sha256": "755d5d3e66eb918c24f6176fc1e62936024b1a9257129e161c7900ef6e49c70f"
+    },
+    {
+      "path": "11/rewrites/condition_17.pdf",
+      "size_bytes": 1031610,
+      "sha256": "33e27f59094d7ce9721865ab53e55affc616919f2b6af2381ff0297ce3a6cfbf"
+    },
+    {
+      "path": "11/rewrites/condition_18.pdf",
+      "size_bytes": 1037557,
+      "sha256": "0027aeb5786dfd6b432802b0c1b2758bbf233c753574a058fe91fb1b72761b85"
+    },
+    {
+      "path": "11/rewrites/condition_19.pdf",
+      "size_bytes": 1029279,
+      "sha256": "b45aa77aa562c2f04e2bd3e33d0631e3b7113485116cc7e341a6bc74d7b00397"
+    },
+    {
+      "path": "11/rewrites/condition_20.pdf",
+      "size_bytes": 1030449,
+      "sha256": "f970019764c1fc6657683a7f284b95dadd7aebf40aa1c7facb76b9aeea747615"
+    },
+    {
+      "path": "12/original.pdf",
+      "size_bytes": 1676473,
+      "sha256": "41a7af101c35c994bfd9fdfb9608d0fe042468029c14dc9fc2bdd0216d2beaae"
+    },
+    {
+      "path": "12/rewrites/condition_01.pdf",
+      "size_bytes": 1673598,
+      "sha256": "43827d735759910493d65d0e0dc12e89ef801cdc43c85cc3c705fb04a7bd068e"
+    },
+    {
+      "path": "12/rewrites/condition_02.pdf",
+      "size_bytes": 1676625,
+      "sha256": "64eef536edcd210d3867e97676d440fdaaa0a078de6c75949f24f317b9bc78b1"
+    },
+    {
+      "path": "12/rewrites/condition_03.pdf",
+      "size_bytes": 1680226,
+      "sha256": "2660286337af3e0e49e1976abb6f55cdc73c31d37f3632bbed522316dd5193a0"
+    },
+    {
+      "path": "12/rewrites/condition_04.pdf",
+      "size_bytes": 1688045,
+      "sha256": "b2ca641ca32685d3b6f9a57004df4061fa79ad5ceae311e32e253b70158e7c07"
+    },
+    {
+      "path": "12/rewrites/condition_05.pdf",
+      "size_bytes": 1681302,
+      "sha256": "f6a4c4e30912560c1d0b697309e5cba6d24f1d88f3308506a3f26cf1798de269"
+    },
+    {
+      "path": "12/rewrites/condition_06.pdf",
+      "size_bytes": 1690445,
+      "sha256": "ed335a51f5c8cb8137f0058dc5e01345e068fc3230b11a56ef6f7da81bed7b7b"
+    },
+    {
+      "path": "12/rewrites/condition_07.pdf",
+      "size_bytes": 1680945,
+      "sha256": "d6627a6e75cd32bf1cf473ab03fcf23c076fd3b54134e2fbc8230f7eed26a3b5"
+    },
+    {
+      "path": "12/rewrites/condition_08.pdf",
+      "size_bytes": 1691619,
+      "sha256": "b55ca0033f2e08ae396d74c97daa81b0ebfd04048cc50eb212f3715cb9e79bc2"
+    },
+    {
+      "path": "12/rewrites/condition_09.pdf",
+      "size_bytes": 1674336,
+      "sha256": "80ea95156753fa0ae9dc96b5c8c40f442f1068516657e8dfbaef789d0b94fa5a"
+    },
+    {
+      "path": "12/rewrites/condition_10.pdf",
+      "size_bytes": 1682903,
+      "sha256": "3ddceea258c8dee98800c1f9d0d7def4a2640e0af9d140e49b7cfc768997af39"
+    },
+    {
+      "path": "12/rewrites/condition_11.pdf",
+      "size_bytes": 1676228,
+      "sha256": "f11cda776f70086e6c85a4932810504736b0cbe8282d4b9b868f00395a61e91d"
+    },
+    {
+      "path": "12/rewrites/condition_12.pdf",
+      "size_bytes": 1687690,
+      "sha256": "df5413c0802f89483f805ca9d969b8cbeb5609e4446adf45dd7cee45e2142841"
+    },
+    {
+      "path": "12/rewrites/condition_13.pdf",
+      "size_bytes": 1677844,
+      "sha256": "f64ff423148f43e4feadb494bac33c3252aea4133d66962a87860256220f7526"
+    },
+    {
+      "path": "12/rewrites/condition_14.pdf",
+      "size_bytes": 1681899,
+      "sha256": "226ec88f3776999aee2e2bb2be8eb705227ef26ff345c3645ff9fd407f1937b8"
+    },
+    {
+      "path": "12/rewrites/condition_15.pdf",
+      "size_bytes": 1682697,
+      "sha256": "8aabcb9209b7bdaf7d7143c39ef4bf0ba7fb4b21965fd4e64926c00d5e719e1b"
+    },
+    {
+      "path": "12/rewrites/condition_16.pdf",
+      "size_bytes": 1693552,
+      "sha256": "b0eabf029b8f3f25ae158d9f30f80862c0360d515d1f2a75a915fa5c5e267663"
+    },
+    {
+      "path": "12/rewrites/condition_17.pdf",
+      "size_bytes": 1675406,
+      "sha256": "aa20d6886e6cfe55c9be1e5d54093cfcf2e1b899e3439f7265c2f34e533f3c2b"
+    },
+    {
+      "path": "12/rewrites/condition_18.pdf",
+      "size_bytes": 1683108,
+      "sha256": "4e2c445c5d8a397a66ceff3a82008b2ff733c5c307f340ecfb06214b63276abc"
+    },
+    {
+      "path": "12/rewrites/condition_19.pdf",
+      "size_bytes": 1676938,
+      "sha256": "5f9dd6279292e3a70b2b99737d4cef7eb559a43a97877cf1559dccf38c01422f"
+    },
+    {
+      "path": "12/rewrites/condition_20.pdf",
+      "size_bytes": 1680229,
+      "sha256": "e5c30c533054a1b15c2166cc44afc165d0521c59edf545d2a96e083c666da900"
+    },
+    {
+      "path": "13/original.pdf",
+      "size_bytes": 475286,
+      "sha256": "62744c9615c17998b7de6e60bc4e40210cf1e41b7b27e2145910b53cd09dedc1"
+    },
+    {
+      "path": "13/rewrites/condition_01.pdf",
+      "size_bytes": 466558,
+      "sha256": "218fc0c18f16484a34f6842b5cae412db7479e01a66bd0d950208be69897bb3e"
+    },
+    {
+      "path": "13/rewrites/condition_02.pdf",
+      "size_bytes": 473154,
+      "sha256": "5fd4c0f8d5c341a3d43fe1a2149b3de76b3d6821611b8c5e14676d443f8b5f5d"
+    },
+    {
+      "path": "13/rewrites/condition_03.pdf",
+      "size_bytes": 483865,
+      "sha256": "565dddddb629bf2355658cdec0d95ab0ac068c9692281fa42f7d1ff1fae08b03"
+    },
+    {
+      "path": "13/rewrites/condition_04.pdf",
+      "size_bytes": 486169,
+      "sha256": "1a4e023a249e3eb83b12b9e22dadf666c00d5439bcc2b9d249c732e61ff0bfb3"
+    },
+    {
+      "path": "13/rewrites/condition_05.pdf",
+      "size_bytes": 482490,
+      "sha256": "9deabefe12df8fa4f39d355ff68fd47fdf540a0fccb1630c2c4f8c7f6f70bd38"
+    },
+    {
+      "path": "13/rewrites/condition_06.pdf",
+      "size_bytes": 487417,
+      "sha256": "94419980ccadad0bedda9eb40124ebe4928cb072bba50c933ad5bd5a22a121fd"
+    },
+    {
+      "path": "13/rewrites/condition_07.pdf",
+      "size_bytes": 482490,
+      "sha256": "5d9f08b341971f608ea3e36f8a291ccc93b075aeb4ba026f1916656b8db692fb"
+    },
+    {
+      "path": "13/rewrites/condition_08.pdf",
+      "size_bytes": 488486,
+      "sha256": "2b735cbf71b9e475b2678b84762e39ee761499138b7479b9a831689c67c1409e"
+    },
+    {
+      "path": "13/rewrites/condition_09.pdf",
+      "size_bytes": 466426,
+      "sha256": "996dc7f9fe62554d76f4e43f7e6b8ffdcdc58e9a0deab74e761fa4aa2db3f9dd"
+    },
+    {
+      "path": "13/rewrites/condition_10.pdf",
+      "size_bytes": 474786,
+      "sha256": "6cc21809f25a49f60148973207d26c23fd826524b846cf337508cfe115d09afb"
+    },
+    {
+      "path": "13/rewrites/condition_11.pdf",
+      "size_bytes": 470615,
+      "sha256": "75883549e12d15dadb5b518c86f9052b4614e0c9bbc83a6300da1172e1e9722e"
+    },
+    {
+      "path": "13/rewrites/condition_12.pdf",
+      "size_bytes": 478147,
+      "sha256": "b1ec172cfb1a6e7ce1bc49e2c5ab0977ec7d6d45c8266caeb5c33222549888a1"
+    },
+    {
+      "path": "13/rewrites/condition_13.pdf",
+      "size_bytes": 474960,
+      "sha256": "91e3fceda55d8c87a5430c130c7a6411c9fb5f26f944a32f69a7422c8a0e8846"
+    },
+    {
+      "path": "13/rewrites/condition_14.pdf",
+      "size_bytes": 481539,
+      "sha256": "8bdaf4682aff486a7bd31dd081c4d860bfdb2df2334bcae946f2e44bea7a2c35"
+    },
+    {
+      "path": "13/rewrites/condition_15.pdf",
+      "size_bytes": 483546,
+      "sha256": "f5b656f426f3350567b0a3c26d23595f64e76e115a5b6a08bf3e40cbded62a18"
+    },
+    {
+      "path": "13/rewrites/condition_16.pdf",
+      "size_bytes": 492806,
+      "sha256": "49bf89245a58662b4bdff9dc9cd85655f518f76b144acc0dbb16edfbe4151fd0"
+    },
+    {
+      "path": "13/rewrites/condition_17.pdf",
+      "size_bytes": 474850,
+      "sha256": "9354a4aedacee9ae142e9d08f0f33b1aafe21e8a246f7fbe152b44159ba8015e"
+    },
+    {
+      "path": "13/rewrites/condition_18.pdf",
+      "size_bytes": 476099,
+      "sha256": "90aa8e64ed10ce8b243c8aa32005af9651bbe51d6cdc2b9e25df72c87a75b3d4"
+    },
+    {
+      "path": "13/rewrites/condition_19.pdf",
+      "size_bytes": 469097,
+      "sha256": "6a462390ae8928b79b53eba1f35699d4b17c473a7bcc9b1534fd758a6b537bcc"
+    },
+    {
+      "path": "13/rewrites/condition_20.pdf",
+      "size_bytes": 467926,
+      "sha256": "3ede24ba371b10228f840754e6cd3c86720fff7c3d5e1be8aa018be53a3c6016"
+    },
+    {
+      "path": "14/original.pdf",
+      "size_bytes": 5911910,
+      "sha256": "87070bbd7a7d59006c247e50804322f08a9d39e3f378ee91dbc9be224366247d"
+    },
+    {
+      "path": "14/rewrites/condition_01.pdf",
+      "size_bytes": 5907712,
+      "sha256": "cf22ec038d0c23f1186b86e3bc22652c916e205a9994a29a834b5e46a0e9b783"
+    },
+    {
+      "path": "14/rewrites/condition_02.pdf",
+      "size_bytes": 5910206,
+      "sha256": "88d929914b028e355870c430606ec5c9c88ebd9fef3ef1b4968bb21ce21a3ecc"
+    },
+    {
+      "path": "14/rewrites/condition_03.pdf",
+      "size_bytes": 5909831,
+      "sha256": "f23c3d838a696c5443c36784442cb0cd3f63e3b235525a707149f2cdd69ac0c0"
+    },
+    {
+      "path": "14/rewrites/condition_04.pdf",
+      "size_bytes": 5909116,
+      "sha256": "e2474d1789f7da5378030a7723607abcd64487d018cb11fefea4bc270c3503a2"
+    },
+    {
+      "path": "14/rewrites/condition_05.pdf",
+      "size_bytes": 5909954,
+      "sha256": "2a53ac6c1ab7f48db36fe27631a50b1780f3e60fd8aad62106439294d2413927"
+    },
+    {
+      "path": "14/rewrites/condition_06.pdf",
+      "size_bytes": 5912478,
+      "sha256": "b6d0a5ffa2132138b5c38a7c57f8470d6e1b7bb7cef3aeb37e227cd493fc1d19"
+    },
+    {
+      "path": "14/rewrites/condition_07.pdf",
+      "size_bytes": 5910141,
+      "sha256": "d320f01c884341cce82bc0d3cbe71e380a82de1cef88195cbc36554bf29a1ec1"
+    },
+    {
+      "path": "14/rewrites/condition_08.pdf",
+      "size_bytes": 5922414,
+      "sha256": "25f9be035d6d9bc465cbee259f46546a8e595e03e92b8122ce0f04dedce92c13"
+    },
+    {
+      "path": "14/rewrites/condition_09.pdf",
+      "size_bytes": 5913636,
+      "sha256": "e87b0db2a384afa9f0b968ee878f3d2fecb64a6e0049079b9745903a1ec24e09"
+    },
+    {
+      "path": "14/rewrites/condition_10.pdf",
+      "size_bytes": 5919133,
+      "sha256": "0496897dab2c34d423ddc191f2ed4992c48497a6eefe999fd20c772b212d3df9"
+    },
+    {
+      "path": "14/rewrites/condition_11.pdf",
+      "size_bytes": 5912769,
+      "sha256": "f19a52d0a696675d45a3e794eff207056a039cb6ee2a0f6a67c6cada6be06903"
+    },
+    {
+      "path": "14/rewrites/condition_12.pdf",
+      "size_bytes": 5920249,
+      "sha256": "30c1e814e1fa9cf5c019bbea82788bfd7946ec3527faa90553fc1abfd8780f25"
+    },
+    {
+      "path": "14/rewrites/condition_13.pdf",
+      "size_bytes": 5913739,
+      "sha256": "b2a9cf7b1223c431c20197d84cbb1c22411ff7a14a0928e88b98c59612d717e2"
+    },
+    {
+      "path": "14/rewrites/condition_14.pdf",
+      "size_bytes": 5916412,
+      "sha256": "6a266aae22b2b0148c967111a7047a0371d2b5721ce8e8d9d2f8bda275dcc677"
+    },
+    {
+      "path": "14/rewrites/condition_15.pdf",
+      "size_bytes": 5910174,
+      "sha256": "487626175e96a9ca6e0352a821b97968ee9d73b6e9a4b0cdcf1f40add6e7d15e"
+    },
+    {
+      "path": "14/rewrites/condition_16.pdf",
+      "size_bytes": 5919184,
+      "sha256": "9a659cc640455fadc309934887c01f2d0a1b34e2cc4487ba0cb6a65f99d41d73"
+    },
+    {
+      "path": "14/rewrites/condition_17.pdf",
+      "size_bytes": 5910451,
+      "sha256": "59b859b7c299ea57b2effd579e71439a8d3e2ec5e6ca493f6f9f10d7b4897de6"
+    },
+    {
+      "path": "14/rewrites/condition_18.pdf",
+      "size_bytes": 5916322,
+      "sha256": "b845cfe590e585c0dc6b3ed81f21e935abf52336ad63ef71d53c16ad59ab9c78"
+    },
+    {
+      "path": "14/rewrites/condition_19.pdf",
+      "size_bytes": 5911576,
+      "sha256": "cc8552e5599f9202eeb9eb6d756dab152b0dc4a8bf267761528ce07d3591554f"
+    },
+    {
+      "path": "14/rewrites/condition_20.pdf",
+      "size_bytes": 5915166,
+      "sha256": "e1a0b15e17da119f0cd976d5f128f63ce18af1ec3064a841196c480260d0bdd6"
+    },
+    {
+      "path": "15/original.pdf",
+      "size_bytes": 620098,
+      "sha256": "6d1d0acbcdc5bb455e766f2b164a68e4460e7f330868a23e02b1037501b52f36"
+    },
+    {
+      "path": "15/rewrites/condition_01.pdf",
+      "size_bytes": 618693,
+      "sha256": "f54a709816ed2408152498d658ed52db78e4560d5cd2dffef8a421207a83d3d1"
+    },
+    {
+      "path": "15/rewrites/condition_02.pdf",
+      "size_bytes": 619750,
+      "sha256": "e28cb8c6838312bc3c9021c85fad08d98bf29005ccc708c683ce69e9bf8a8397"
+    },
+    {
+      "path": "15/rewrites/condition_03.pdf",
+      "size_bytes": 622688,
+      "sha256": "feb826f820d15f52f59641752d8eaa63e13d3e001a92aa65d85412ce4d20a4a1"
+    },
+    {
+      "path": "15/rewrites/condition_04.pdf",
+      "size_bytes": 627486,
+      "sha256": "b82fc088c5860b3f2a754aa9663f2631944e74f1784dfe14181da0df04d64d81"
+    },
+    {
+      "path": "15/rewrites/condition_05.pdf",
+      "size_bytes": 622911,
+      "sha256": "acb68e6d0f9e120c5eafaaae10610e890e95133cf936123e7abfe02c7a9c99e7"
+    },
+    {
+      "path": "15/rewrites/condition_06.pdf",
+      "size_bytes": 629687,
+      "sha256": "f9340acb9be4dab8c8265ddaebc7a4d0348a473b634040c7d8889ae0cc78697d"
+    },
+    {
+      "path": "15/rewrites/condition_07.pdf",
+      "size_bytes": 622637,
+      "sha256": "651d5d1321662f03d03d6860eba78a398fd1d5522d68df0925f22a632832bfb4"
+    },
+    {
+      "path": "15/rewrites/condition_08.pdf",
+      "size_bytes": 630728,
+      "sha256": "ff89bbe1f27387d3b0497fe638fda4d1896ab47719ab81fcb3c0b0efa3fa5027"
+    },
+    {
+      "path": "15/rewrites/condition_09.pdf",
+      "size_bytes": 619192,
+      "sha256": "777f317eaf66e82a66d02acda4b056dd2181c21275f26e0b210c2b793aad698f"
+    },
+    {
+      "path": "15/rewrites/condition_10.pdf",
+      "size_bytes": 625992,
+      "sha256": "86cf33cb8fe64b286faeeafcb5875eae84c198e315afd81212127ee021209fb2"
+    },
+    {
+      "path": "15/rewrites/condition_11.pdf",
+      "size_bytes": 621027,
+      "sha256": "1f5e2e4c7e51293f959568fc44d86b0b7be79870b8d53de78133ddb4c11f61fa"
+    },
+    {
+      "path": "15/rewrites/condition_12.pdf",
+      "size_bytes": 627355,
+      "sha256": "0b4cb6810b6812c9db6692da25d177915ab90eaea92d0ce3a204089318bf62f5"
+    },
+    {
+      "path": "15/rewrites/condition_13.pdf",
+      "size_bytes": 620502,
+      "sha256": "bb376eac87bc69615f655ead997e500f713800b9258255678c4c2f48b8b37188"
+    },
+    {
+      "path": "15/rewrites/condition_14.pdf",
+      "size_bytes": 623849,
+      "sha256": "b557185f864a854c4ba5cd507993e710e41e4e8f33ddd58b8ead0bf0c583a843"
+    },
+    {
+      "path": "15/rewrites/condition_15.pdf",
+      "size_bytes": 623638,
+      "sha256": "c233102b90d0676fd8417a3b6f7295bfcae88b9f5ad70ad0c9d632ab61f892c5"
+    },
+    {
+      "path": "15/rewrites/condition_16.pdf",
+      "size_bytes": 638261,
+      "sha256": "1a275da35c5fd5ecd0823d2a79525d8fe40e99bd687070fc3db0cef8e6601c32"
+    },
+    {
+      "path": "15/rewrites/condition_17.pdf",
+      "size_bytes": 619635,
+      "sha256": "5714683c98c5d3dad4e1f35f344e72d31ac033cee05782777ba9c24e5703cd94"
+    },
+    {
+      "path": "15/rewrites/condition_18.pdf",
+      "size_bytes": 624132,
+      "sha256": "51ca4453072310f2a736e7509307f3848a155989c023a3ae45e411dc64f52707"
+    },
+    {
+      "path": "15/rewrites/condition_19.pdf",
+      "size_bytes": 619438,
+      "sha256": "64c08233b2f19a80f3137abb39057d34ae2483ef6e9d2ccf86f37b5fdcf30466"
+    },
+    {
+      "path": "15/rewrites/condition_20.pdf",
+      "size_bytes": 621533,
+      "sha256": "073384275c0936b1e689981f052099b273db071f44265446f66750fd7f3243ad"
+    },
+    {
+      "path": "16/original.pdf",
+      "size_bytes": 5594354,
+      "sha256": "179498e3b0783e1ba9285819c82335efa42603096374069e4e71ba9d785a1617"
+    },
+    {
+      "path": "16/rewrites/condition_01.pdf",
+      "size_bytes": 5591104,
+      "sha256": "59ee07f5e37c33ffa862b59994557919198ecdb68014771072a72f8909373ba0"
+    },
+    {
+      "path": "16/rewrites/condition_02.pdf",
+      "size_bytes": 5590402,
+      "sha256": "fe959371def1f6dbc162f72c585de141b1b8baedd9131c69d751bc0797a6394d"
+    },
+    {
+      "path": "16/rewrites/condition_03.pdf",
+      "size_bytes": 5598933,
+      "sha256": "f3c5f31a3b6bf31d2dbe3052e0d3616100b364dda94f8f55f3d8754fd6afffd7"
+    },
+    {
+      "path": "16/rewrites/condition_04.pdf",
+      "size_bytes": 5612150,
+      "sha256": "47b9f17ff0b4320eb042d375fec3cbda57fcb12847b46a381e648773c1756bee"
+    },
+    {
+      "path": "16/rewrites/condition_05.pdf",
+      "size_bytes": 5598933,
+      "sha256": "e7343550506d1ca789b5ec9689343c15557b7963d3cfcf335f363eba7d924260"
+    },
+    {
+      "path": "16/rewrites/condition_06.pdf",
+      "size_bytes": 5638470,
+      "sha256": "6ef6a01c0b061a5bd787cee29eb0aa3f6ebff292d9418dc3cd548427f4502ca9"
+    },
+    {
+      "path": "16/rewrites/condition_07.pdf",
+      "size_bytes": 5598756,
+      "sha256": "2e438ab9fddb81774004988efaee4ff66e85753578bf508e291c24edc554fca3"
+    },
+    {
+      "path": "16/rewrites/condition_08.pdf",
+      "size_bytes": 5640745,
+      "sha256": "694774862562980d67d435d5e37f80c1252f28feef6dfda2cea894a1d5e57ba3"
+    },
+    {
+      "path": "16/rewrites/condition_09.pdf",
+      "size_bytes": 5583926,
+      "sha256": "31f48f8e4656d76a2ee5ed4d1fe3d7ed5f9b8b3b87d3dde32552b740b003f0f6"
+    },
+    {
+      "path": "16/rewrites/condition_10.pdf",
+      "size_bytes": 5599616,
+      "sha256": "07cc265b315105ec81e3f91c58a1b04bf32868af3c3568d5ae7229bc34f36b23"
+    },
+    {
+      "path": "16/rewrites/condition_11.pdf",
+      "size_bytes": 5584149,
+      "sha256": "366f44f8ea5f8f7743c8d8b0d60d71bd16ab9a4713286c5d327ec6d0c6bcb49b"
+    },
+    {
+      "path": "16/rewrites/condition_12.pdf",
+      "size_bytes": 5624329,
+      "sha256": "7065d7da1b040a07d2b18dd1d12efcfc736c4d14f7ae3ed98f6cad09e4322fa4"
+    },
+    {
+      "path": "16/rewrites/condition_13.pdf",
+      "size_bytes": 5596082,
+      "sha256": "030ffeba91d3f73589029e222da7226d42f07174430ac05440e299fbee15a608"
+    },
+    {
+      "path": "16/rewrites/condition_14.pdf",
+      "size_bytes": 5607813,
+      "sha256": "470b359838da0c1f6972fac0413fd52455ed501006dab4f5db66c9e9249d3ce8"
+    },
+    {
+      "path": "16/rewrites/condition_15.pdf",
+      "size_bytes": 5599817,
+      "sha256": "9c5c460243bc0a2cd55ba3efdf4d97ff5682a1e26474f4c333bf8ad3e7cff703"
+    },
+    {
+      "path": "16/rewrites/condition_16.pdf",
+      "size_bytes": 5604166,
+      "sha256": "86723e9b8fea6e4d17cd127e537d81b4fc6cce6f0cb442278ca42fcef5f5cc1e"
+    },
+    {
+      "path": "16/rewrites/condition_17.pdf",
+      "size_bytes": 5595080,
+      "sha256": "91960803bc26a3e10a3b95a87373d5681c78d979509ecb41674c5794a3e3bc65"
+    },
+    {
+      "path": "16/rewrites/condition_18.pdf",
+      "size_bytes": 5599952,
+      "sha256": "7356bb2c6c101bf5edaf0a97c06d9ff5a3f4c8834935585d4e2c2e5bddef8219"
+    },
+    {
+      "path": "16/rewrites/condition_19.pdf",
+      "size_bytes": 5587549,
+      "sha256": "1e85187d2769ed2901f95123c2b65f7678509e6ebcf353d380acee9646fbc89c"
+    },
+    {
+      "path": "16/rewrites/condition_20.pdf",
+      "size_bytes": 5588669,
+      "sha256": "da723bf492888a0d5f33a82bf151c6a7856cf8956a4a95d4cd93450ea7f1ce44"
+    },
+    {
+      "path": "17/original.pdf",
+      "size_bytes": 1393322,
+      "sha256": "8e575502b6cba918f6e06cba313b9295e54f6e82c02ea3f8272409a228740da9"
+    },
+    {
+      "path": "17/rewrites/condition_01.pdf",
+      "size_bytes": 1387140,
+      "sha256": "7ea775cf2cd92bb533d54fbcb68c67abedfe197f3110b1290bb158b5126e35a1"
+    },
+    {
+      "path": "17/rewrites/condition_02.pdf",
+      "size_bytes": 1392219,
+      "sha256": "2ce2d812fec157d892ef19bbe7fab8bca197ef9153fde6b0555f821fee45113b"
+    },
+    {
+      "path": "17/rewrites/condition_03.pdf",
+      "size_bytes": 1395294,
+      "sha256": "c473e012af25371bd5b37264c8f2e0d52c2b0123a5050cb0f552107c79c331e4"
+    },
+    {
+      "path": "17/rewrites/condition_04.pdf",
+      "size_bytes": 1403504,
+      "sha256": "fb2dcb5c03e11ecb00a60f187055b1d4d3778fb895831a1ef073914a2ee7ad9f"
+    },
+    {
+      "path": "17/rewrites/condition_05.pdf",
+      "size_bytes": 1395022,
+      "sha256": "74c25a6a6d89a175e06dbc2711c73214f5c848e87bbcbc997c484bde852e8339"
+    },
+    {
+      "path": "17/rewrites/condition_06.pdf",
+      "size_bytes": 1408342,
+      "sha256": "346c662e7b8075673ed585cd4562d70ba1645efbf746b6a26aa7e0975aad296a"
+    },
+    {
+      "path": "17/rewrites/condition_07.pdf",
+      "size_bytes": 1395017,
+      "sha256": "b0900da6becca1a9e073ccea51ff43af5db635e942fdd622d3f70ee00fed87fd"
+    },
+    {
+      "path": "17/rewrites/condition_08.pdf",
+      "size_bytes": 1410388,
+      "sha256": "f5a7cb0de7991ad81a5f1fdea83819aad50b806328d5900daced83b3c4e2f4d2"
+    },
+    {
+      "path": "17/rewrites/condition_09.pdf",
+      "size_bytes": 1392013,
+      "sha256": "1f743c57c82d6af1df6da28e727d182be7f4f58a240d930ad587160beb3233ce"
+    },
+    {
+      "path": "17/rewrites/condition_10.pdf",
+      "size_bytes": 1396564,
+      "sha256": "fa6be7b93cb3794d360c86ffaf4a1fa1996b47f1e36cada390de1c705aa7774d"
+    },
+    {
+      "path": "17/rewrites/condition_11.pdf",
+      "size_bytes": 1391099,
+      "sha256": "3be3596d7b899a38f7056ff7e60068cbb7bc50e93f71b8f2abda6ba943103989"
+    },
+    {
+      "path": "17/rewrites/condition_12.pdf",
+      "size_bytes": 1405816,
+      "sha256": "cd3b6b0013bb95592ea697d6314ec1de5fac21fb5563d2861d381f33f4851799"
+    },
+    {
+      "path": "17/rewrites/condition_13.pdf",
+      "size_bytes": 1394183,
+      "sha256": "8715f85bdcd5880af1bee70c3cdedfe6509fcf4461c9d0b6dbea793473aebac6"
+    },
+    {
+      "path": "17/rewrites/condition_14.pdf",
+      "size_bytes": 1399720,
+      "sha256": "ea1a17f2f795c3cbfad931ef9a3b9dd94850b84d8dc4f10c9abc86f6398edd1c"
+    },
+    {
+      "path": "17/rewrites/condition_15.pdf",
+      "size_bytes": 1394853,
+      "sha256": "3df686583e215ef236ffc7e12384fbab84e978e6575de219f03814fc1821d172"
+    },
+    {
+      "path": "17/rewrites/condition_16.pdf",
+      "size_bytes": 1407446,
+      "sha256": "bb91d9173cae4e5bf3056f7414405421d4089e02c1c2ae8aa96ab22fbc09267b"
+    },
+    {
+      "path": "17/rewrites/condition_17.pdf",
+      "size_bytes": 1389711,
+      "sha256": "d65f524dff0e7ae1b2656d0bb02b214b6414fcb4e302cb289358bc9de20fd8ed"
+    },
+    {
+      "path": "17/rewrites/condition_18.pdf",
+      "size_bytes": 1399215,
+      "sha256": "a5e91810765ac7f9446c8a4ce11083a2d991bd8535432dc8767a3812e2dbfb13"
+    },
+    {
+      "path": "17/rewrites/condition_19.pdf",
+      "size_bytes": 1390224,
+      "sha256": "d7d6b4c65fab644373f15f433e5730148a4da36ee6139d78e0a1a74507199291"
+    },
+    {
+      "path": "17/rewrites/condition_20.pdf",
+      "size_bytes": 1395597,
+      "sha256": "b5064fba2e65bf1e989d0bbe7dece99cb118b6ae2a8cb64795cb8e37b87109c3"
+    },
+    {
+      "path": "18/original.pdf",
+      "size_bytes": 4296112,
+      "sha256": "7c5575d83e1c72c051563877158990afd3aae22970df799d056259d1ac17cbe2"
+    },
+    {
+      "path": "18/rewrites/condition_01.pdf",
+      "size_bytes": 4060994,
+      "sha256": "ec2cfbf0c66c12a8f1f2a930d5c67d20e4c6a05dbe7b7b70ff706fe5929ae5ca"
+    },
+    {
+      "path": "18/rewrites/condition_02.pdf",
+      "size_bytes": 4149021,
+      "sha256": "dc740589980b8a4f616766060dee53b140139d40aa0ebd8d5a9d0b4e4ea7cc98"
+    },
+    {
+      "path": "18/rewrites/condition_03.pdf",
+      "size_bytes": 4297543,
+      "sha256": "f1a726ccc675b0f30fa8969980c8ec19b0e3b7464531d8e6a7982769ce73a13a"
+    },
+    {
+      "path": "18/rewrites/condition_04.pdf",
+      "size_bytes": 4473348,
+      "sha256": "f8cc221951e8f48d0812333c28342ffddca9d06a4e3a878c7a65f002ea950696"
+    },
+    {
+      "path": "18/rewrites/condition_05.pdf",
+      "size_bytes": 4340632,
+      "sha256": "0c20a810ae9bc277be72d6e53f0b7315f63a7efb2cf11ad0e6614520dee04f2f"
+    },
+    {
+      "path": "18/rewrites/condition_06.pdf",
+      "size_bytes": 4499735,
+      "sha256": "b65a35e82b2f09d76782de878d29465fdfed98e51f4f7e629c30f7da1a32b43b"
+    },
+    {
+      "path": "18/rewrites/condition_07.pdf",
+      "size_bytes": 4283038,
+      "sha256": "ab6bad512a63ed8e41ec0bb7628a792df5b516ce24603223a14eb04e1853fa2e"
+    },
+    {
+      "path": "18/rewrites/condition_08.pdf",
+      "size_bytes": 4583676,
+      "sha256": "9a377b35690f7ae30c9a93ea97801972400c480559a5e712c39aaa99319e2698"
+    },
+    {
+      "path": "18/rewrites/condition_09.pdf",
+      "size_bytes": 4349738,
+      "sha256": "5d3a7759033a243f7cd4c238bd6ce8a4e4a676ec0f717b4f37aefc42018aef56"
+    },
+    {
+      "path": "18/rewrites/condition_10.pdf",
+      "size_bytes": 4527326,
+      "sha256": "cb86fa45bd3c413e9ce33b8717974bbf132c3f0f02553aef4e1bdb9e6ddb9369"
+    },
+    {
+      "path": "18/rewrites/condition_11.pdf",
+      "size_bytes": 4140705,
+      "sha256": "5d05dd6545dd9731f210160ea16b070f8185b678bd87a93acbe45530d14c794c"
+    },
+    {
+      "path": "18/rewrites/condition_12.pdf",
+      "size_bytes": 4707507,
+      "sha256": "491766f86c64f3107610bbe7136ce0c51ecf11062956a7a909f2274005b186a0"
+    },
+    {
+      "path": "18/rewrites/condition_13.pdf",
+      "size_bytes": 4355398,
+      "sha256": "cae55658498ee47074a401cbaeb5c3a14c9e7257b05935e70522449862812682"
+    },
+    {
+      "path": "18/rewrites/condition_14.pdf",
+      "size_bytes": 4549979,
+      "sha256": "c82b82a15c5e41f2f3e7f3e4588ffa52505d9f1841fe3f7927bb480857224e0b"
+    },
+    {
+      "path": "18/rewrites/condition_15.pdf",
+      "size_bytes": 4325328,
+      "sha256": "ca604417d72c529e224af0c22a418ce89881d02efc3e5e57e77c32fec901bf72"
+    },
+    {
+      "path": "18/rewrites/condition_16.pdf",
+      "size_bytes": 4823269,
+      "sha256": "77c96dedf4268ec9d9dba8178e3d75b54a5dac0842014b9cfc46b34570ecc875"
+    },
+    {
+      "path": "18/rewrites/condition_17.pdf",
+      "size_bytes": 4303722,
+      "sha256": "cdce072d4218db47822259f1e442dd90c8f57b2d8dbdae870950bf1f8c649547"
+    },
+    {
+      "path": "18/rewrites/condition_18.pdf",
+      "size_bytes": 4534311,
+      "sha256": "6a655c1cfca53a7d407f4161d9f4cbb5b23ae24297bdcbc8a57e31304fcac7c4"
+    },
+    {
+      "path": "18/rewrites/condition_19.pdf",
+      "size_bytes": 4233399,
+      "sha256": "9fb2df70b40119747ee1ed6734de60ec794461f32c63344f0e31d53302cc2e09"
+    },
+    {
+      "path": "18/rewrites/condition_20.pdf",
+      "size_bytes": 4257819,
+      "sha256": "6d9597ffb5fdbb1e44f9eb89ea1f5c52ab37fbb0e86cca163c930e328b37d13a"
+    },
+    {
+      "path": "19/original.pdf",
+      "size_bytes": 506207,
+      "sha256": "073f9144c291d345486bca37b2e56078384d0581ebd5d8243e906a74412ffc07"
+    },
+    {
+      "path": "19/rewrites/condition_01.pdf",
+      "size_bytes": 503209,
+      "sha256": "44b2bbf3a4d31840f9702329abc855309e10bd1278b8b88b9224b45d7f478195"
+    },
+    {
+      "path": "19/rewrites/condition_02.pdf",
+      "size_bytes": 506808,
+      "sha256": "b312099a4abd7e77fa6b404fd2b986ed458d97603e532c6d51fc80cf29431af9"
+    },
+    {
+      "path": "19/rewrites/condition_03.pdf",
+      "size_bytes": 509359,
+      "sha256": "a835d657537cf65da369e7469b02a3cbd5fda1ea6b9b1f6f8e7357a3461832d3"
+    },
+    {
+      "path": "19/rewrites/condition_04.pdf",
+      "size_bytes": 515518,
+      "sha256": "68ca604a70c018fbb7d9acc4ab8274ac2c3c27abe770f72377704d12eb2b0ee3"
+    },
+    {
+      "path": "19/rewrites/condition_05.pdf",
+      "size_bytes": 508359,
+      "sha256": "4f46b02d6aa1aaeb6a8d78b4db5bafe0f4602caaff451bc51e1fffc5d3b4a4c4"
+    },
+    {
+      "path": "19/rewrites/condition_06.pdf",
+      "size_bytes": 518536,
+      "sha256": "99bf520b09360cd624f7fefe1deff07922fa71231451d568a9c924548aad8ab1"
+    },
+    {
+      "path": "19/rewrites/condition_07.pdf",
+      "size_bytes": 508629,
+      "sha256": "80b5f05c87f84e4c1e9149cb0f24a5aa960d6279dae3a9f35cad42bc3093dbb2"
+    },
+    {
+      "path": "19/rewrites/condition_08.pdf",
+      "size_bytes": 522539,
+      "sha256": "3aa431122a10156f4e928d1270bbbe2f67f6d8166e7572fcd6ffd0eb094dc187"
+    },
+    {
+      "path": "19/rewrites/condition_09.pdf",
+      "size_bytes": 500483,
+      "sha256": "e37050d93dad006af1e9eda348e6332a2f10503b938ae6be143cb73565e85d94"
+    },
+    {
+      "path": "19/rewrites/condition_10.pdf",
+      "size_bytes": 510609,
+      "sha256": "8fc57710cc8f7426a0464d3e576605536d604df26183fb9e57587141aeaf2406"
+    },
+    {
+      "path": "19/rewrites/condition_11.pdf",
+      "size_bytes": 506529,
+      "sha256": "8dd24f542bbbe65195d099093095f4f7f73bedcea65d34cf370b9fc0d3c5abc8"
+    },
+    {
+      "path": "19/rewrites/condition_12.pdf",
+      "size_bytes": 513297,
+      "sha256": "2891aadda0cdbe78ae4c3382573c9db55d606767212ee0cc035eabc262ca13fd"
+    },
+    {
+      "path": "19/rewrites/condition_13.pdf",
+      "size_bytes": 506819,
+      "sha256": "a0c7a24eef0ed7dc2a5062d976ac63597a25f48710bc162812a7f47363c43c25"
+    },
+    {
+      "path": "19/rewrites/condition_14.pdf",
+      "size_bytes": 509319,
+      "sha256": "10e078a5c3a4cdd5cfa32509f23281ebba4dec13d43813ea76351f91c0333d89"
+    },
+    {
+      "path": "19/rewrites/condition_15.pdf",
+      "size_bytes": 506818,
+      "sha256": "cfa29f7e03dda87828314eec8a49b9fbf61afb96ad21ccc231f1455e9c166826"
+    },
+    {
+      "path": "19/rewrites/condition_16.pdf",
+      "size_bytes": 518885,
+      "sha256": "9b2bc9de0d9a57f87aab8181bd74e52459aef5de515f6801c72ece853f4abbea"
+    },
+    {
+      "path": "19/rewrites/condition_17.pdf",
+      "size_bytes": 504327,
+      "sha256": "5114d3131cb63fc37bc9fd2b51e386d12aa47e73cd45728c098ce4a296ca5282"
+    },
+    {
+      "path": "19/rewrites/condition_18.pdf",
+      "size_bytes": 511490,
+      "sha256": "8ce61acb16720a21e067a12873ca35d5dbabd9dc10651ff42f286ae69451c755"
+    },
+    {
+      "path": "19/rewrites/condition_19.pdf",
+      "size_bytes": 503056,
+      "sha256": "b8d6b4c99cbfc4a27fbb3820c33cd0f95dddcf53178de20dc2b70704d12b6caa"
+    },
+    {
+      "path": "19/rewrites/condition_20.pdf",
+      "size_bytes": 506973,
+      "sha256": "0de1c0a740fc9096e31714cbc2507ca99e4892fd6e1f751624f23bc46b4ccee1"
+    },
+    {
+      "path": "2/original.pdf",
+      "size_bytes": 7234631,
+      "sha256": "cad302b2cae3c03990d28b6fc33828ccb18dbba961a43db42f07dea57c2d3900"
+    },
+    {
+      "path": "2/rewrites/condition_01.pdf",
+      "size_bytes": 6883667,
+      "sha256": "5ba1b7ddb141287f7159667a96917af91e07f4374dc22838303c297c28be7cc7"
+    },
+    {
+      "path": "2/rewrites/condition_02.pdf",
+      "size_bytes": 7056218,
+      "sha256": "42cd3021022d58c693c3ef5345b9869771ef3dee8c24d13a77037da81468f841"
+    },
+    {
+      "path": "2/rewrites/condition_03.pdf",
+      "size_bytes": 7256235,
+      "sha256": "e5a3ee91d2cf8dd3d18ab1f8c72e7424cab2d0b50da7531845442b8de74a9ea4"
+    },
+    {
+      "path": "2/rewrites/condition_04.pdf",
+      "size_bytes": 7389230,
+      "sha256": "fdb749e3a9f0d1e288fdf866328b4e3656e63e47406e512ef1b239e5661af1a3"
+    },
+    {
+      "path": "2/rewrites/condition_05.pdf",
+      "size_bytes": 7273162,
+      "sha256": "ad5b82710f959a1d52f0d83d49ff73b62793de6c7206cedd6690618b3e48dedb"
+    },
+    {
+      "path": "2/rewrites/condition_06.pdf",
+      "size_bytes": 7462993,
+      "sha256": "88bd7ad5f2b52827ae0e33ed8b50d8d22bb7fb81c0a40b23875c19b9edfa3b27"
+    },
+    {
+      "path": "2/rewrites/condition_07.pdf",
+      "size_bytes": 7294333,
+      "sha256": "1ce0f7ca68645f5dc23d4d604eb535cdbce99076aff55ef2124dd551fb2523f0"
+    },
+    {
+      "path": "2/rewrites/condition_08.pdf",
+      "size_bytes": 7493498,
+      "sha256": "6505179566241021e69d0017b8b961e1a76fa7e7f774556006801eb21960eee2"
+    },
+    {
+      "path": "2/rewrites/condition_09.pdf",
+      "size_bytes": 6801373,
+      "sha256": "ca431d7ab07ef03ea917e6a511e3bc249fb3d9f485699e8536dcd40f60b51b68"
+    },
+    {
+      "path": "2/rewrites/condition_10.pdf",
+      "size_bytes": 7152096,
+      "sha256": "1cc5807c491e9987e939634fce015848de8872bd812cfce63dcf18438f46c332"
+    },
+    {
+      "path": "2/rewrites/condition_11.pdf",
+      "size_bytes": 7072668,
+      "sha256": "745280433feb895a8611f71974b33c9856357528af6deed447a220250c62d4d0"
+    },
+    {
+      "path": "2/rewrites/condition_12.pdf",
+      "size_bytes": 7475802,
+      "sha256": "171a77f0f35a85092e77a5305378f8733fec2139f8289cf44afc972a8c407eda"
+    },
+    {
+      "path": "2/rewrites/condition_13.pdf",
+      "size_bytes": 7310939,
+      "sha256": "8ec67130dac60bd14afa21ee57eaf7b13a5c4794a4407c0dea84823a97de2579"
+    },
+    {
+      "path": "2/rewrites/condition_14.pdf",
+      "size_bytes": 7614273,
+      "sha256": "d7cd1e08a830a3ad321d52e809f4a857c172e512b672898afb79574a9be20341"
+    },
+    {
+      "path": "2/rewrites/condition_15.pdf",
+      "size_bytes": 7284669,
+      "sha256": "1a724845ae210c0913b1e9b571b320a05cab49d6ea171b2fa2ec71c48a5a3c72"
+    },
+    {
+      "path": "2/rewrites/condition_16.pdf",
+      "size_bytes": 7749227,
+      "sha256": "54066161f982c428158fa36e9170b6eaad448ee14a36ff0d6d79bacabac04206"
+    },
+    {
+      "path": "2/rewrites/condition_17.pdf",
+      "size_bytes": 7122322,
+      "sha256": "0e51e3d3ca0690e5226739dced52adb8f6b21a53aba50d373cbf6ca3deec2bd6"
+    },
+    {
+      "path": "2/rewrites/condition_18.pdf",
+      "size_bytes": 7570161,
+      "sha256": "7d29520f420b0e66039618a64278806405c45de5ddace0882f21f017d78c1179"
+    },
+    {
+      "path": "2/rewrites/condition_19.pdf",
+      "size_bytes": 7211888,
+      "sha256": "00bf134846059fecf1625af16ec916c0878f752c1e8bf47d401668a64cdf7c4a"
+    },
+    {
+      "path": "2/rewrites/condition_20.pdf",
+      "size_bytes": 7234318,
+      "sha256": "64c60d921e008f2cf87874de65f990a6e7c356cc52adc322d9c47645bcc66cb8"
+    },
+    {
+      "path": "20/original.pdf",
+      "size_bytes": 1519451,
+      "sha256": "9702f5084a8b17425fa2cb0cc3291c5268775a636ad11d742002807a4518542c"
+    },
+    {
+      "path": "20/rewrites/condition_01.pdf",
+      "size_bytes": 1513187,
+      "sha256": "60ebc574c57915774b5b0eee3cb8a46b419bf418b52321d95c9aef095eedfa5f"
+    },
+    {
+      "path": "20/rewrites/condition_02.pdf",
+      "size_bytes": 1519782,
+      "sha256": "ef1537f5fcb956117ecc7a2bfc1b354b49382accecdfa1efd6dcb19a730177bb"
+    },
+    {
+      "path": "20/rewrites/condition_03.pdf",
+      "size_bytes": 1525047,
+      "sha256": "0f086bba7680192fee3f42906af665120a82f7a8dde7b636af4637e686f3a87a"
+    },
+    {
+      "path": "20/rewrites/condition_04.pdf",
+      "size_bytes": 1527812,
+      "sha256": "10c66d8bb65459ff81013cd6821b74027460f52425c12d8ef4790c166312e2fc"
+    },
+    {
+      "path": "20/rewrites/condition_05.pdf",
+      "size_bytes": 1525431,
+      "sha256": "922d144a3c1f9043484453a3217df48b2659e21f14a036366155cc09514ad9b7"
+    },
+    {
+      "path": "20/rewrites/condition_06.pdf",
+      "size_bytes": 1531454,
+      "sha256": "f15b54b76cefb10ad26d21a5ac47b23d1d2ae498e3bcdfe6ce1addecb6f091e8"
+    },
+    {
+      "path": "20/rewrites/condition_07.pdf",
+      "size_bytes": 1524433,
+      "sha256": "755134aeda749d16ffab23b9b54b80a4a22bd59875b54a4ae1b974f51b51662e"
+    },
+    {
+      "path": "20/rewrites/condition_08.pdf",
+      "size_bytes": 1532835,
+      "sha256": "84818f0f695f4424b4dd5f8945f92cdfbf8535356687fea22b876e6fa4be18b7"
+    },
+    {
+      "path": "20/rewrites/condition_09.pdf",
+      "size_bytes": 1515408,
+      "sha256": "6f34d2db23b6b510009c9dadfe2aedbd2117bbe3398fa649f9d964f2ad89c850"
+    },
+    {
+      "path": "20/rewrites/condition_10.pdf",
+      "size_bytes": 1526139,
+      "sha256": "2a72f6f33848b7ba27d4a421b7cf793fad0f13f7f590ec246173774e69dda5e6"
+    },
+    {
+      "path": "20/rewrites/condition_11.pdf",
+      "size_bytes": 1516798,
+      "sha256": "10fb26849c16ea010477dc75d7d50ffdce12fff41f03a26f6551a8377bbbd3f7"
+    },
+    {
+      "path": "20/rewrites/condition_12.pdf",
+      "size_bytes": 1524112,
+      "sha256": "4fcc5cbbfec56670bd90f4fb041f2109f15be018484d5930c3234a649f67ad8b"
+    },
+    {
+      "path": "20/rewrites/condition_13.pdf",
+      "size_bytes": 1520412,
+      "sha256": "305e218c5e6480ea70efc83411705d36abecdf487906dc73093f2a2aaa95e691"
+    },
+    {
+      "path": "20/rewrites/condition_14.pdf",
+      "size_bytes": 1525736,
+      "sha256": "4d598ce2ad54a410bf5a1c3900f80833dcc3d8ae0b100e178de5568b519e4124"
+    },
+    {
+      "path": "20/rewrites/condition_15.pdf",
+      "size_bytes": 1525675,
+      "sha256": "a4308fb60469eccd6b12c1ff846f70341743af0e96cbf4391ccaf59b24f793e8"
+    },
+    {
+      "path": "20/rewrites/condition_16.pdf",
+      "size_bytes": 1535404,
+      "sha256": "caee42e59e3a7cf88ce7d43942232a31188b9830bb0caedeb27becf19ceb5bbd"
+    },
+    {
+      "path": "20/rewrites/condition_17.pdf",
+      "size_bytes": 1516977,
+      "sha256": "07a99a3c56827c1347e82fcaa50d277a3a88d6477c5e3df8342a38bf6676114c"
+    },
+    {
+      "path": "20/rewrites/condition_18.pdf",
+      "size_bytes": 1526466,
+      "sha256": "6995692761d26910a31ae18c2496ae28904f8137403fba9174c64d5613698aa3"
+    },
+    {
+      "path": "20/rewrites/condition_19.pdf",
+      "size_bytes": 1516203,
+      "sha256": "9e76c730b548797cc59e0652309d1b61aaf4e71cd4288b0b4a07b9ab30ea2b6d"
+    },
+    {
+      "path": "20/rewrites/condition_20.pdf",
+      "size_bytes": 1511923,
+      "sha256": "55389470e8f754ab16a712e5ebc14f80d6dca78579d4813e6162e5706e7599b8"
+    },
+    {
+      "path": "21/original.pdf",
+      "size_bytes": 457355,
+      "sha256": "ed3e24492af0cfd3e276c2e7d3a5ae6a40c5784bf2d8fea9ac8fc7d573e89e24"
+    },
+    {
+      "path": "21/rewrites/condition_01.pdf",
+      "size_bytes": 454759,
+      "sha256": "7610da3edc3ef366382857dc3d713c19713c82ea620682cdbe93e666ac8206d2"
+    },
+    {
+      "path": "21/rewrites/condition_02.pdf",
+      "size_bytes": 456922,
+      "sha256": "05aa7ba8154e8b29f46972c8635416ebde7885f01b5a549c2b6c9f56841fe141"
+    },
+    {
+      "path": "21/rewrites/condition_03.pdf",
+      "size_bytes": 458131,
+      "sha256": "3e415ea4af91dbb1c3ece6022d1b66ee44f6357a07ea02a00816d83374d81be5"
+    },
+    {
+      "path": "21/rewrites/condition_04.pdf",
+      "size_bytes": 464709,
+      "sha256": "a1bc1778e27adbfb980c6a858623074028fbf2e5a58e178a7064466a81718144"
+    },
+    {
+      "path": "21/rewrites/condition_05.pdf",
+      "size_bytes": 458316,
+      "sha256": "96c1f4c7122df8c60e4ac41e8e53e7854cc0e4dcf60fb52f2458b1aa18b9882d"
+    },
+    {
+      "path": "21/rewrites/condition_06.pdf",
+      "size_bytes": 467628,
+      "sha256": "9c1377e003e0756dd797e327c93fa1c1e252a81956c4248a776c2d725e4bb17a"
+    },
+    {
+      "path": "21/rewrites/condition_07.pdf",
+      "size_bytes": 459508,
+      "sha256": "f4099c25d3027106e0b54254ec218dfc063ef480ac29c0f94c515890637f849a"
+    },
+    {
+      "path": "21/rewrites/condition_08.pdf",
+      "size_bytes": 470833,
+      "sha256": "2fbaf0880d9110faafd9f36fd434bb82d98093b8bca30d84b280ac26fb1b5703"
+    },
+    {
+      "path": "21/rewrites/condition_09.pdf",
+      "size_bytes": 455909,
+      "sha256": "5aeae222d2b04016a07c873300192a706c30df659794c81f54e103f9ad31f696"
+    },
+    {
+      "path": "21/rewrites/condition_10.pdf",
+      "size_bytes": 462552,
+      "sha256": "27e846b99f4a7c985acb0aae7fa11d883691ca7cd8904520ef699a8a86626245"
+    },
+    {
+      "path": "21/rewrites/condition_11.pdf",
+      "size_bytes": 456724,
+      "sha256": "e914fff1dbb880af7dde3ee08bf8b9e7db954030569a5307e9daaac28acf35a2"
+    },
+    {
+      "path": "21/rewrites/condition_12.pdf",
+      "size_bytes": 462209,
+      "sha256": "01eb7fb5ffc76e00cfcbd517d9327e2becc39cc80d09cf406eb5379b65cb8122"
+    },
+    {
+      "path": "21/rewrites/condition_13.pdf",
+      "size_bytes": 458838,
+      "sha256": "9777c3877ca8891881a1094c156b9a2a3db7b0602c39152c7f0693029ef64e72"
+    },
+    {
+      "path": "21/rewrites/condition_14.pdf",
+      "size_bytes": 461182,
+      "sha256": "f32c6dc76c542eee0d0bcee1f403f0da19bf6ec882d669f01bb226b95ffaaa15"
+    },
+    {
+      "path": "21/rewrites/condition_15.pdf",
+      "size_bytes": 459045,
+      "sha256": "bdf96447acdd615b2cbee207e4d4d33bb8dc6886ada8a17bcd50478485c67cb8"
+    },
+    {
+      "path": "21/rewrites/condition_16.pdf",
+      "size_bytes": 467600,
+      "sha256": "63441aa92a54028f23b5de36139c1fc2fa7c157fc2b8f76478226f3e2ac79fe0"
+    },
+    {
+      "path": "21/rewrites/condition_17.pdf",
+      "size_bytes": 457335,
+      "sha256": "ac6d82fb312fa7f364d03b5c223f7bc90b53494d2662b40877b5e95c44e52d02"
+    },
+    {
+      "path": "21/rewrites/condition_18.pdf",
+      "size_bytes": 462103,
+      "sha256": "13b6637e21d4eacff13614a8cc3177c024ba75379f37b1cf0831e7a1078e8c47"
+    },
+    {
+      "path": "21/rewrites/condition_19.pdf",
+      "size_bytes": 456572,
+      "sha256": "a8b946b6c24ca2425c567fc2ede7eaec39494274397712af9999973d1d134760"
+    },
+    {
+      "path": "21/rewrites/condition_20.pdf",
+      "size_bytes": 457205,
+      "sha256": "1b5af1a8f17a7d6c25be4bc85dfb4e9c628b826c051cc8659d200dae14ab45e7"
+    },
+    {
+      "path": "22/original.pdf",
+      "size_bytes": 6483868,
+      "sha256": "a1028f52c86b3c96edf7c10e8999858d5a6f2282376a9d0081dbfb76f3be5577"
+    },
+    {
+      "path": "22/rewrites/condition_01.pdf",
+      "size_bytes": 6263650,
+      "sha256": "2ba83857aa4c70d4110141ba459a5d84707df8dee2e388be563a5de2d0fa0b54"
+    },
+    {
+      "path": "22/rewrites/condition_02.pdf",
+      "size_bytes": 6380100,
+      "sha256": "0395f19d8c3889ea19b8f49c0859ccb5525a8e258a08b9fb5d519e53e2faf444"
+    },
+    {
+      "path": "22/rewrites/condition_03.pdf",
+      "size_bytes": 6401078,
+      "sha256": "082e08b19991d7221bc3b6ed01c0e042040f6e207332597572d47503e0eca1b0"
+    },
+    {
+      "path": "22/rewrites/condition_04.pdf",
+      "size_bytes": 6538749,
+      "sha256": "0569258c363c06798075509054e9332b27f3563bbb07cbbbb3d66bc52ab429a7"
+    },
+    {
+      "path": "22/rewrites/condition_05.pdf",
+      "size_bytes": 6410929,
+      "sha256": "285c5e2000615861ed85dbde1b37cef38a4a47d3958f9b7ae341a41ac755472b"
+    },
+    {
+      "path": "22/rewrites/condition_06.pdf",
+      "size_bytes": 6734144,
+      "sha256": "d6567d7ec6f3214330046c32272ef1c89e59e4baf3d9e88147de1e452fff79c8"
+    },
+    {
+      "path": "22/rewrites/condition_07.pdf",
+      "size_bytes": 6438136,
+      "sha256": "249402b03a68789fc08b3cef6acbc0160ea93fe896797e30af0f8dfb70d315d6"
+    },
+    {
+      "path": "22/rewrites/condition_08.pdf",
+      "size_bytes": 6760220,
+      "sha256": "cfa62555d0bd9e1e755c0135c19368037a53cf76489e87f3022fd0215554b85d"
+    },
+    {
+      "path": "22/rewrites/condition_09.pdf",
+      "size_bytes": 6274969,
+      "sha256": "72db89fae350345a28debb6a6d26382ee7da49e961fca753c6611a73a1736cc9"
+    },
+    {
+      "path": "22/rewrites/condition_10.pdf",
+      "size_bytes": 6755121,
+      "sha256": "6c1c697ad0d412e1fbca52a5f13c41732cb398eb2e5a2deb2526954eace179b9"
+    },
+    {
+      "path": "22/rewrites/condition_11.pdf",
+      "size_bytes": 6386790,
+      "sha256": "b42eab1fccddc4de4485899da37b232fd6e0543b461c41c17ffcf6a14ddcf425"
+    },
+    {
+      "path": "22/rewrites/condition_12.pdf",
+      "size_bytes": 6807148,
+      "sha256": "e5b7f0a11dd69053ab8b10aae53d57c3ef6d86d05fc89a9825e91adf860dc699"
+    },
+    {
+      "path": "22/rewrites/condition_13.pdf",
+      "size_bytes": 6580431,
+      "sha256": "f628f4c186d2d76ae707e831e97add2e8647aa70ed01bb11a517a5887407329f"
+    },
+    {
+      "path": "22/rewrites/condition_14.pdf",
+      "size_bytes": 6761874,
+      "sha256": "7be9bf32990035557e5384cbf650c8041c1979e0e5dce99ba619d4d979f12ab2"
+    },
+    {
+      "path": "22/rewrites/condition_15.pdf",
+      "size_bytes": 6368872,
+      "sha256": "f8086af5cb81e396229dcc9018ba5f8580252ae33081de97e0ff360127bbaf83"
+    },
+    {
+      "path": "22/rewrites/condition_16.pdf",
+      "size_bytes": 6831500,
+      "sha256": "e65bf502b2e90df2d4473c502b389999fdaf4f7c38d67f3c8427ccc1d07becec"
+    },
+    {
+      "path": "22/rewrites/condition_17.pdf",
+      "size_bytes": 6297231,
+      "sha256": "09c7fecbed379ed9103ea582924956a2fd97e5dce2a8dc939082069a75940a33"
+    },
+    {
+      "path": "22/rewrites/condition_18.pdf",
+      "size_bytes": 6845066,
+      "sha256": "dee370866540cb58422aa3f0c24c33a431afabd43e903bcbd04dd02963fe6c96"
+    },
+    {
+      "path": "22/rewrites/condition_19.pdf",
+      "size_bytes": 6379940,
+      "sha256": "10492a67f2280dbab7db3728fa2c5002f903880d201c53b86ad20fe27fb41611"
+    },
+    {
+      "path": "22/rewrites/condition_20.pdf",
+      "size_bytes": 6488692,
+      "sha256": "1e23e201d629dced2d4335ccd1d8cf4267bdf7fa6d388b51d548d3b779d86b8e"
+    },
+    {
+      "path": "23/original.pdf",
+      "size_bytes": 1384335,
+      "sha256": "fa423b43357ce0cae2327a7d03082d1d016c8013c8632f24ea9935b77f6c17bf"
+    },
+    {
+      "path": "23/rewrites/condition_01.pdf",
+      "size_bytes": 1376840,
+      "sha256": "4382df49f5c0d32280cffe2ef23849f98d9396e6a286285d19ae55f7d1facad9"
+    },
+    {
+      "path": "23/rewrites/condition_02.pdf",
+      "size_bytes": 1382677,
+      "sha256": "19a3f91a80973ddf631db9e72181a08316ca2c876c1bb6e21272d3145131fce5"
+    },
+    {
+      "path": "23/rewrites/condition_03.pdf",
+      "size_bytes": 1388807,
+      "sha256": "7ae31771e634f440cfd4088c28b713c474ed58a339d607de2efca27a6bb30016"
+    },
+    {
+      "path": "23/rewrites/condition_04.pdf",
+      "size_bytes": 1393799,
+      "sha256": "7f7a0d85b45bb8bf11b1957ec786aa89320dae83d7e40299c6a7516a39185492"
+    },
+    {
+      "path": "23/rewrites/condition_05.pdf",
+      "size_bytes": 1389090,
+      "sha256": "e7a4dd439dbdc2e1f425858b528591fd2329ba2045d375e8bbd71d12eb2c971d"
+    },
+    {
+      "path": "23/rewrites/condition_06.pdf",
+      "size_bytes": 1396759,
+      "sha256": "769f2eccb1dd39c990afb7857d6725ed149b23aea1b00042a8b1f1e73eb878bb"
+    },
+    {
+      "path": "23/rewrites/condition_07.pdf",
+      "size_bytes": 1385216,
+      "sha256": "d10a71bbb02d298c3c6c6c73de483874810f8ef2eb367f35f96b73b319c6331d"
+    },
+    {
+      "path": "23/rewrites/condition_08.pdf",
+      "size_bytes": 1405149,
+      "sha256": "2fc64caf0ec21973fe5f9066bc8ae484f411022cd56f0b0c96ba0f06c663b249"
+    },
+    {
+      "path": "23/rewrites/condition_09.pdf",
+      "size_bytes": 1378347,
+      "sha256": "6f246abbc7b375e79b7a55cec426860dc8e1bfc60e64b2f1e42a0bed1e0b40c3"
+    },
+    {
+      "path": "23/rewrites/condition_10.pdf",
+      "size_bytes": 1383696,
+      "sha256": "2fb85aa730b45f8627181e37588d3a81ed66bab27ca4d23ff3f63107a55a84e0"
+    },
+    {
+      "path": "23/rewrites/condition_11.pdf",
+      "size_bytes": 1378285,
+      "sha256": "a42b2f472ff61a0144c99361326a058d06bfd7abc4fc81ddd690fb4330b44f07"
+    },
+    {
+      "path": "23/rewrites/condition_12.pdf",
+      "size_bytes": 1394174,
+      "sha256": "164a49f79bc6cb86550a0e3b64c853d3acd79657147c877452f66145540c7544"
+    },
+    {
+      "path": "23/rewrites/condition_13.pdf",
+      "size_bytes": 1382792,
+      "sha256": "3e8fa8727d27e8478cd134d76a338e9dd7112d760d95e2d06be0832070e415c8"
+    },
+    {
+      "path": "23/rewrites/condition_14.pdf",
+      "size_bytes": 1389539,
+      "sha256": "07c8f4fae8d8ef94b35f326111ce6ed4a6434686c0af8c52e50789496dfc9f69"
+    },
+    {
+      "path": "23/rewrites/condition_15.pdf",
+      "size_bytes": 1389839,
+      "sha256": "ba0839678dcdc144a723f104ff9b5182754ad9bf72953089df1b4bad8e0752ca"
+    },
+    {
+      "path": "23/rewrites/condition_16.pdf",
+      "size_bytes": 1398741,
+      "sha256": "17289495076c048723ca8611653902802df5f13ad58f7b176c70587232115055"
+    },
+    {
+      "path": "23/rewrites/condition_17.pdf",
+      "size_bytes": 1380650,
+      "sha256": "f32b139e4a0b078faf880de3a01c1fba5c19e2f38c2b3025e8117ab71b48731b"
+    },
+    {
+      "path": "23/rewrites/condition_18.pdf",
+      "size_bytes": 1389205,
+      "sha256": "8f540b478d73e8bc905eabdb6d35a80661a212a9383847eaec69d57a5e4135e6"
+    },
+    {
+      "path": "23/rewrites/condition_19.pdf",
+      "size_bytes": 1378640,
+      "sha256": "ea2d41c0d516437f23cf6e041a6562e44fec069ca090b72e3338b6935e01bd55"
+    },
+    {
+      "path": "23/rewrites/condition_20.pdf",
+      "size_bytes": 1381928,
+      "sha256": "77c9f8b525a3c1597b84a4eb59ad9308c6f39af4d8722ff0b1de8a8639c37450"
+    },
+    {
+      "path": "24/original.pdf",
+      "size_bytes": 2460788,
+      "sha256": "b256d1ac2e2c982cb2d005a72456b48f5b5968d7f8fa5f1f1085f8cd98a6a9b3"
+    },
+    {
+      "path": "24/rewrites/condition_01.pdf",
+      "size_bytes": 2455547,
+      "sha256": "cd9b32a82b0370e3f49a54a1d54dbc77600998fa167f15dd3afba8b80e9eb91f"
+    },
+    {
+      "path": "24/rewrites/condition_02.pdf",
+      "size_bytes": 2459829,
+      "sha256": "bd96d4434a3d641c6aa5fae97f36c00b5ef53a78288b3e65f9b5779d66cea6b8"
+    },
+    {
+      "path": "24/rewrites/condition_03.pdf",
+      "size_bytes": 2461465,
+      "sha256": "9f7a8f44e096efee3971c03fafd245cf3047f7a60345602fba8006e71137639f"
+    },
+    {
+      "path": "24/rewrites/condition_04.pdf",
+      "size_bytes": 2467269,
+      "sha256": "bbb0e0e6a4efdaa915fc05b9e59ae0fa76eb3d45d7b452bcb2cb279c3b5cd33f"
+    },
+    {
+      "path": "24/rewrites/condition_05.pdf",
+      "size_bytes": 2461337,
+      "sha256": "31c5730474fb9ed70b7f7ada7c786665fba9692069a173d6038f1c70834ca553"
+    },
+    {
+      "path": "24/rewrites/condition_06.pdf",
+      "size_bytes": 2474699,
+      "sha256": "6d69b922452152e1ff816bb4f807c372ce714843adad19673cb29dc0446d2eec"
+    },
+    {
+      "path": "24/rewrites/condition_07.pdf",
+      "size_bytes": 2461163,
+      "sha256": "f5dd03bdb39e46b7328913c94cd7f196fdace4ae4be193ae2b8bf980a89d100a"
+    },
+    {
+      "path": "24/rewrites/condition_08.pdf",
+      "size_bytes": 2476733,
+      "sha256": "f154e35c1d5267a7139b752bbb6e743838a5b576ded1e88a59f6aed41b87e8e3"
+    },
+    {
+      "path": "24/rewrites/condition_09.pdf",
+      "size_bytes": 2454967,
+      "sha256": "3651421e72d08975ec47759ce76e23c472f8dafedb51dbc775cbb973c712e905"
+    },
+    {
+      "path": "24/rewrites/condition_10.pdf",
+      "size_bytes": 2463729,
+      "sha256": "1f4cad58ef24296178dbc044d0540a22a7cfbad77c3c9cb4c090fd30c9748d5d"
+    },
+    {
+      "path": "24/rewrites/condition_11.pdf",
+      "size_bytes": 2457191,
+      "sha256": "dcbb3079ae41f1c63d80012bc78a4ed336b95bc114943c15e0f675e72b79d4da"
+    },
+    {
+      "path": "24/rewrites/condition_12.pdf",
+      "size_bytes": 2470689,
+      "sha256": "0fb2eb51e6d309bc58a9f556d3d2db62d1fe81f08341d5644441e57ca93667e1"
+    },
+    {
+      "path": "24/rewrites/condition_13.pdf",
+      "size_bytes": 2461640,
+      "sha256": "8b204a3135ed1689afe0020fa33d28a3585dd4272035b0d329a33f9c18d1e63f"
+    },
+    {
+      "path": "24/rewrites/condition_14.pdf",
+      "size_bytes": 2466797,
+      "sha256": "51731a72b0a2d7dff2addecbc88d31b29dccf9fc74584a760391e6bd81275298"
+    },
+    {
+      "path": "24/rewrites/condition_15.pdf",
+      "size_bytes": 2461705,
+      "sha256": "32db1c76df3bdefb46274227c0da103266112782f778c31651d5c6b7a3cf3ee2"
+    },
+    {
+      "path": "24/rewrites/condition_16.pdf",
+      "size_bytes": 2476928,
+      "sha256": "ed54a8a08353d6050e935d726edd294f36938d94bc7807ea6e4aa3c086bca095"
+    },
+    {
+      "path": "24/rewrites/condition_17.pdf",
+      "size_bytes": 2456129,
+      "sha256": "ded96bd9d2834291c43f42eff7f123833fd49533e0f4cf70bc936f448e2a4649"
+    },
+    {
+      "path": "24/rewrites/condition_18.pdf",
+      "size_bytes": 2467713,
+      "sha256": "19e790ffa24a5d69f1b3dcffee1fbf113b5d625dc14801e5200f3f5ecf88f098"
+    },
+    {
+      "path": "24/rewrites/condition_19.pdf",
+      "size_bytes": 2455775,
+      "sha256": "27ecf9b897e675ca11ba7f79834812859ac598b783849ae064d772d25e06606f"
+    },
+    {
+      "path": "24/rewrites/condition_20.pdf",
+      "size_bytes": 2461545,
+      "sha256": "b4c2e547788e9824e2da3f1f897d5c04a86461d052a6ef5cd6116c3822dd4893"
+    },
+    {
+      "path": "25/original.pdf",
+      "size_bytes": 1401471,
+      "sha256": "8ef7e95fdc7a62e86057f8e8bd5019cf81a766db2ea2bd647052ab10b6bec784"
+    },
+    {
+      "path": "25/rewrites/condition_01.pdf",
+      "size_bytes": 1398243,
+      "sha256": "5a10ee4b8910d5982f3672d51fb9c7da0316359af258ce9d2632e357c6c1b291"
+    },
+    {
+      "path": "25/rewrites/condition_02.pdf",
+      "size_bytes": 1401049,
+      "sha256": "6bab090499fbf1905ade101e1344f7a2b6a7e5eac98b3f703cecd0969af659c0"
+    },
+    {
+      "path": "25/rewrites/condition_03.pdf",
+      "size_bytes": 1367556,
+      "sha256": "7404e0ac29e21d41467e3e0d06b06f52966d5c1baf382a653dd64a2f671cb32f"
+    },
+    {
+      "path": "25/rewrites/condition_04.pdf",
+      "size_bytes": 1374852,
+      "sha256": "395a45e105c4ae7dea56a68c6cfd6f2d31adacd81f4aef8fb07797ceaa57ac24"
+    },
+    {
+      "path": "25/rewrites/condition_05.pdf",
+      "size_bytes": 1366924,
+      "sha256": "756aced5b4420ca0e8868cde886d45380620eea9ee07c7271296fa9f9796d2e1"
+    },
+    {
+      "path": "25/rewrites/condition_06.pdf",
+      "size_bytes": 1376145,
+      "sha256": "fe49a77569a2c0c95e7dfb8c4b94c2732e87b8dae0fa82f1fd0c992135ac25c7"
+    },
+    {
+      "path": "25/rewrites/condition_07.pdf",
+      "size_bytes": 1367134,
+      "sha256": "51f6d0e671f228f932f643d43a045917b42e254104ec38f19402aaa55b7afd2a"
+    },
+    {
+      "path": "25/rewrites/condition_08.pdf",
+      "size_bytes": 1377129,
+      "sha256": "e6c419cfb7d2f18bc78a5e125080b9fb095e1433e7d4e14938e59b051fbcbafb"
+    },
+    {
+      "path": "25/rewrites/condition_09.pdf",
+      "size_bytes": 1398330,
+      "sha256": "1b3e61f18ff00f254251136297e06ede3d08f287a3cb8c12f2a44666ed8b632d"
+    },
+    {
+      "path": "25/rewrites/condition_10.pdf",
+      "size_bytes": 1405063,
+      "sha256": "3343675466dcaeeaefe3c84869dca4bfe40661dd5dfb4682115979bafeeee8c5"
+    },
+    {
+      "path": "25/rewrites/condition_11.pdf",
+      "size_bytes": 1401568,
+      "sha256": "dc6cc21adffe2e4e76114cc1caad6968a9a9f9a34f4b30d6a0fa2b901307c8aa"
+    },
+    {
+      "path": "25/rewrites/condition_12.pdf",
+      "size_bytes": 1408128,
+      "sha256": "4804542867ec0f48b97300b4aac899232f22629ae1b808c05e8fead527a9b14a"
+    },
+    {
+      "path": "25/rewrites/condition_13.pdf",
+      "size_bytes": 1399910,
+      "sha256": "84b0bc8899e6fda64453e29d3e9ba26f7e558f6894bc27d43e1b07edbdbb81b8"
+    },
+    {
+      "path": "25/rewrites/condition_14.pdf",
+      "size_bytes": 1404395,
+      "sha256": "30f4ef1c1206ca58819b95e7047f0d6acd039657b7627d363e294265cb12ae76"
+    },
+    {
+      "path": "25/rewrites/condition_15.pdf",
+      "size_bytes": 1366225,
+      "sha256": "245075d71ca696bd0b5a760802af835e65ec0ed9a5fbdf7f29c0bd80eb7537fe"
+    },
+    {
+      "path": "25/rewrites/condition_16.pdf",
+      "size_bytes": 1380861,
+      "sha256": "9b11f5ac53efa287063451d9077d88280d57e6492ee0f612e99a128e7be138e6"
+    },
+    {
+      "path": "25/rewrites/condition_17.pdf",
+      "size_bytes": 1400875,
+      "sha256": "210ccd34d878330494f16b0d621596234c57563ce6a9d30da41920b6fe339e3e"
+    },
+    {
+      "path": "25/rewrites/condition_18.pdf",
+      "size_bytes": 1403134,
+      "sha256": "8b79e9310d4cde0de3933ee4f54f76279e32a26fddfab33ba98bf39039a4a4bb"
+    },
+    {
+      "path": "25/rewrites/condition_19.pdf",
+      "size_bytes": 1398811,
+      "sha256": "7fe2bef6e22b7c92593a02ba3e8c7706ff25a6f74e6bb7db49d394f736da822f"
+    },
+    {
+      "path": "25/rewrites/condition_20.pdf",
+      "size_bytes": 1403240,
+      "sha256": "eeb3b25c1bd5b02142a7086cc3e09f02986d918d3234a1cb59b6d8ce9a8fcfc1"
+    },
+    {
+      "path": "26/original.pdf",
+      "size_bytes": 11321703,
+      "sha256": "c69d233d670884ae346994a03c616884d3c9cf9ec46d7ddbacd63f70c0834a7e"
+    },
+    {
+      "path": "26/rewrites/condition_01.pdf",
+      "size_bytes": 11307125,
+      "sha256": "0a0bd2017265871703dc5be0d3c0b20d27f2393515f355fc7862a6d7dbbd61bf"
+    },
+    {
+      "path": "26/rewrites/condition_02.pdf",
+      "size_bytes": 11319180,
+      "sha256": "cbaa4412c21ca47b4cb1343e9a08ee69b994196d8f03a6730c4300e8e00d18e6"
+    },
+    {
+      "path": "26/rewrites/condition_03.pdf",
+      "size_bytes": 11330302,
+      "sha256": "6c419f44a367d7484b64b3caff9e17aa8a8acda5234959e3e1d21a5e88b043d6"
+    },
+    {
+      "path": "26/rewrites/condition_04.pdf",
+      "size_bytes": 11344588,
+      "sha256": "49558e6c8c5e07e6532808194434ce969e822788c347d2f874a90878e8b2811c"
+    },
+    {
+      "path": "26/rewrites/condition_05.pdf",
+      "size_bytes": 11331030,
+      "sha256": "70e509e9f1bd811e3775399e3a2c864c3867d22942161041a923d6aec502dda9"
+    },
+    {
+      "path": "26/rewrites/condition_06.pdf",
+      "size_bytes": 11353831,
+      "sha256": "e500d847a5cf7e4327bd2a2de596ee7c90e649addca43cbfbc403508e004f226"
+    },
+    {
+      "path": "26/rewrites/condition_07.pdf",
+      "size_bytes": 11330223,
+      "sha256": "402db5f30b110621f9f5c5cfc7c196d766c81f9afa616ced8ff71322f7734626"
+    },
+    {
+      "path": "26/rewrites/condition_08.pdf",
+      "size_bytes": 11355615,
+      "sha256": "4fd42cf3b85b782fc67b500a89a4f0ecb3383126cfa5cf1d585659ad81f390f2"
+    },
+    {
+      "path": "26/rewrites/condition_09.pdf",
+      "size_bytes": 11307471,
+      "sha256": "1b7207d3a6620bd099a8d346bc56ebd3410794c3fee89b2813ed8924e2c5189c"
+    },
+    {
+      "path": "26/rewrites/condition_10.pdf",
+      "size_bytes": 11329366,
+      "sha256": "1a06aad0ae4886662bbe4466a93a7ec90a7c4cd3461411e2eb5cb8b1ed454dab"
+    },
+    {
+      "path": "26/rewrites/condition_11.pdf",
+      "size_bytes": 11308608,
+      "sha256": "589ee91744bb75f53281524316c67dab60394faf067187e1417797d011167ea8"
+    },
+    {
+      "path": "26/rewrites/condition_12.pdf",
+      "size_bytes": 11348041,
+      "sha256": "047cfe880d5bbda830167f82e6c113ce090a2ef6cdedf3abb9c0059e65629d96"
+    },
+    {
+      "path": "26/rewrites/condition_13.pdf",
+      "size_bytes": 11320080,
+      "sha256": "dade27c8c9dd46b90430ffcf441900c4cfcb088bb391e99d0bda6f836aa36535"
+    },
+    {
+      "path": "26/rewrites/condition_14.pdf",
+      "size_bytes": 11331103,
+      "sha256": "dab486d8fe1d3876fa2839446225233f88623f0094bf878c9b7f3886b60ddc98"
+    },
+    {
+      "path": "26/rewrites/condition_15.pdf",
+      "size_bytes": 11328942,
+      "sha256": "267b473eb6e72d38a22a76ead90afbfbb3d3ce7efa294814508973402ce7eb63"
+    },
+    {
+      "path": "26/rewrites/condition_16.pdf",
+      "size_bytes": 11355292,
+      "sha256": "1a926a4ccc764b36d81859157ac64effc13045e84626a679fe3242e6e807e2de"
+    },
+    {
+      "path": "26/rewrites/condition_17.pdf",
+      "size_bytes": 11315966,
+      "sha256": "1f16dba6cea4573433a3c47e8282c0ff09dd992dc271efab96a330203994790d"
+    },
+    {
+      "path": "26/rewrites/condition_18.pdf",
+      "size_bytes": 11323627,
+      "sha256": "f64d8dd4cf9b966253a3c7693f9e10fe205d0a7462bf06688e4c28ee0e239235"
+    },
+    {
+      "path": "26/rewrites/condition_19.pdf",
+      "size_bytes": 11310319,
+      "sha256": "2c045fc042470d85b9309527e2a93677ddbad51eae59ecdd313c7a95d53136b6"
+    },
+    {
+      "path": "26/rewrites/condition_20.pdf",
+      "size_bytes": 11321530,
+      "sha256": "785e555a77e1a418287c0ce27cd7674a267f9ff827b93d87606b3162c7d853e8"
+    },
+    {
+      "path": "27/original.pdf",
+      "size_bytes": 2424708,
+      "sha256": "8adda722e399e0f2d47bb52e430d02c1465a4943ba97a8f1568b15660ab42964"
+    },
+    {
+      "path": "27/rewrites/condition_01.pdf",
+      "size_bytes": 2379070,
+      "sha256": "70d2a258e85c3c843f35af3f979205c2ffaac667c84efdec1c5fba77f3015407"
+    },
+    {
+      "path": "27/rewrites/condition_02.pdf",
+      "size_bytes": 2370141,
+      "sha256": "246487ace9c66215729100ab2bcbd47e339acac12e52eb8ed7e8b1b9d4c3168b"
+    },
+    {
+      "path": "27/rewrites/condition_03.pdf",
+      "size_bytes": 2390153,
+      "sha256": "2e3e6bf12046561bad7dd2cbbdbabda92f9a55fc84a5e9b35698c3cdc941e323"
+    },
+    {
+      "path": "27/rewrites/condition_04.pdf",
+      "size_bytes": 2448322,
+      "sha256": "4fa048ddf2634f52940ec067813682500775be66e6fb55585b3ca26f9fbe1a5e"
+    },
+    {
+      "path": "27/rewrites/condition_05.pdf",
+      "size_bytes": 2419892,
+      "sha256": "f35e7daa13c224353df17870da274d3b9c5e413469f84f043df0443007934efa"
+    },
+    {
+      "path": "27/rewrites/condition_06.pdf",
+      "size_bytes": 2523139,
+      "sha256": "82bd080b8ba4aedf9c78449aa7360d9628b76905c0ca412f51682e112620750a"
+    },
+    {
+      "path": "27/rewrites/condition_07.pdf",
+      "size_bytes": 2423510,
+      "sha256": "54605b4bb2f14e95a0444a50226a02407296bed75072bafd0dd5272b6e9bbf05"
+    },
+    {
+      "path": "27/rewrites/condition_08.pdf",
+      "size_bytes": 2662122,
+      "sha256": "5e2b57c39e5e014b2833ab9f8be35dc2f4bbb1d6a4f1e1105ff5951d608a34f6"
+    },
+    {
+      "path": "27/rewrites/condition_09.pdf",
+      "size_bytes": 2516752,
+      "sha256": "21202819b17b40fd85c6ecf30d99e952157701903223b7549b5bb1805a9fdf1f"
+    },
+    {
+      "path": "27/rewrites/condition_10.pdf",
+      "size_bytes": 2446994,
+      "sha256": "a9ae840c65e12d7cb24110cf0779c1ac6b76be6cf8c804c2c91c1ca79d4d5ab7"
+    },
+    {
+      "path": "27/rewrites/condition_11.pdf",
+      "size_bytes": 2536213,
+      "sha256": "570d95dbb6fcaf4af78d15028f351388d99282cda812ba7acaa015e056ced455"
+    },
+    {
+      "path": "27/rewrites/condition_12.pdf",
+      "size_bytes": 2761578,
+      "sha256": "5f51bd6c728e055822c8bee7b2e596c1b69938516e84040f1b311b20261a2a7f"
+    },
+    {
+      "path": "27/rewrites/condition_13.pdf",
+      "size_bytes": 2521575,
+      "sha256": "79914f430e384c7a7a529dba70935a656b434a6bb98cb780ed30e8dcb4ae484b"
+    },
+    {
+      "path": "27/rewrites/condition_14.pdf",
+      "size_bytes": 2577303,
+      "sha256": "3996b5758322497654365864fbe38286c1102579cbafdfe431f334b83a3150e9"
+    },
+    {
+      "path": "27/rewrites/condition_15.pdf",
+      "size_bytes": 2520783,
+      "sha256": "af987f2611e7823c7946107c20242ff4090f2e92a19116ce8afdc17e1dd96d28"
+    },
+    {
+      "path": "27/rewrites/condition_16.pdf",
+      "size_bytes": 3039310,
+      "sha256": "cc4574e787e80bc1748289f4587cc4b531eeb40dd92cf4369e4819d154f8e274"
+    },
+    {
+      "path": "27/rewrites/condition_17.pdf",
+      "size_bytes": 2473659,
+      "sha256": "2180d0245988465d6238ae49bbff51fedc94cd5c5331d992ea03c03100d35459"
+    },
+    {
+      "path": "27/rewrites/condition_18.pdf",
+      "size_bytes": 2654445,
+      "sha256": "4c3cf8f1fdcd557565e2f5d8e314f667fb98807be90083ea8ff69f23ba73bcad"
+    },
+    {
+      "path": "27/rewrites/condition_19.pdf",
+      "size_bytes": 2397748,
+      "sha256": "6f2ed5690e20577d3c60205346d485f566dab98d007c2eb6dedbb535a501cab2"
+    },
+    {
+      "path": "27/rewrites/condition_20.pdf",
+      "size_bytes": 2495107,
+      "sha256": "a1b4c8183736303af7a41e487cc855085bb81ac41f96c0cd3db349b8d3e5c079"
+    },
+    {
+      "path": "28/original.pdf",
+      "size_bytes": 770318,
+      "sha256": "6ae4e5e5a7f2acf232cd589d7acf8994772d4ebe32898b80f596d3485a1499c5"
+    },
+    {
+      "path": "28/rewrites/condition_01.pdf",
+      "size_bytes": 765297,
+      "sha256": "6dd4e6307a26377461980ca13d8f3542c9561f23b4cdfbaf33546c6725d410d8"
+    },
+    {
+      "path": "28/rewrites/condition_02.pdf",
+      "size_bytes": 770968,
+      "sha256": "b6e8d4a8502ba05977d5468ccf4f13fe2b3df57afee6889589b16216688d6271"
+    },
+    {
+      "path": "28/rewrites/condition_03.pdf",
+      "size_bytes": 774182,
+      "sha256": "a05749220514fa30e68727bb0f5a3efa429e536ee1959045de91ea04066d1064"
+    },
+    {
+      "path": "28/rewrites/condition_04.pdf",
+      "size_bytes": 777363,
+      "sha256": "f953a9d9d6c71a122d8d51bddfe65c2d7f6caf141bc77bc110f42870726a8ec2"
+    },
+    {
+      "path": "28/rewrites/condition_05.pdf",
+      "size_bytes": 773975,
+      "sha256": "e44e6c83e6a8f38025d1e84727147f3756373db776619d0fc973ff617f3b270c"
+    },
+    {
+      "path": "28/rewrites/condition_06.pdf",
+      "size_bytes": 784002,
+      "sha256": "11cddc9265e2f7c92dca161bdda82946842cca04712001b599da1bdbde800a1b"
+    },
+    {
+      "path": "28/rewrites/condition_07.pdf",
+      "size_bytes": 773905,
+      "sha256": "a628852517d8dfa4d9754d211384eb58ab68b5fcf2e865932956277d6d6d9340"
+    },
+    {
+      "path": "28/rewrites/condition_08.pdf",
+      "size_bytes": 787308,
+      "sha256": "5d27c865025753fe68747e402bad05d21d33ec1f6fdd7133557beacfa3fabbe4"
+    },
+    {
+      "path": "28/rewrites/condition_09.pdf",
+      "size_bytes": 769648,
+      "sha256": "ab05afc511a67f7c97a84de994a6d05dee3d7285ad6e76991c6c10d8a67de8e9"
+    },
+    {
+      "path": "28/rewrites/condition_10.pdf",
+      "size_bytes": 774968,
+      "sha256": "816d40e10f02bceb52669ef665ac057f227a5b608b4f5adaa9cf62905c1ddcc7"
+    },
+    {
+      "path": "28/rewrites/condition_11.pdf",
+      "size_bytes": 768730,
+      "sha256": "08ffad567680a266af6c2355499fe18c08838b7b728e8a0f60af91413b866144"
+    },
+    {
+      "path": "28/rewrites/condition_12.pdf",
+      "size_bytes": 777843,
+      "sha256": "975fef5ecf683f212ceb7469b9bef4a8a27eceb3ea74124dddc8ab7d9ad0ed4f"
+    },
+    {
+      "path": "28/rewrites/condition_13.pdf",
+      "size_bytes": 771421,
+      "sha256": "ae7bd2d397423fe8be39574d3fa5cca049163868008ed3aef6ed5294406b7d2a"
+    },
+    {
+      "path": "28/rewrites/condition_14.pdf",
+      "size_bytes": 776786,
+      "sha256": "d9aa27baf5967812c08442ae904244de9f9e66842fcd4414730da8985007a50d"
+    },
+    {
+      "path": "28/rewrites/condition_15.pdf",
+      "size_bytes": 773914,
+      "sha256": "707db6c85d188432a4ea33c975398cb11f52247a0737f533e2fcaa7b722f9898"
+    },
+    {
+      "path": "28/rewrites/condition_16.pdf",
+      "size_bytes": 785501,
+      "sha256": "d4cb5734e3737083fbaf525576ef0888e7aa8d321bfbeaed2f270436c3d17618"
+    },
+    {
+      "path": "28/rewrites/condition_17.pdf",
+      "size_bytes": 769552,
+      "sha256": "18a4eb68c0775b64e1a27a5bcdbeaa40679a64f5bf5ccc3a8b937b5f67a6fa7e"
+    },
+    {
+      "path": "28/rewrites/condition_18.pdf",
+      "size_bytes": 776775,
+      "sha256": "86f74c6cc502dbda9f63eeb33c35b8bd69a2a61313cb4731bb01fa9637e75717"
+    },
+    {
+      "path": "28/rewrites/condition_19.pdf",
+      "size_bytes": 768571,
+      "sha256": "782192cc01d1c56fff53368a374b2d82764321fdd3462fbdd7114212061cd8fe"
+    },
+    {
+      "path": "28/rewrites/condition_20.pdf",
+      "size_bytes": 770035,
+      "sha256": "502b7e4336d95965b7b1fe255c10238a94eb87a234d65951f9515816840a877e"
+    },
+    {
+      "path": "29/original.pdf",
+      "size_bytes": 2252693,
+      "sha256": "9cba87fde0459826a2895fbeeba951f1d6e78397273200a645257826f7772078"
+    },
+    {
+      "path": "29/rewrites/condition_01.pdf",
+      "size_bytes": 2250378,
+      "sha256": "9e081bcf2449519e27129b129fa7caf1085dc9b848f0719cc522088adddcec46"
+    },
+    {
+      "path": "29/rewrites/condition_02.pdf",
+      "size_bytes": 2252741,
+      "sha256": "c1672d1730518dd37f7fa8cf1b566ddc4ff900026be80e4f65ad50243fe63430"
+    },
+    {
+      "path": "29/rewrites/condition_03.pdf",
+      "size_bytes": 2254873,
+      "sha256": "141e0a7553a915ee13e2f693517fc2602dc05257e8ecb7408bc7a34244c71088"
+    },
+    {
+      "path": "29/rewrites/condition_04.pdf",
+      "size_bytes": 2266237,
+      "sha256": "901f1810c6041df8fc6e35ece7c44ff776585bb73c9a9be057d2fda820a3a4e2"
+    },
+    {
+      "path": "29/rewrites/condition_05.pdf",
+      "size_bytes": 2255322,
+      "sha256": "a954ad23a8c92d00bda9872f29e57f2365c5a3d2f482a2aef747272c26410ae7"
+    },
+    {
+      "path": "29/rewrites/condition_06.pdf",
+      "size_bytes": 2268563,
+      "sha256": "6571fc179ecf81e3a83dd466c55410cf9209e4bc55cf3ffbd173ff00e0f55f68"
+    },
+    {
+      "path": "29/rewrites/condition_07.pdf",
+      "size_bytes": 2256363,
+      "sha256": "632218602ba7a5495c6402aad3901a43a598118cc08b7c3624f4ed0fe92195f7"
+    },
+    {
+      "path": "29/rewrites/condition_08.pdf",
+      "size_bytes": 2272032,
+      "sha256": "340fea75c999c66ec150d8e8051a2ac33d43977d2b6747b7db58391965b1a06c"
+    },
+    {
+      "path": "29/rewrites/condition_09.pdf",
+      "size_bytes": 2250404,
+      "sha256": "b4a00212c920741f9def15ac0cd3c03526834c6bdd3e3e7e486693df0a8028ca"
+    },
+    {
+      "path": "29/rewrites/condition_10.pdf",
+      "size_bytes": 2256776,
+      "sha256": "02df731951b108d173d270d7547be2e0e3e27c8ea52e4ec95f332d09e230bc9f"
+    },
+    {
+      "path": "29/rewrites/condition_11.pdf",
+      "size_bytes": 2255660,
+      "sha256": "29ba0e8ed997fa37460bf1b3af7bfc6148cbc8f4e1b290f578ad948a3c2a13d1"
+    },
+    {
+      "path": "29/rewrites/condition_12.pdf",
+      "size_bytes": 2267365,
+      "sha256": "16e698c500b75257d422ad63d1885b90f4264a416009147290b5ef5be5f4a3ef"
+    },
+    {
+      "path": "29/rewrites/condition_13.pdf",
+      "size_bytes": 2253829,
+      "sha256": "f789396da7e2327e47b728716fed9420040c01598eec0b2fba747eeb34c9056c"
+    },
+    {
+      "path": "29/rewrites/condition_14.pdf",
+      "size_bytes": 2259123,
+      "sha256": "c2921b852a8b1261f9fc82481478c0c2d59b76cf3cf5925c762746317278acbf"
+    },
+    {
+      "path": "29/rewrites/condition_15.pdf",
+      "size_bytes": 2257696,
+      "sha256": "4531348584585817326e4a494a730ef153807b4b60ad17de15051a1b2a399363"
+    },
+    {
+      "path": "29/rewrites/condition_16.pdf",
+      "size_bytes": 2272399,
+      "sha256": "0a0b8057c9255be976da372258d3590ffd9937b1c014cf081c28d01509b28e4c"
+    },
+    {
+      "path": "29/rewrites/condition_17.pdf",
+      "size_bytes": 2252334,
+      "sha256": "98fbd06b11b4a5b87a72aaecd84b695c53b593e541029b3fe3fb18e0b2459266"
+    },
+    {
+      "path": "29/rewrites/condition_18.pdf",
+      "size_bytes": 2266679,
+      "sha256": "56ed9802aade3194ba20b4bd44b6ba3a78d9656928d8d4dd34060a2eefc9e02c"
+    },
+    {
+      "path": "29/rewrites/condition_19.pdf",
+      "size_bytes": 2252396,
+      "sha256": "148a34251ee5e9b6ac35cc6b5008b6b2d26902c8e10c986933e0580c7a3cec70"
+    },
+    {
+      "path": "29/rewrites/condition_20.pdf",
+      "size_bytes": 2253163,
+      "sha256": "e86ad5de05c5e4c7a9e3cc432ef7e5545217b7713d7fc69876d62383a865b0e7"
+    },
+    {
+      "path": "3/original.pdf",
+      "size_bytes": 11941493,
+      "sha256": "7f672d22cd335a84ff79fb42dd1f73701d919bc5a7b62142459c96f84b1385a2"
+    },
+    {
+      "path": "3/rewrites/condition_01.pdf",
+      "size_bytes": 11937604,
+      "sha256": "53a5015789361a2b6e957016aea65cf08156abed2470374e73c3749919d1cdca"
+    },
+    {
+      "path": "3/rewrites/condition_02.pdf",
+      "size_bytes": 11941182,
+      "sha256": "60d59f5113fa7a1601c728f99bd2805685e390db7cfda032ca1f079ef1c3c66a"
+    },
+    {
+      "path": "3/rewrites/condition_03.pdf",
+      "size_bytes": 11943199,
+      "sha256": "a80d29f533be7b51c041495efd1f5084c450304a9136be607e0accf7f8a29b16"
+    },
+    {
+      "path": "3/rewrites/condition_04.pdf",
+      "size_bytes": 11949207,
+      "sha256": "22831a4037e1ddf573f63fe95093e44029a8ea4fed8b6291182effd6ddcf17f6"
+    },
+    {
+      "path": "3/rewrites/condition_05.pdf",
+      "size_bytes": 11942205,
+      "sha256": "1fb2d6586319edb66d78b2994c7dae87e2a6fde25b726b9718f6a7c76936f6de"
+    },
+    {
+      "path": "3/rewrites/condition_06.pdf",
+      "size_bytes": 11955220,
+      "sha256": "9606f959ea527459ad30122fe8989d597bc497ef1f1c2040a174b12bbf234dcb"
+    },
+    {
+      "path": "3/rewrites/condition_07.pdf",
+      "size_bytes": 11942486,
+      "sha256": "2f2802f2210aa376adf4e06c049881e73535350b951e1569a0e86d9d61cb0dee"
+    },
+    {
+      "path": "3/rewrites/condition_08.pdf",
+      "size_bytes": 11955984,
+      "sha256": "1d50a2b1e9e3b870918879af35a1aea20e56bd3af49f572054e4100ae3e2715d"
+    },
+    {
+      "path": "3/rewrites/condition_09.pdf",
+      "size_bytes": 11939421,
+      "sha256": "63a7ecc93f8fa4836a0daafab9c4111e9f12281188bd9124acb8617cc777cc0e"
+    },
+    {
+      "path": "3/rewrites/condition_10.pdf",
+      "size_bytes": 11945332,
+      "sha256": "92a37c286f7804607d557e160b48171daa9be5dbe1b8aef1e5bcbe59af41fd4f"
+    },
+    {
+      "path": "3/rewrites/condition_11.pdf",
+      "size_bytes": 11936382,
+      "sha256": "30bc732b7e215620d0bad0845d5c18496bcfd3604a74516d537ee5cd2b75df72"
+    },
+    {
+      "path": "3/rewrites/condition_12.pdf",
+      "size_bytes": 11950872,
+      "sha256": "666b7f3b74aede4c6d2ad9fff12131489a1192e2951971a0cdbb6a290de82906"
+    },
+    {
+      "path": "3/rewrites/condition_13.pdf",
+      "size_bytes": 11941856,
+      "sha256": "afd04c06d053ec0b941f2a9bf9f3e5c05d0dd0ac31fa71ae9b67307444782043"
+    },
+    {
+      "path": "3/rewrites/condition_14.pdf",
+      "size_bytes": 11947002,
+      "sha256": "ad97c11e56bb20e1e3c1c837b4f6ff557035d7ff24454012b07d883addf564cc"
+    },
+    {
+      "path": "3/rewrites/condition_15.pdf",
+      "size_bytes": 11943273,
+      "sha256": "b3f1c7f1ff8018de30c58f7d5478530d7bade023f6a192f69bd37ffa63c15a0a"
+    },
+    {
+      "path": "3/rewrites/condition_16.pdf",
+      "size_bytes": 11954606,
+      "sha256": "a470917f545f97ca223198afdd056e1813e75c93f119ee15dcf8cd716f0d6c29"
+    },
+    {
+      "path": "3/rewrites/condition_17.pdf",
+      "size_bytes": 11940137,
+      "sha256": "6329b765240c43ee51a750bc7b33200241e57b06d554d55bb51e31110a4a77ec"
+    },
+    {
+      "path": "3/rewrites/condition_18.pdf",
+      "size_bytes": 11944639,
+      "sha256": "beb8ffbe35576cd188a2e1b4423b4a3a5da85425a391563ab043228aeab6329b"
+    },
+    {
+      "path": "3/rewrites/condition_19.pdf",
+      "size_bytes": 11939452,
+      "sha256": "98154a5acf16489df1c8b2a5db1804dcc0d25a52c2fcd9d7c2458ca51cccdc55"
+    },
+    {
+      "path": "3/rewrites/condition_20.pdf",
+      "size_bytes": 11944403,
+      "sha256": "bf9abc0ad7ff3e1937dd8a8ff24001382ad8ec2b547f09f81c02c732aa7aab25"
+    },
+    {
+      "path": "30/original.pdf",
+      "size_bytes": 3672553,
+      "sha256": "d3ebbef61cb4a9f4e63359acb6775dfd844257945aa139216a657e6541d9fbdd"
+    },
+    {
+      "path": "30/rewrites/condition_01.pdf",
+      "size_bytes": 3668518,
+      "sha256": "49db3e3f8d81a6454f13cf06cfff3bc729716feeebf11dace6295941b656cfa6"
+    },
+    {
+      "path": "30/rewrites/condition_02.pdf",
+      "size_bytes": 3658456,
+      "sha256": "6b341562cf8da8a84d62276b6994e8d3348e5d4acec1a1b7514c9fd99b50b909"
+    },
+    {
+      "path": "30/rewrites/condition_03.pdf",
+      "size_bytes": 3670632,
+      "sha256": "8c77e7d1595ec200481e4d404e15546be12c31018b99fef91d1ce7e09e6b280d"
+    },
+    {
+      "path": "30/rewrites/condition_04.pdf",
+      "size_bytes": 3683061,
+      "sha256": "0d994eeaaef21b6af124b26bb5d965a46f2c875949b1f0f35474f50b809a76a0"
+    },
+    {
+      "path": "30/rewrites/condition_05.pdf",
+      "size_bytes": 3670632,
+      "sha256": "54b5a5f6b3f8e2632404c23498f569e723a6ef016c985418da12cb2886d1bb85"
+    },
+    {
+      "path": "30/rewrites/condition_06.pdf",
+      "size_bytes": 3685753,
+      "sha256": "7f18145670703f09261058fb1e812cd5d026456bbe3000fea517f782bb7ca392"
+    },
+    {
+      "path": "30/rewrites/condition_07.pdf",
+      "size_bytes": 3676194,
+      "sha256": "c1b53c0a4eaecff0db56679b9c5661cab1aa07a20adda236c691ce8188fd9225"
+    },
+    {
+      "path": "30/rewrites/condition_08.pdf",
+      "size_bytes": 3692557,
+      "sha256": "6967ed14f0137cbfb7d76ca3d150e9a93fda4008bd35576b32a69d84a8f072a0"
+    },
+    {
+      "path": "30/rewrites/condition_09.pdf",
+      "size_bytes": 3667387,
+      "sha256": "f88d5c964df3032c16bc06749d2f2f7d6f9ae3ef4807cda05c7d2d255008e294"
+    },
+    {
+      "path": "30/rewrites/condition_10.pdf",
+      "size_bytes": 3666606,
+      "sha256": "7004d27b4ffa74ec8731a5d08b3de6662d953980a061fe3268b59ba4e8fa5193"
+    },
+    {
+      "path": "30/rewrites/condition_11.pdf",
+      "size_bytes": 3667092,
+      "sha256": "d30b548e1c3fd25914d011be07932baaf4560159abeb051b4559252fb3124334"
+    },
+    {
+      "path": "30/rewrites/condition_12.pdf",
+      "size_bytes": 3673059,
+      "sha256": "f251a12069d6b7e33697d5d328283a1dadf7ed016a23b520433b1ab9f3a7dacc"
+    },
+    {
+      "path": "30/rewrites/condition_13.pdf",
+      "size_bytes": 3670451,
+      "sha256": "42500e535815af07ea349b20d418ef0de3a9103040121e225247b3b700e2ab54"
+    },
+    {
+      "path": "30/rewrites/condition_14.pdf",
+      "size_bytes": 3661243,
+      "sha256": "a50faf0d61a4cc1ab32b308d0461d47e6e9571f4c685e76e634fb4f99f17a7ca"
+    },
+    {
+      "path": "30/rewrites/condition_15.pdf",
+      "size_bytes": 3670801,
+      "sha256": "dae563adad6de8a06f349ab1ea0aa4ed81a128bb26741d4c9c60a4ed514ef0a0"
+    },
+    {
+      "path": "30/rewrites/condition_16.pdf",
+      "size_bytes": 3690499,
+      "sha256": "95389cf3cabe1a285c6a62a8ecf74af6b29e9ba9d20ee4c7ed133f9d1e7a067e"
+    },
+    {
+      "path": "30/rewrites/condition_17.pdf",
+      "size_bytes": 3660002,
+      "sha256": "281b8fe0e1fe6816a6b70ca3e78af6ae9850607c798594ef7714250ab68960a5"
+    },
+    {
+      "path": "30/rewrites/condition_18.pdf",
+      "size_bytes": 3659606,
+      "sha256": "28aa804e85b65a13c9e6270dffcd87be360902cb2e7ee67c65f0ce555efe6f29"
+    },
+    {
+      "path": "30/rewrites/condition_19.pdf",
+      "size_bytes": 3663517,
+      "sha256": "433cf99dd09120865aca01556f351c27c1bd9280c4cc71757d0e5f932ce3ff47"
+    },
+    {
+      "path": "30/rewrites/condition_20.pdf",
+      "size_bytes": 3671779,
+      "sha256": "618fa1df601dc9984f34f48467cb4ce3d3bfb992da2dada2e1c53b4753ef2e30"
+    },
+    {
+      "path": "31/original.pdf",
+      "size_bytes": 14018396,
+      "sha256": "62f052db1c4279ae0da648b21b492f3e19591189bcabf8c70f011a2c8b884412"
+    },
+    {
+      "path": "31/rewrites/condition_01.pdf",
+      "size_bytes": 14018009,
+      "sha256": "a70ca98e5b4a13018d5286eabc80a0c7b5fd83ae3cf1cc95fa3023f548313a28"
+    },
+    {
+      "path": "31/rewrites/condition_02.pdf",
+      "size_bytes": 14020016,
+      "sha256": "07feede66a3cec958c2f2267ef540e7308e4c2ccaecc9a648d306c9774b7e13e"
+    },
+    {
+      "path": "31/rewrites/condition_03.pdf",
+      "size_bytes": 14021289,
+      "sha256": "a8829c393d36b451b7924266768c2d04d08649c879e7a9ecfc403e10e6862da7"
+    },
+    {
+      "path": "31/rewrites/condition_04.pdf",
+      "size_bytes": 14025081,
+      "sha256": "03caf199593360163b7bf0f15b4a9eb515071f9149d17ba7b639502239b6b63d"
+    },
+    {
+      "path": "31/rewrites/condition_05.pdf",
+      "size_bytes": 14022741,
+      "sha256": "40e5511a0ba8bd50fdcb1492300961d2fd7a9e3386710f778be53bfa8bb40106"
+    },
+    {
+      "path": "31/rewrites/condition_06.pdf",
+      "size_bytes": 14032278,
+      "sha256": "d39008b2fd6216926bd9cebeed1deff1d28864c8663a48ff753fcac31e79d698"
+    },
+    {
+      "path": "31/rewrites/condition_07.pdf",
+      "size_bytes": 14021258,
+      "sha256": "6322211e2e0a2aed9bb9293719b477f8455c8d469cc9afb6030908a96605abbb"
+    },
+    {
+      "path": "31/rewrites/condition_08.pdf",
+      "size_bytes": 14033638,
+      "sha256": "a1a596025004d457c48136b837416bb44ffe4ae0ac0874c2c4cabe19ccb3f390"
+    },
+    {
+      "path": "31/rewrites/condition_09.pdf",
+      "size_bytes": 14016587,
+      "sha256": "f5acd58a1210624ffca912f850954997b3b6bb6d5c33ec8baad4e1616ed96a4d"
+    },
+    {
+      "path": "31/rewrites/condition_10.pdf",
+      "size_bytes": 14022602,
+      "sha256": "b672f307ed0fc8a70d9fa1025772707f9f6fad659907e8a04ffa3395a6ce6479"
+    },
+    {
+      "path": "31/rewrites/condition_11.pdf",
+      "size_bytes": 14020234,
+      "sha256": "5963af8fc75ae4bfb89101765d922cc21b60cf9c2a7d052a7e78b449a3c6730c"
+    },
+    {
+      "path": "31/rewrites/condition_12.pdf",
+      "size_bytes": 14030405,
+      "sha256": "5bc5663c32215c6f8e269e9e2cf04d423d6297455f1b3e51ddb800a34b1f78d0"
+    },
+    {
+      "path": "31/rewrites/condition_13.pdf",
+      "size_bytes": 14021379,
+      "sha256": "0e8c1f083ed22fd51a6d3911713a2c4921a944fba353e714bd95ed44955b3599"
+    },
+    {
+      "path": "31/rewrites/condition_14.pdf",
+      "size_bytes": 14025557,
+      "sha256": "9b9331a9136afba915c56ae634b5eca157dd030c73e2479760ca782265570cab"
+    },
+    {
+      "path": "31/rewrites/condition_15.pdf",
+      "size_bytes": 14023132,
+      "sha256": "f5b3a204b842045e2982c69714504ecb4c284ee8fac57f9b88efecf5236cd624"
+    },
+    {
+      "path": "31/rewrites/condition_16.pdf",
+      "size_bytes": 14031931,
+      "sha256": "5e098c1ae907c0ebbf7573a61e6b502f22f8018755a43e36d82910b2d46b140e"
+    },
+    {
+      "path": "31/rewrites/condition_17.pdf",
+      "size_bytes": 14020978,
+      "sha256": "68d13c04fb26fc405831231826510a3e18eee0d214cde352ecd46d955092f843"
+    },
+    {
+      "path": "31/rewrites/condition_18.pdf",
+      "size_bytes": 14025604,
+      "sha256": "fb27e21c4261fc56c81aca8b91e71d5c076c266399b7bfb1f384c59adace66e0"
+    },
+    {
+      "path": "31/rewrites/condition_19.pdf",
+      "size_bytes": 14018776,
+      "sha256": "901e35ccf9e890f0dfd97061e53675da27c7227ea8dca810ef898c092c4c2d64"
+    },
+    {
+      "path": "31/rewrites/condition_20.pdf",
+      "size_bytes": 14021199,
+      "sha256": "8da7e2eddeae88f4df082741b74e0de312f325b7d570e7da0b7cee5e17a3571d"
+    },
+    {
+      "path": "32/original.pdf",
+      "size_bytes": 3441665,
+      "sha256": "daac58ef7a25d304a82d7e2a5640e04df0f1de00f314964fee0c32b9ca79301a"
+    },
+    {
+      "path": "32/rewrites/condition_01.pdf",
+      "size_bytes": 3439075,
+      "sha256": "0008284939c0e59a754538ed4458e742ef834770e4125e9f3c05a8baac07e254"
+    },
+    {
+      "path": "32/rewrites/condition_02.pdf",
+      "size_bytes": 3440812,
+      "sha256": "cfabdf5e2ba5569df2b4055c27a1bce455fe9c69185389f69eecb02b4be1474d"
+    },
+    {
+      "path": "32/rewrites/condition_03.pdf",
+      "size_bytes": 3415619,
+      "sha256": "aed95b55040ab1475cb5cd35ffa381afa79d27d1c8e5795d23dafa505467eed2"
+    },
+    {
+      "path": "32/rewrites/condition_04.pdf",
+      "size_bytes": 3420845,
+      "sha256": "f0ceaf6cd031c4bd48cad6750950b208c296b621d5446c09bea196d0239104eb"
+    },
+    {
+      "path": "32/rewrites/condition_05.pdf",
+      "size_bytes": 3415637,
+      "sha256": "70e0f38e9384e00842620ac8d175bded93509834ef39df2a66ec5238558925bf"
+    },
+    {
+      "path": "32/rewrites/condition_06.pdf",
+      "size_bytes": 3423564,
+      "sha256": "d2e9075b2bb63daa5ecee2faa4213d272b2e8272ed7840145dfca2b816678baf"
+    },
+    {
+      "path": "32/rewrites/condition_07.pdf",
+      "size_bytes": 3415736,
+      "sha256": "9afbb9dc27ad540118f8d50d1ee13bf189567caa01a714cd473890a23b9b3bbd"
+    },
+    {
+      "path": "32/rewrites/condition_08.pdf",
+      "size_bytes": 3424845,
+      "sha256": "1aa4ef396dcda54947469b8a936b68ce7b13d1514857dd5e34721ae1c96a06e5"
+    },
+    {
+      "path": "32/rewrites/condition_09.pdf",
+      "size_bytes": 3441942,
+      "sha256": "c608a2751c6c7a7942dab287e7a7c341f588415fab90a303c35aa57d8c278ffc"
+    },
+    {
+      "path": "32/rewrites/condition_10.pdf",
+      "size_bytes": 3442402,
+      "sha256": "8a7bb4addcbb9a391ab9b040e6d562b329deaf55b152c395b17990f15b6b50d3"
+    },
+    {
+      "path": "32/rewrites/condition_11.pdf",
+      "size_bytes": 3441088,
+      "sha256": "528b2755cda14b8baa87ef47b53b20cd77dcdd04dfde6c3e39499195aba33632"
+    },
+    {
+      "path": "32/rewrites/condition_12.pdf",
+      "size_bytes": 3456253,
+      "sha256": "8df07a5d9bf8cabcbdf3bc2a175a78c87720a47532ab455a8051694c0c09158a"
+    },
+    {
+      "path": "32/rewrites/condition_13.pdf",
+      "size_bytes": 3443931,
+      "sha256": "d84e4e2db916b474eb125cee75bf2777273035d2d0d5dd34df364f6420108cb7"
+    },
+    {
+      "path": "32/rewrites/condition_14.pdf",
+      "size_bytes": 3449985,
+      "sha256": "377d5222e87b879ea63dfc4b319be754a5af06b6b7ad3dd9d0f7d8403f96673e"
+    },
+    {
+      "path": "32/rewrites/condition_15.pdf",
+      "size_bytes": 3416459,
+      "sha256": "768cce5cd13af195654fcb423b519812a9c3addb379e41b6f91af2dd46d6ce29"
+    },
+    {
+      "path": "32/rewrites/condition_16.pdf",
+      "size_bytes": 3420285,
+      "sha256": "25d00637c7511948dbb24b8d5e0936472909316b6cc71d0b182894608276382d"
+    },
+    {
+      "path": "32/rewrites/condition_17.pdf",
+      "size_bytes": 3441179,
+      "sha256": "cc1cc538f58cbdac8cbb43ce1bf1bedc91707533b80ade1079034180f6492b5f"
+    },
+    {
+      "path": "32/rewrites/condition_18.pdf",
+      "size_bytes": 3445502,
+      "sha256": "4b51e3ef2d50172a6101f99a89aa36add6bcd63a7a9bf431d17d2dfd08e109df"
+    },
+    {
+      "path": "32/rewrites/condition_19.pdf",
+      "size_bytes": 3440040,
+      "sha256": "8eca3a04e480992ef22115d6de8cdee1ddb260cfcba6844c3c9feb72b10671cf"
+    },
+    {
+      "path": "32/rewrites/condition_20.pdf",
+      "size_bytes": 3441063,
+      "sha256": "6e2a919f2de7e855269e159627a4c67d9665853c48213e09e96864cb4b60843d"
+    },
+    {
+      "path": "33/original.pdf",
+      "size_bytes": 1312572,
+      "sha256": "9e2ee294fb9bf50b9dc918977d181b8c9445580a56523aef3c725fb5c0919b1b"
+    },
+    {
+      "path": "33/rewrites/condition_01.pdf",
+      "size_bytes": 1310792,
+      "sha256": "0839f79ffd2d332aa7ad46e85a626da73c49cdd8848d01292fc6cbf0fdae29b0"
+    },
+    {
+      "path": "33/rewrites/condition_02.pdf",
+      "size_bytes": 1311692,
+      "sha256": "d0edeb1912a03395a9dafd153df1cf2c889668124bc4293ad9e53aa5a19f4e37"
+    },
+    {
+      "path": "33/rewrites/condition_03.pdf",
+      "size_bytes": 1313255,
+      "sha256": "1596b390f41f27d5425d23c8edc2b07296314e6b78ebf6b88a2abc2d34634923"
+    },
+    {
+      "path": "33/rewrites/condition_04.pdf",
+      "size_bytes": 1316734,
+      "sha256": "4718e334760f990e159a8a04510821bbccd3bbfd4a436468f75b8118fb52727b"
+    },
+    {
+      "path": "33/rewrites/condition_05.pdf",
+      "size_bytes": 1313267,
+      "sha256": "3121c94aab88674741e20ed2e0f389d10a6de7e1a7cb0bdca1bd6707c485c918"
+    },
+    {
+      "path": "33/rewrites/condition_06.pdf",
+      "size_bytes": 1318016,
+      "sha256": "1716aa8c919e965c272b498596a95b0e7179edcd65ab7214169b536d32f46954"
+    },
+    {
+      "path": "33/rewrites/condition_07.pdf",
+      "size_bytes": 1313255,
+      "sha256": "90ec034bb433070281af8c27021910ebed663798f01810bd5761c533b96e3c40"
+    },
+    {
+      "path": "33/rewrites/condition_08.pdf",
+      "size_bytes": 1324849,
+      "sha256": "74bf1738e91294d7383134b4799b6b10cc7cca48adc709885889cc135bfd3f64"
+    },
+    {
+      "path": "33/rewrites/condition_09.pdf",
+      "size_bytes": 1312469,
+      "sha256": "1466990922d156a8642c5a7bea63c708a036a637e8d9d4298bae5681074c0b72"
+    },
+    {
+      "path": "33/rewrites/condition_10.pdf",
+      "size_bytes": 1318176,
+      "sha256": "3aab656fb044adc86ce742946ac49d525dfbb184a63f835b4b2fcd1b25e51ccb"
+    },
+    {
+      "path": "33/rewrites/condition_11.pdf",
+      "size_bytes": 1314227,
+      "sha256": "fa3995d99dc6f0a3bdaeec0fbb2a537ecb5c437358cbc2138a1a466a7148907d"
+    },
+    {
+      "path": "33/rewrites/condition_12.pdf",
+      "size_bytes": 1322775,
+      "sha256": "43a23598169287d3575224a81ecb894e2696628b9f67053e1662971748e3008d"
+    },
+    {
+      "path": "33/rewrites/condition_13.pdf",
+      "size_bytes": 1315394,
+      "sha256": "afb9ef46478a0a2eb3b002923d995a66e1271dcb0fa7e748cb5c7c53753a029d"
+    },
+    {
+      "path": "33/rewrites/condition_14.pdf",
+      "size_bytes": 1318679,
+      "sha256": "75b0ac2f0b4837ffddaa0a54156fa171898c0ba6cf458e377f7cfd5a8b745237"
+    },
+    {
+      "path": "33/rewrites/condition_15.pdf",
+      "size_bytes": 1313622,
+      "sha256": "e18ac125bc01c36bdbe90fa15dbe16ee5bc8abdcbffd0627911863730af44224"
+    },
+    {
+      "path": "33/rewrites/condition_16.pdf",
+      "size_bytes": 1322944,
+      "sha256": "5d93782ea351a114b66b7b982375533815337f074d2faa08fb3d2be14b621b30"
+    },
+    {
+      "path": "33/rewrites/condition_17.pdf",
+      "size_bytes": 1311945,
+      "sha256": "0114c523b19838769b00ac95a59271e13297cdaeb9e08e9f6b8b0a9b7d6697ed"
+    },
+    {
+      "path": "33/rewrites/condition_18.pdf",
+      "size_bytes": 1315303,
+      "sha256": "3e0450e0b15cb488dcb0f011f482b2db7f7e9bccf71fed82437a5d23e5ba199c"
+    },
+    {
+      "path": "33/rewrites/condition_19.pdf",
+      "size_bytes": 1312606,
+      "sha256": "305b2f1f2952586920caacc3eabed257c1bf5535e669fbc731ff1757b8b90ce1"
+    },
+    {
+      "path": "33/rewrites/condition_20.pdf",
+      "size_bytes": 1314044,
+      "sha256": "09b13a04352d8381ff5babd8d6324be8c9a74ec82f32b0fe93e72daf093d3396"
+    },
+    {
+      "path": "34/original.pdf",
+      "size_bytes": 8851592,
+      "sha256": "e19f7087c3db237fd0b4f7d746a227425702734ce7414f97f085b88f5e3ca528"
+    },
+    {
+      "path": "34/rewrites/condition_01.pdf",
+      "size_bytes": 8851644,
+      "sha256": "36726e3c97dbcd661119cc855868884beeb5f81fb530b8eed351c27b54edd51f"
+    },
+    {
+      "path": "34/rewrites/condition_02.pdf",
+      "size_bytes": 8852041,
+      "sha256": "18333ea652b0128f4f49e762ab4db8fef049257e4392d0a8bfc66d647d0ac543"
+    },
+    {
+      "path": "34/rewrites/condition_03.pdf",
+      "size_bytes": 8856644,
+      "sha256": "8fcdb56c10b80469f4bb542f34df2dd3b7f7bef71f0df7588c5aed0a66afdf23"
+    },
+    {
+      "path": "34/rewrites/condition_04.pdf",
+      "size_bytes": 8864766,
+      "sha256": "6c67393dcbb503c527ee050969743afd81406c9542c3ef749b30c504ae079325"
+    },
+    {
+      "path": "34/rewrites/condition_05.pdf",
+      "size_bytes": 8856644,
+      "sha256": "6134ababcd1100c6aa348bde9f49b3a0f1a6618f685d0083b8eb14ed0dbacde5"
+    },
+    {
+      "path": "34/rewrites/condition_06.pdf",
+      "size_bytes": 8867455,
+      "sha256": "992f8a04b96c257d3e9670946a5a5a2a4963b4c94bc92a381872c0f64e3d59e4"
+    },
+    {
+      "path": "34/rewrites/condition_07.pdf",
+      "size_bytes": 8856896,
+      "sha256": "d8aed3c7df2fce744a6c6e2694db50bde764aaea684c0dc6b80a93fea8f3cdae"
+    },
+    {
+      "path": "34/rewrites/condition_08.pdf",
+      "size_bytes": 8872494,
+      "sha256": "00bc035cce335a1a215250ddf520c1a5076b3b2bb56c14d47fa0453cfc957532"
+    },
+    {
+      "path": "34/rewrites/condition_09.pdf",
+      "size_bytes": 8854814,
+      "sha256": "aba6fb00ec7410e46ec3c59d2309882b0c98d5b1f62acd27dd2fc4bb42a618a5"
+    },
+    {
+      "path": "34/rewrites/condition_10.pdf",
+      "size_bytes": 8862195,
+      "sha256": "82da6ee08d084270e05f75bb23a26279a993412b10f6d762027c62a8b4cf73f1"
+    },
+    {
+      "path": "34/rewrites/condition_11.pdf",
+      "size_bytes": 8855209,
+      "sha256": "343af9b8e6ba8d56462e20f3a3cc4417872516b41a9aec98375d4b0faf2687fa"
+    },
+    {
+      "path": "34/rewrites/condition_12.pdf",
+      "size_bytes": 8859360,
+      "sha256": "f47426dc4e67c2781ae7b4874c4d99cdec9622176b1850abffce2ddb621bd038"
+    },
+    {
+      "path": "34/rewrites/condition_13.pdf",
+      "size_bytes": 8854744,
+      "sha256": "af9aadf7e047b998cada87ebba7add7bfedb398c506d0fc6436c774e5b44ae10"
+    },
+    {
+      "path": "34/rewrites/condition_14.pdf",
+      "size_bytes": 8856343,
+      "sha256": "b95ad51ce2b5e702b86a91035d2ca2903bd677d636aea3143faef01d9150a31f"
+    },
+    {
+      "path": "34/rewrites/condition_15.pdf",
+      "size_bytes": 8857714,
+      "sha256": "e7d7a755a45247bd0987d95ffd704351cea8aab812a1593b43a7706066ace92c"
+    },
+    {
+      "path": "34/rewrites/condition_16.pdf",
+      "size_bytes": 8876451,
+      "sha256": "8c17ce1fe786f0a5b42b21ac9a7348c1335812e00bc50a4302b324845a541d4f"
+    },
+    {
+      "path": "34/rewrites/condition_17.pdf",
+      "size_bytes": 8852520,
+      "sha256": "0b905ca02a747b7ff64d24024e1f2a810e545eb82c3ba79eb76da00a2e7a4614"
+    },
+    {
+      "path": "34/rewrites/condition_18.pdf",
+      "size_bytes": 8859064,
+      "sha256": "c5f3e8ee7373d209760da6c8ad3112f3a07a2e9462e7d906769ad432588d37a2"
+    },
+    {
+      "path": "34/rewrites/condition_19.pdf",
+      "size_bytes": 8853485,
+      "sha256": "f23156bf412c91f1ec439b4c8a3091df89db43fef92c64e6b5e6f73d12a33972"
+    },
+    {
+      "path": "34/rewrites/condition_20.pdf",
+      "size_bytes": 8855600,
+      "sha256": "8a9afd4d50bbf3c4ff15ddd6b336eb8f5148120e7e915ee5f27ceaca1de49bf9"
+    },
+    {
+      "path": "35/original.pdf",
+      "size_bytes": 984687,
+      "sha256": "b1331b10832f462073a181982154fa27f5efe2db5b39b19b67806f03c0ea761a"
+    },
+    {
+      "path": "35/rewrites/condition_01.pdf",
+      "size_bytes": 983702,
+      "sha256": "c19fe7b815c1eb98f068b4bb40bb1e47b1cb3980a27e94e27e4a5b00af1016ba"
+    },
+    {
+      "path": "35/rewrites/condition_02.pdf",
+      "size_bytes": 985519,
+      "sha256": "73e69df7f5109ad82ca1e57dcd38d9692a3ed3879c757762fb69bc75464182a9"
+    },
+    {
+      "path": "35/rewrites/condition_03.pdf",
+      "size_bytes": 986052,
+      "sha256": "1f43024ffb7b996b71afb1870cec27188f1b990bcf4464d28620f0801be6ff51"
+    },
+    {
+      "path": "35/rewrites/condition_04.pdf",
+      "size_bytes": 989656,
+      "sha256": "5649902b2df0d4db81dbd6f82d067df387a6b32d9f202b46898e2d345b431f71"
+    },
+    {
+      "path": "35/rewrites/condition_05.pdf",
+      "size_bytes": 986052,
+      "sha256": "e5eaa5d14a357104176407c3386b2de524e69cf1352b55481ae3e3590069f946"
+    },
+    {
+      "path": "35/rewrites/condition_06.pdf",
+      "size_bytes": 991653,
+      "sha256": "353f850d0261d69c24421690622ffae8d71ff737f650338de5824c67c2d2945d"
+    },
+    {
+      "path": "35/rewrites/condition_07.pdf",
+      "size_bytes": 987256,
+      "sha256": "f0100d06f5316c0fca2058deabb454a4e20ba35eebef1744926132e517725943"
+    },
+    {
+      "path": "35/rewrites/condition_08.pdf",
+      "size_bytes": 999265,
+      "sha256": "0e66c513b820c7acdad2646f487c3f27df546a9d2b7abf331daa41bb4997789e"
+    },
+    {
+      "path": "35/rewrites/condition_09.pdf",
+      "size_bytes": 978258,
+      "sha256": "bc59a88e74b25107fa95a121e5a298a24691e381a79b0fee2c37d68314a238eb"
+    },
+    {
+      "path": "35/rewrites/condition_10.pdf",
+      "size_bytes": 988324,
+      "sha256": "16c5f2dcbed32a291769993fe831c4518eac9c6f3935a56ee9cafdd6a7fad698"
+    },
+    {
+      "path": "35/rewrites/condition_11.pdf",
+      "size_bytes": 983798,
+      "sha256": "ea997bed3d586939e0aef0cdbd97d0452b34be2995f669a22ca600b64525e4e1"
+    },
+    {
+      "path": "35/rewrites/condition_12.pdf",
+      "size_bytes": 1002095,
+      "sha256": "b2cc0dc106a67c3021f1e903bc20ff6403e27e5fa5cd1ab7cae8ad007c5896c6"
+    },
+    {
+      "path": "35/rewrites/condition_13.pdf",
+      "size_bytes": 985921,
+      "sha256": "25766859073a01f4c3978be4fb71d9ab573a9e106c570b372a2abde51e7eb9d8"
+    },
+    {
+      "path": "35/rewrites/condition_14.pdf",
+      "size_bytes": 989112,
+      "sha256": "a0c133e9dbbdc375cf13c2efc560206711d59b9ce9cfd79a113600aa05f346a8"
+    },
+    {
+      "path": "35/rewrites/condition_15.pdf",
+      "size_bytes": 980522,
+      "sha256": "060b477384381896343803ac450037475328ba25d24200b63a062d477e996bf7"
+    },
+    {
+      "path": "35/rewrites/condition_16.pdf",
+      "size_bytes": 1002240,
+      "sha256": "5dcf29b849486f15188923878d940e2a7b2e3d258a1195f53dcead502d389d6d"
+    },
+    {
+      "path": "35/rewrites/condition_17.pdf",
+      "size_bytes": 985804,
+      "sha256": "4be8b6c82ea923dd72bbd7dbe381474a93229be5521b433dadf37b793482b615"
+    },
+    {
+      "path": "35/rewrites/condition_18.pdf",
+      "size_bytes": 990648,
+      "sha256": "5932ab4f4fc7fdcf5322671395e6346c3f5dc9eb3196ba171d889103286fc098"
+    },
+    {
+      "path": "35/rewrites/condition_19.pdf",
+      "size_bytes": 977231,
+      "sha256": "32086f6725f6e30497e86cfb8ca7a19b2b99f14702d9d9f57bcaa3a8bb1d3912"
+    },
+    {
+      "path": "35/rewrites/condition_20.pdf",
+      "size_bytes": 987086,
+      "sha256": "c1dc3c301ccf1562b592d845437e7a0f635cec4bd2cf15e6502d851ef78f423b"
+    },
+    {
+      "path": "36/original.pdf",
+      "size_bytes": 6184361,
+      "sha256": "94e048e071658cda9fcc9632627d29e607aeba2bce4bc6d67c0268f443aa678e"
+    },
+    {
+      "path": "36/rewrites/condition_01.pdf",
+      "size_bytes": 6178806,
+      "sha256": "3dd758b9b0cf7b0acdfa42bb18166fc928d2e07b4e8aaddb591c9e00c14504ad"
+    },
+    {
+      "path": "36/rewrites/condition_02.pdf",
+      "size_bytes": 6182758,
+      "sha256": "bb8e374550bf32dc092b468dda844ca9e0a2431ef52c305752e06416b81c3cd5"
+    },
+    {
+      "path": "36/rewrites/condition_03.pdf",
+      "size_bytes": 6185674,
+      "sha256": "b373e3a8bc1943d0682b1801abc4f9e153283f683157d1e27b00827a8c3510fc"
+    },
+    {
+      "path": "36/rewrites/condition_04.pdf",
+      "size_bytes": 6186018,
+      "sha256": "37743bdd55b0940f65ef37dc2615e0c2bbd17abea208b17a0e3adf8a2d3c9c9c"
+    },
+    {
+      "path": "36/rewrites/condition_05.pdf",
+      "size_bytes": 6185417,
+      "sha256": "322bee9e347a2586e08774b878bfb235874bc9ab1e159a62df4a228c7f4b1815"
+    },
+    {
+      "path": "36/rewrites/condition_06.pdf",
+      "size_bytes": 6192672,
+      "sha256": "26efc89c0c5f7f59a0e540e59dbdeade91c0cd1b32cd54cd180f0c06dd0bb10c"
+    },
+    {
+      "path": "36/rewrites/condition_07.pdf",
+      "size_bytes": 6183989,
+      "sha256": "91cbff9e3f007572cc88613ceaecd5e945fb4d9cb05f16a588a05d9e80ec0dda"
+    },
+    {
+      "path": "36/rewrites/condition_08.pdf",
+      "size_bytes": 6193110,
+      "sha256": "add5012ca1fa7339b9a68cdc6fce61a014eaa562f62f77fea536fd13b28636f3"
+    },
+    {
+      "path": "36/rewrites/condition_09.pdf",
+      "size_bytes": 6181369,
+      "sha256": "ff3f98cb52cbab5a1e10a78592823a8b6d6e4c44b970dda7511a453f68980507"
+    },
+    {
+      "path": "36/rewrites/condition_10.pdf",
+      "size_bytes": 6186781,
+      "sha256": "6fc37bf50a302bc2bcbd21c324c1c3f7c079e6ffdc6da648d061be2da04ea094"
+    },
+    {
+      "path": "36/rewrites/condition_11.pdf",
+      "size_bytes": 6180761,
+      "sha256": "e52f1cd59bbf27c3725afd3431971b52a76d87c8bd100e02fd34f31781cf045a"
+    },
+    {
+      "path": "36/rewrites/condition_12.pdf",
+      "size_bytes": 6190812,
+      "sha256": "bcd15969f866940a115ddce4a01006afc655ca9102148fe2710bd6498dd831c3"
+    },
+    {
+      "path": "36/rewrites/condition_13.pdf",
+      "size_bytes": 6185485,
+      "sha256": "9cb8f07b49ebff5ff6630db4bce1018576cab19c7be3ed817ad34cfd0823eb67"
+    },
+    {
+      "path": "36/rewrites/condition_14.pdf",
+      "size_bytes": 6189201,
+      "sha256": "d03300b1b9936339de888f394036e56b701b87116f1786563c9183cfd0388edf"
+    },
+    {
+      "path": "36/rewrites/condition_15.pdf",
+      "size_bytes": 6185872,
+      "sha256": "3f90ad1f6e44bdcdb5d49d847a9d108ebd23226221a8d92124b7d9f9245402c0"
+    },
+    {
+      "path": "36/rewrites/condition_16.pdf",
+      "size_bytes": 6194272,
+      "sha256": "12565932cf5ae7111c7364e53cfc4e0ddbea111fd8e8f541bf3b1ed33d551e3e"
+    },
+    {
+      "path": "36/rewrites/condition_17.pdf",
+      "size_bytes": 6182247,
+      "sha256": "f089c73ab1ee8f8bac566c2afd229417f492fab15cfe9ad45a32dbac82ae4455"
+    },
+    {
+      "path": "36/rewrites/condition_18.pdf",
+      "size_bytes": 6187870,
+      "sha256": "47b295f9bd4b8bbce36e7d850b8afc72eb5cf64b7fd1029e503621a3e534328c"
+    },
+    {
+      "path": "36/rewrites/condition_19.pdf",
+      "size_bytes": 6181829,
+      "sha256": "8a6064dcb0cb2e7a28ba39a42b0ba7d413c697a1b3ac5c56c96f2bf6ef187411"
+    },
+    {
+      "path": "36/rewrites/condition_20.pdf",
+      "size_bytes": 6183638,
+      "sha256": "3fcd4dff6c0c8179fbb323281e0cf6fc311443094bbad91066925cddb031304d"
+    },
+    {
+      "path": "37/original.pdf",
+      "size_bytes": 8544632,
+      "sha256": "e09d6d01a74226f979aa9fce15fd0c09cc48e7e08afa61a811f13954f8f1978d"
+    },
+    {
+      "path": "37/rewrites/condition_01.pdf",
+      "size_bytes": 8541574,
+      "sha256": "482ac293485bb7273def14f14f4f6c6d680115483af917a11080e22cea891d53"
+    },
+    {
+      "path": "37/rewrites/condition_02.pdf",
+      "size_bytes": 8543815,
+      "sha256": "3c511247ab30afb8bae918f3ba678058e7e18319b2ae262dd5674e50808238e3"
+    },
+    {
+      "path": "37/rewrites/condition_03.pdf",
+      "size_bytes": 8548119,
+      "sha256": "6825975fd92714869e6c671af379adb807fba248df31de0b22e92ed235a3b661"
+    },
+    {
+      "path": "37/rewrites/condition_04.pdf",
+      "size_bytes": 8548273,
+      "sha256": "a71ef5bd7f43af6e33fd4358d9e254206168aa7dba210352894886cc94f37b64"
+    },
+    {
+      "path": "37/rewrites/condition_05.pdf",
+      "size_bytes": 8547981,
+      "sha256": "0733a59d60819cb9e148419d089077bf8932a739dca59c69b52b72d79d37075a"
+    },
+    {
+      "path": "37/rewrites/condition_06.pdf",
+      "size_bytes": 8554340,
+      "sha256": "283d3419b036a68ee7294fd3bc8f1adab0e16d7cb8f7e3805e133fe632caa0d6"
+    },
+    {
+      "path": "37/rewrites/condition_07.pdf",
+      "size_bytes": 8547901,
+      "sha256": "8c244a5f5aaf7a1748dcae0162d5a74a827d9ee4d40bbc3ac9c2c2169bd12039"
+    },
+    {
+      "path": "37/rewrites/condition_08.pdf",
+      "size_bytes": 8557387,
+      "sha256": "31fda3a4ddb00ae295b682b4fafaee215b2e732b947657f3f3731c45bfcf7d81"
+    },
+    {
+      "path": "37/rewrites/condition_09.pdf",
+      "size_bytes": 8544836,
+      "sha256": "766f459617cfd5fea87b634b6b203fbeda8d5ec8329d2175a6b5cd036d7900c2"
+    },
+    {
+      "path": "37/rewrites/condition_10.pdf",
+      "size_bytes": 8549330,
+      "sha256": "253e972d89d840227ff4d2e5a56f86bf8b14b8c7317d9494388991f7717f4dfa"
+    },
+    {
+      "path": "37/rewrites/condition_11.pdf",
+      "size_bytes": 8546793,
+      "sha256": "00e032ce755b56133c526280ffa553feb14a0b7e1f535cb4cf492d6d0f24746d"
+    },
+    {
+      "path": "37/rewrites/condition_12.pdf",
+      "size_bytes": 8552305,
+      "sha256": "33b92c7a5e3100325267566b723fca943b7438f00d3fbff187bde9f8d10f35aa"
+    },
+    {
+      "path": "37/rewrites/condition_13.pdf",
+      "size_bytes": 8546519,
+      "sha256": "2984ade01597af1731b90d06ad98712fbd3b8135db5f69f7c89c121bf3d8224e"
+    },
+    {
+      "path": "37/rewrites/condition_14.pdf",
+      "size_bytes": 8549227,
+      "sha256": "5493751ae1b7c0ad87a5caaec60acf247513750645f044a81b16e0fc2de3e4ab"
+    },
+    {
+      "path": "37/rewrites/condition_15.pdf",
+      "size_bytes": 8548346,
+      "sha256": "1bd343fa63349eb208ad8a2937c72b10a8284ce553aca2282071e8ff7fea79cc"
+    },
+    {
+      "path": "37/rewrites/condition_16.pdf",
+      "size_bytes": 8565132,
+      "sha256": "50d7e0ac94af309cbc6c7aa581db0b9b6578f29edb7afbfd375abf3bba7c230b"
+    },
+    {
+      "path": "37/rewrites/condition_17.pdf",
+      "size_bytes": 8542678,
+      "sha256": "1f44bb9cac42b40cfa35b22a60bc48ddfc5ec017f7b7113d7393b964e6929615"
+    },
+    {
+      "path": "37/rewrites/condition_18.pdf",
+      "size_bytes": 8548852,
+      "sha256": "003320b77d2260a6471edda5dd8b8f62705d9c9a939914b79fb752340505431f"
+    },
+    {
+      "path": "37/rewrites/condition_19.pdf",
+      "size_bytes": 8544159,
+      "sha256": "bab13c172ebb52aec5372e14500dfcfd2e5535d30b609c1a2ffbc6624dc8b06b"
+    },
+    {
+      "path": "37/rewrites/condition_20.pdf",
+      "size_bytes": 8544369,
+      "sha256": "f24c88054862506c40ad2b74e160d24f84f597f842e4c41f3ac111f1d1ed7d18"
+    },
+    {
+      "path": "38/original.pdf",
+      "size_bytes": 3173498,
+      "sha256": "a87d1f51712c786fbb08ccf3024342cb84d28fbab807de98c08f575e488ce5da"
+    },
+    {
+      "path": "38/rewrites/condition_01.pdf",
+      "size_bytes": 3171603,
+      "sha256": "8e35b947dcb944588391d4283686650144ffc4488dbe532fc2a28e0c07e05074"
+    },
+    {
+      "path": "38/rewrites/condition_02.pdf",
+      "size_bytes": 3172386,
+      "sha256": "ab7a46af97aea5d96850a19d4838734ef4cec1b57c9ef5caa1a11b7658ac1cde"
+    },
+    {
+      "path": "38/rewrites/condition_03.pdf",
+      "size_bytes": 3177099,
+      "sha256": "adc089ea14734f57a1ee1588e2f951e3725909afb2e57a5fcd7ef2437a822219"
+    },
+    {
+      "path": "38/rewrites/condition_04.pdf",
+      "size_bytes": 3181866,
+      "sha256": "c6799270391e38b2b7df21648965bdf5fcca22d78fa5f126fe93801239c33e13"
+    },
+    {
+      "path": "38/rewrites/condition_05.pdf",
+      "size_bytes": 3176997,
+      "sha256": "37754b63879205321444d9c0dd8665871b550970dbd62f826aca4380d81cc23e"
+    },
+    {
+      "path": "38/rewrites/condition_06.pdf",
+      "size_bytes": 3183655,
+      "sha256": "7791fbc6e6ac64619a7a25804002cb726fd056bf7075a9e820c30365aa03779c"
+    },
+    {
+      "path": "38/rewrites/condition_07.pdf",
+      "size_bytes": 3177082,
+      "sha256": "308bebd063f793c9c17d724632a660031f57847bb5ee85c1bdb2a9d3b165f0e0"
+    },
+    {
+      "path": "38/rewrites/condition_08.pdf",
+      "size_bytes": 3184845,
+      "sha256": "0f539b597639026b1bd1809f582251b23c22884b8594685a8d895d96e606618e"
+    },
+    {
+      "path": "38/rewrites/condition_09.pdf",
+      "size_bytes": 3172571,
+      "sha256": "82f2a64ddca9f342d8d5db155e34876283cb8e6c9f77e89dbe0ea901f74a8518"
+    },
+    {
+      "path": "38/rewrites/condition_10.pdf",
+      "size_bytes": 3176872,
+      "sha256": "2dcf0fc49f0d8aba74b16cc2ae6847e4ae30e3742fb1991352589e591e4f6ce6"
+    },
+    {
+      "path": "38/rewrites/condition_11.pdf",
+      "size_bytes": 3175461,
+      "sha256": "490b769676e09d40b898cdf963d9263c53327210383e207abbee0768b6ca490c"
+    },
+    {
+      "path": "38/rewrites/condition_12.pdf",
+      "size_bytes": 3180885,
+      "sha256": "92ea642e5d5726b4731c73da2faf9783bc09b508bcd9946ee6826d5ba4bf5ce1"
+    },
+    {
+      "path": "38/rewrites/condition_13.pdf",
+      "size_bytes": 3175618,
+      "sha256": "3dd0939e846b6b50dd6772c9977da8e8830f269a7d8fca64806c3aa90966f5c2"
+    },
+    {
+      "path": "38/rewrites/condition_14.pdf",
+      "size_bytes": 3179437,
+      "sha256": "7a700058b40d0bf02a7d604b581ab30ccc56ddba0064dea54e891d1d24d11d8d"
+    },
+    {
+      "path": "38/rewrites/condition_15.pdf",
+      "size_bytes": 3177035,
+      "sha256": "d3c9844b3c8c86466324e4c004547308824d3b95df81db4311a2db21246bcbdf"
+    },
+    {
+      "path": "38/rewrites/condition_16.pdf",
+      "size_bytes": 3184186,
+      "sha256": "e044e0a7f36c9a4ef7f1dae4d2e013fb28af2a788a28e6b74e9bcf6c3c35b748"
+    },
+    {
+      "path": "38/rewrites/condition_17.pdf",
+      "size_bytes": 3177180,
+      "sha256": "359d59255004f354fddacadb15065705442186c2f30651b4cb74ad34743bae9f"
+    },
+    {
+      "path": "38/rewrites/condition_18.pdf",
+      "size_bytes": 3178633,
+      "sha256": "f03f8c632fe87e10f276e1df1bf62b88ba803ce875e7b28dcd8326da044cc244"
+    },
+    {
+      "path": "38/rewrites/condition_19.pdf",
+      "size_bytes": 3174040,
+      "sha256": "3e9bc2da49125a2d82102c00c35edd6a93c6e65863fe440b4ef0df5716b0ec61"
+    },
+    {
+      "path": "38/rewrites/condition_20.pdf",
+      "size_bytes": 3178997,
+      "sha256": "c47d8a3c0e0b1345b5e4705d3e25f5936b3a712b83ba66b768601bc4d2f4aa4a"
+    },
+    {
+      "path": "4/original.pdf",
+      "size_bytes": 954885,
+      "sha256": "543f1c40457a21b9550fcd84c8b48959d999e2a932d5041e7efdf947a284720d"
+    },
+    {
+      "path": "4/rewrites/condition_01.pdf",
+      "size_bytes": 949256,
+      "sha256": "57741ad049210aaedf2c746ea591380bc45c219827a70d5142e44e671494bdd2"
+    },
+    {
+      "path": "4/rewrites/condition_02.pdf",
+      "size_bytes": 951409,
+      "sha256": "2224a42b72a265459142c5d841a16c87495e292779a913b8e0e041e5d1fe9484"
+    },
+    {
+      "path": "4/rewrites/condition_03.pdf",
+      "size_bytes": 957928,
+      "sha256": "13cc448bb73cf19b508b0ce881762d6fab175249c476eb47ffbedf2f564ac5de"
+    },
+    {
+      "path": "4/rewrites/condition_04.pdf",
+      "size_bytes": 960115,
+      "sha256": "a2cafe9996b059872c73b693d5026e73da9c36d902b5c763cae98050fa6586ec"
+    },
+    {
+      "path": "4/rewrites/condition_05.pdf",
+      "size_bytes": 954302,
+      "sha256": "fdb1c35db852a5d1d7fa0e6278fea8a80e1c9082dd60caad34bb1adcbcba2190"
+    },
+    {
+      "path": "4/rewrites/condition_06.pdf",
+      "size_bytes": 964321,
+      "sha256": "39b70230b17aa5bf75e64383989f56351250cfc764c2b470533ab0933365f6c6"
+    },
+    {
+      "path": "4/rewrites/condition_07.pdf",
+      "size_bytes": 954223,
+      "sha256": "9306488874c2136048af05113987011c183f92edf8f185e7e411f9bae6439384"
+    },
+    {
+      "path": "4/rewrites/condition_08.pdf",
+      "size_bytes": 972699,
+      "sha256": "5cb8eb177c78a8b9fa8af70343e75080e97a5dff06bdab2b44b8b28d0eb1b6af"
+    },
+    {
+      "path": "4/rewrites/condition_09.pdf",
+      "size_bytes": 950518,
+      "sha256": "e9058ee66155d7cac0e895cc76dca557a8952fc5ff34b357f4e0d401617a4eeb"
+    },
+    {
+      "path": "4/rewrites/condition_10.pdf",
+      "size_bytes": 954691,
+      "sha256": "0aa3679289fe56a7e915ba22a40cf64f9bdad99cb5ddd08de951f6c328d62f39"
+    },
+    {
+      "path": "4/rewrites/condition_11.pdf",
+      "size_bytes": 951705,
+      "sha256": "d70ac82af796a293159519d2503091ecbb19785ceafa30b4b1751d432ecdf8b4"
+    },
+    {
+      "path": "4/rewrites/condition_12.pdf",
+      "size_bytes": 959519,
+      "sha256": "079a539a1784c7b0c7ed65a486c0fbfde16e7d03acec940c6be103a8a6bde55d"
+    },
+    {
+      "path": "4/rewrites/condition_13.pdf",
+      "size_bytes": 953459,
+      "sha256": "be2194784704c0c1ae7653d7be5a429cbfdf199e36c817c1a2d8cd05b3a2e538"
+    },
+    {
+      "path": "4/rewrites/condition_14.pdf",
+      "size_bytes": 961507,
+      "sha256": "9758552ab73630f905529dfc6bffd79be713ac43381ef10d677f9d369e1ba846"
+    },
+    {
+      "path": "4/rewrites/condition_15.pdf",
+      "size_bytes": 953544,
+      "sha256": "08c826c85d7723db19acbb12e0eb2f7258f341ea692f6b85473635a216681250"
+    },
+    {
+      "path": "4/rewrites/condition_16.pdf",
+      "size_bytes": 967938,
+      "sha256": "e4a168c4b7ee90593d0648c8502e7cdc2820ce4c0d77b19d3f48a43c6098e7c2"
+    },
+    {
+      "path": "4/rewrites/condition_17.pdf",
+      "size_bytes": 950324,
+      "sha256": "9b106451372095ae288094a4f9af68f20ce1008fc25d14903d2e2fc8a9111303"
+    },
+    {
+      "path": "4/rewrites/condition_18.pdf",
+      "size_bytes": 960566,
+      "sha256": "e914deec0b0534a0b04ecb2db63e2d802f5b53ab7ec7ba7104d91c15396e61a5"
+    },
+    {
+      "path": "4/rewrites/condition_19.pdf",
+      "size_bytes": 951441,
+      "sha256": "6703081e2192f10f62c267fcdc872732b725783d7af1b5c321d95e7e96be4378"
+    },
+    {
+      "path": "4/rewrites/condition_20.pdf",
+      "size_bytes": 953503,
+      "sha256": "00d36df472d0f4bdaf823942b31c66f46c3b7d8d27acb30c9378d9c015e3a1ee"
+    },
+    {
+      "path": "5/original.pdf",
+      "size_bytes": 5659272,
+      "sha256": "739283677d8ba68ad39288f6766907636379b688e2e16905094facbc6345e9f5"
+    },
+    {
+      "path": "5/rewrites/condition_01.pdf",
+      "size_bytes": 5326167,
+      "sha256": "0aec0b25921f2937ef86f3d346c9151de87462436b36b5a45783322cdd0eda57"
+    },
+    {
+      "path": "5/rewrites/condition_02.pdf",
+      "size_bytes": 5570245,
+      "sha256": "1f7993212ffeef8b9406fd37497cf606b4ddb948aad4d6af97396114dabf87d2"
+    },
+    {
+      "path": "5/rewrites/condition_03.pdf",
+      "size_bytes": 5564282,
+      "sha256": "87e62052f8820f2f01a1dae0093a89d8b9d277ee972065d202d8bc88225e58a9"
+    },
+    {
+      "path": "5/rewrites/condition_04.pdf",
+      "size_bytes": 5625140,
+      "sha256": "217023dcb3514b95e84bc022c57a5731c7e897ebf2da4c3d116331d2cf23c7a6"
+    },
+    {
+      "path": "5/rewrites/condition_05.pdf",
+      "size_bytes": 5599881,
+      "sha256": "0567913ad6248fe10614c919e0eb3f6d7f082ceb5f265dfedf7c06e3098b1fcc"
+    },
+    {
+      "path": "5/rewrites/condition_06.pdf",
+      "size_bytes": 6098827,
+      "sha256": "5d58b398b378cb62edd4a36001cdfe67a4c7b2c08904749f9aa5b365d5973f5d"
+    },
+    {
+      "path": "5/rewrites/condition_07.pdf",
+      "size_bytes": 5599054,
+      "sha256": "0074134b7df5b43e3e7f6f804e2d589f6f52fb4296d1d16687cd1218353ca760"
+    },
+    {
+      "path": "5/rewrites/condition_08.pdf",
+      "size_bytes": 6158414,
+      "sha256": "7dd58bc1b2851662f36122222c6900092190b10550bb98b3bfe69b9f71c145e1"
+    },
+    {
+      "path": "5/rewrites/condition_09.pdf",
+      "size_bytes": 5457295,
+      "sha256": "439e134d2ac0adf0ad9b44f473cf40490943b38ef17564088fb8521e35309448"
+    },
+    {
+      "path": "5/rewrites/condition_10.pdf",
+      "size_bytes": 5881825,
+      "sha256": "496eb91e05e4a780cecbfccc03d2e5f361c0df7381c05c7425401780000ccac1"
+    },
+    {
+      "path": "5/rewrites/condition_11.pdf",
+      "size_bytes": 5462568,
+      "sha256": "ef2fe51174dc432726d9c4cf2a2ebdf89b88b2d13753d850f2f6e54c39865237"
+    },
+    {
+      "path": "5/rewrites/condition_12.pdf",
+      "size_bytes": 6099379,
+      "sha256": "736077c6e040cb9a641b8c4b9f0f2e2761fe482fd345e24419096336e3d31604"
+    },
+    {
+      "path": "5/rewrites/condition_13.pdf",
+      "size_bytes": 5682254,
+      "sha256": "3b2b175302f321385d78758ec3b0921e4809f87e768646dd6de64820f827ce86"
+    },
+    {
+      "path": "5/rewrites/condition_14.pdf",
+      "size_bytes": 6099568,
+      "sha256": "093fc2bfb731189851f8f3fb6966c85fb0e54f985667dde6f0e8d6b3d58665dd"
+    },
+    {
+      "path": "5/rewrites/condition_15.pdf",
+      "size_bytes": 5642364,
+      "sha256": "f3c1a4cf9e77b248d96e9e84926b9cae360b46491005e10bd098abd7374d7d5e"
+    },
+    {
+      "path": "5/rewrites/condition_16.pdf",
+      "size_bytes": 5870947,
+      "sha256": "68e88ed9477d347e70316d6f72d6da0fe181fd6f1e9a6072f25ee8456117e2ca"
+    },
+    {
+      "path": "5/rewrites/condition_17.pdf",
+      "size_bytes": 5472185,
+      "sha256": "0bfdab812e8d805b91e346bdf3cf2a535535f973a447db1df10167660d7581d3"
+    },
+    {
+      "path": "5/rewrites/condition_18.pdf",
+      "size_bytes": 5714519,
+      "sha256": "f442b843b5719feba0affb12ee18eef2171bb8cafb7ab252281cdce83ae7b84f"
+    },
+    {
+      "path": "5/rewrites/condition_19.pdf",
+      "size_bytes": 5481118,
+      "sha256": "6bbbcf63e61e74c2337deb951f57d73883e6239e9bb84fd232a5e2e870563b4f"
+    },
+    {
+      "path": "5/rewrites/condition_20.pdf",
+      "size_bytes": 5736830,
+      "sha256": "37af8aeff63f51d7a5c81a4a7015bd683ef2cd6dc5acc35f91be3154f4df32a0"
+    },
+    {
+      "path": "6/original.pdf",
+      "size_bytes": 245951,
+      "sha256": "80ae8b07849dcb4efbd30dae37d0f774a04605e9aff67fc0d478b1fa65573ec1"
+    },
+    {
+      "path": "6/rewrites/condition_01.pdf",
+      "size_bytes": 244571,
+      "sha256": "75d30cbbbc35c85b7818f7402d03d09b44da8278ffcaf6cf1db3a341ae3c20be"
+    },
+    {
+      "path": "6/rewrites/condition_02.pdf",
+      "size_bytes": 244270,
+      "sha256": "2753ec8508992927426f8dce4418196c552aa5b3b0dd85bedce9f41370484871"
+    },
+    {
+      "path": "6/rewrites/condition_03.pdf",
+      "size_bytes": 246020,
+      "sha256": "b597b913a279aae2e44c8178b74e6d684b3de98c4092c0ffcaaa65419c63bdff"
+    },
+    {
+      "path": "6/rewrites/condition_04.pdf",
+      "size_bytes": 252152,
+      "sha256": "2997a1c96b57b9eb80664b336b3f731c1b541b34bb0b5dde4081ec2f7c37c32d"
+    },
+    {
+      "path": "6/rewrites/condition_05.pdf",
+      "size_bytes": 246832,
+      "sha256": "fae4202a31749476cffd782b23d7342641d1defaa2ef22fdf07f537cb933ab2b"
+    },
+    {
+      "path": "6/rewrites/condition_06.pdf",
+      "size_bytes": 254861,
+      "sha256": "12cfd145ba0132b2cf4cb47ce397729b7da00e8ad2ade361cd121366c7afe83d"
+    },
+    {
+      "path": "6/rewrites/condition_07.pdf",
+      "size_bytes": 247811,
+      "sha256": "476449e83d922ad293d72dc57cabe2224c130fa0b0e004cecb6f18898d16a0b1"
+    },
+    {
+      "path": "6/rewrites/condition_08.pdf",
+      "size_bytes": 256524,
+      "sha256": "1b74499f866926bca2ab90f692fbc258ec7a2312418404c62faf875d159afed4"
+    },
+    {
+      "path": "6/rewrites/condition_09.pdf",
+      "size_bytes": 247366,
+      "sha256": "7c5372f6061b77c7f5fece66a46d14d67494209a5ce0b697d9b501cad1f2baf5"
+    },
+    {
+      "path": "6/rewrites/condition_10.pdf",
+      "size_bytes": 249633,
+      "sha256": "f9f19bd7f372b1e42d9523aabfb4ad72c9e7a1fd83d5a69f0d03828dccd8c5f0"
+    },
+    {
+      "path": "6/rewrites/condition_11.pdf",
+      "size_bytes": 246089,
+      "sha256": "c4ddc28523c98bad0b3eaf76eddf2691f71e12542c35ebb919b40c16677b3ca3"
+    },
+    {
+      "path": "6/rewrites/condition_12.pdf",
+      "size_bytes": 249348,
+      "sha256": "c503e42e477d204d263ad327298dcb341542bdeff8c42f976959b6962b54dee3"
+    },
+    {
+      "path": "6/rewrites/condition_13.pdf",
+      "size_bytes": 246630,
+      "sha256": "cc31679e7014af39278be76850d26735805b4a8e0d3c4ce86b118c4610bc2cda"
+    },
+    {
+      "path": "6/rewrites/condition_14.pdf",
+      "size_bytes": 246591,
+      "sha256": "5b2fe0412d03a0bfeacd8405d02494c846c501f4c79c4f7e818ee6b98eefec4d"
+    },
+    {
+      "path": "6/rewrites/condition_15.pdf",
+      "size_bytes": 247289,
+      "sha256": "8fd7b31f24b3358c5567bbc6a28ccad7a54c84cd82cb6021669b64fcfcb4be70"
+    },
+    {
+      "path": "6/rewrites/condition_16.pdf",
+      "size_bytes": 257459,
+      "sha256": "e60d1aaa95ab31daec3ea1c0ef186fb8ee0c0f029f4d94efd895b8d131f5b36a"
+    },
+    {
+      "path": "6/rewrites/condition_17.pdf",
+      "size_bytes": 244710,
+      "sha256": "4a3dcce51a85d3db2399d796447fe2a9356c688ca7b322fa4baaece92fcf9e2c"
+    },
+    {
+      "path": "6/rewrites/condition_18.pdf",
+      "size_bytes": 248275,
+      "sha256": "88da2e8dc7e748147ddc26d00328a50bb63deda80eba6948c807bcf85a759e62"
+    },
+    {
+      "path": "6/rewrites/condition_19.pdf",
+      "size_bytes": 244708,
+      "sha256": "acd9f253836ec67be7603965232693cd117de74acf5fb1419b714d6b12dd47e0"
+    },
+    {
+      "path": "6/rewrites/condition_20.pdf",
+      "size_bytes": 249473,
+      "sha256": "f1231f4e82a17dd016f5403be83ff3f8eb31ba875262e7a2ad37de6cc442fbe8"
+    },
+    {
+      "path": "7/original.pdf",
+      "size_bytes": 1429596,
+      "sha256": "eea3606b1b8b1021dd76e839550f88f36b6761ef37afdb2f870ffdbc9cab91f5"
+    },
+    {
+      "path": "7/rewrites/condition_01.pdf",
+      "size_bytes": 1423034,
+      "sha256": "39a2cc2f370a0b2eb4f8d102f6c0a3b4f3927eebe77091db1e15c3db06a0de41"
+    },
+    {
+      "path": "7/rewrites/condition_02.pdf",
+      "size_bytes": 1428197,
+      "sha256": "20075aa3fef359eb4ccb7ae55855fd63492a0ddb7108a5cbd4847710a2ffe876"
+    },
+    {
+      "path": "7/rewrites/condition_03.pdf",
+      "size_bytes": 1429323,
+      "sha256": "02825956c153c958233f09a6f77a8a72f66c13351e2f2fa037931d1919dee12a"
+    },
+    {
+      "path": "7/rewrites/condition_04.pdf",
+      "size_bytes": 1434698,
+      "sha256": "e977c36e3948b8306c7606875c09d63032ba746a294cb10582f461006edca79e"
+    },
+    {
+      "path": "7/rewrites/condition_05.pdf",
+      "size_bytes": 1424965,
+      "sha256": "acb433427be6e265d053bb09f9ef1f75fe2208d8036d13f8eba32462ff9d90b3"
+    },
+    {
+      "path": "7/rewrites/condition_06.pdf",
+      "size_bytes": 1440929,
+      "sha256": "27f217c84afb290fd2810817ca8a872d39be363cc2dd6c34c2e5a5e756341265"
+    },
+    {
+      "path": "7/rewrites/condition_07.pdf",
+      "size_bytes": 1424941,
+      "sha256": "3be25717dc2895e43195aa21feda5c7b7789c5aed5dae80aa5111a0f46f93129"
+    },
+    {
+      "path": "7/rewrites/condition_08.pdf",
+      "size_bytes": 1442313,
+      "sha256": "a4b6ddfbc89e61e9022845fbc0fbeabdf6626cf840809b233b3e1b7ccc5b4a29"
+    },
+    {
+      "path": "7/rewrites/condition_09.pdf",
+      "size_bytes": 1420413,
+      "sha256": "160a77e5711e1bdce76f51b8ce3ce00224a1ee87e049311fb6ff9e7a7aa627d1"
+    },
+    {
+      "path": "7/rewrites/condition_10.pdf",
+      "size_bytes": 1425080,
+      "sha256": "0de6901bf1b43ed91c2dc44193050fbcf7f4a590e7e08672698934f8337d5a17"
+    },
+    {
+      "path": "7/rewrites/condition_11.pdf",
+      "size_bytes": 1419082,
+      "sha256": "578dfb12ad5ee7ee01d40b5a34e706a0b19bb351cc6ef49dca39396e9caa0ee9"
+    },
+    {
+      "path": "7/rewrites/condition_12.pdf",
+      "size_bytes": 1438765,
+      "sha256": "4cd741677bd8a9def820fe0ad642ea504583508bc8826636411900e51dfef58e"
+    },
+    {
+      "path": "7/rewrites/condition_13.pdf",
+      "size_bytes": 1429193,
+      "sha256": "afaeefdc2b53509591bff7765dae1ce152386c3c1bfa203cdfb4efcd5a6b9ff9"
+    },
+    {
+      "path": "7/rewrites/condition_14.pdf",
+      "size_bytes": 1435544,
+      "sha256": "77eed24db02478477a401bb0e4c4f90d15b4e8d6c580985f42933928a10b2d98"
+    },
+    {
+      "path": "7/rewrites/condition_15.pdf",
+      "size_bytes": 1424419,
+      "sha256": "c16d31fd878e79f755676c71cc9b87e8bb3418b981681edfa5951b7650dcdc86"
+    },
+    {
+      "path": "7/rewrites/condition_16.pdf",
+      "size_bytes": 1444457,
+      "sha256": "d7b257fc1adc8e576dd6cc5ed16bd549c56eb2a104f7957479b8375f921ef8ea"
+    },
+    {
+      "path": "7/rewrites/condition_17.pdf",
+      "size_bytes": 1422477,
+      "sha256": "c8d5081520b5e4de2191645d0d14c1e463bb6ebd196b1149c5095a049925597e"
+    },
+    {
+      "path": "7/rewrites/condition_18.pdf",
+      "size_bytes": 1431766,
+      "sha256": "640a175cdc8475fa024b79cdf324227aea678bd021cf2693972f6aa320ac614f"
+    },
+    {
+      "path": "7/rewrites/condition_19.pdf",
+      "size_bytes": 1422079,
+      "sha256": "9edfe7ca01ed257dd11ff51b458f121e7c25ba2714c3ca8adea0cf865e176ce3"
+    },
+    {
+      "path": "7/rewrites/condition_20.pdf",
+      "size_bytes": 1427661,
+      "sha256": "f9a1c72f3f88297cdb08eb4564680afab766ea1587d91f39ce5c4f4916081b40"
+    },
+    {
+      "path": "8/original.pdf",
+      "size_bytes": 476502,
+      "sha256": "af9c1b7c3e2619c8081270875d5f5b363ac07e8836f9cfe3aec09a81b7dde299"
+    },
+    {
+      "path": "8/rewrites/condition_01.pdf",
+      "size_bytes": 473715,
+      "sha256": "abe381049163fd2c11b8eaedb2c24c864cd0a0196e2fd9755edfe6d445e11fb9"
+    },
+    {
+      "path": "8/rewrites/condition_02.pdf",
+      "size_bytes": 476495,
+      "sha256": "4dd1a8e0470a362ea0de177c3384e90979fcd820be1259d807f960532a14aa5f"
+    },
+    {
+      "path": "8/rewrites/condition_03.pdf",
+      "size_bytes": 483917,
+      "sha256": "47df754707bf1df8dd89d1b64a3507dc817809c6378257eb9b231e96e4265e8a"
+    },
+    {
+      "path": "8/rewrites/condition_04.pdf",
+      "size_bytes": 488087,
+      "sha256": "8217ab156d3ab398384f1a0363bba05cc299da395666b15578d4f34a6e9f84e0"
+    },
+    {
+      "path": "8/rewrites/condition_05.pdf",
+      "size_bytes": 482901,
+      "sha256": "0441376cb7a692de6ffd223f535299814ecc277f7fba801ef63e4e837c45e0a2"
+    },
+    {
+      "path": "8/rewrites/condition_06.pdf",
+      "size_bytes": 491629,
+      "sha256": "779d7d5aec0f9c3682a1878ce1b9934e509361929e1082fadb107bbf165f57f2"
+    },
+    {
+      "path": "8/rewrites/condition_07.pdf",
+      "size_bytes": 482872,
+      "sha256": "5040015a24046f0ce74bc61053316d07722a756ba6ba950d36b9b0436247c9b2"
+    },
+    {
+      "path": "8/rewrites/condition_08.pdf",
+      "size_bytes": 492540,
+      "sha256": "62f83288a6e93df4fa49fea3318102afbe53b22bef5daa361ee64183de8f8d2a"
+    },
+    {
+      "path": "8/rewrites/condition_09.pdf",
+      "size_bytes": 472995,
+      "sha256": "49faf570a6065dd9e6c4ac29e7d0154b4f3ee3015af537acc58e0316c0d0bc0b"
+    },
+    {
+      "path": "8/rewrites/condition_10.pdf",
+      "size_bytes": 480372,
+      "sha256": "b10cb4340aca17e13fa3a2951371bd579c838b9512bcfeb5494121792bcd028e"
+    },
+    {
+      "path": "8/rewrites/condition_11.pdf",
+      "size_bytes": 474690,
+      "sha256": "dee5a89e77b3d88da700ea704f82629fa52ba06563caaae579f2c35cae1ac809"
+    },
+    {
+      "path": "8/rewrites/condition_12.pdf",
+      "size_bytes": 482007,
+      "sha256": "2647d1249756a792d63d74c36bb10548a9aadd9d55bca3f5b9436cf0a2636481"
+    },
+    {
+      "path": "8/rewrites/condition_13.pdf",
+      "size_bytes": 477545,
+      "sha256": "89f32ede3ec5c370fecf450fa68020f047108c8fb184b466e4ce10f44ad55f7a"
+    },
+    {
+      "path": "8/rewrites/condition_14.pdf",
+      "size_bytes": 478827,
+      "sha256": "b65c5ee98769005b7ea413cfab6459884fccd1abedbe92c3f4888762794ac12f"
+    },
+    {
+      "path": "8/rewrites/condition_15.pdf",
+      "size_bytes": 483381,
+      "sha256": "85c388e4c14066e40dc33dd02a228d20fd6d2ed18a458abca829fe7eee599e1d"
+    },
+    {
+      "path": "8/rewrites/condition_16.pdf",
+      "size_bytes": 492331,
+      "sha256": "c001bb147fec6db929b2e4d3de62f02296b0d3d317193e2ce29772d5dc4e7a19"
+    },
+    {
+      "path": "8/rewrites/condition_17.pdf",
+      "size_bytes": 474598,
+      "sha256": "b6265ebb379dc1755bb7e3a4e3c281333513c0c692e302798a076e953a8bb442"
+    },
+    {
+      "path": "8/rewrites/condition_18.pdf",
+      "size_bytes": 480966,
+      "sha256": "b01d0f162236b481ef04d75dc38f5ad394fcbbb0621b4050917d4e5b9bd99164"
+    },
+    {
+      "path": "8/rewrites/condition_19.pdf",
+      "size_bytes": 474210,
+      "sha256": "6af4169de70cc0f800c79195dee211153f2774c3db4750a046d38b1c4af7fb36"
+    },
+    {
+      "path": "8/rewrites/condition_20.pdf",
+      "size_bytes": 477595,
+      "sha256": "dfb2b4f76b2d96f2a974a338940bc9b398748db35b97228eb6020e1e00b61495"
+    },
+    {
+      "path": "9/original.pdf",
+      "size_bytes": 2439615,
+      "sha256": "78766b35dadcba672a4c7986b471c7575b348e5378dfdeb628a093d2a9b5bb2e"
+    },
+    {
+      "path": "9/rewrites/condition_01.pdf",
+      "size_bytes": 2437738,
+      "sha256": "f545edfecee3e04b2c31b57276b7089331db5ddb0428bfa3aa82686be5a431f0"
+    },
+    {
+      "path": "9/rewrites/condition_02.pdf",
+      "size_bytes": 2436805,
+      "sha256": "e18d52fd0d1c95522246a7d1e156c72bd237e5cc8dd2c00c1b2bec97d838b4c6"
+    },
+    {
+      "path": "9/rewrites/condition_03.pdf",
+      "size_bytes": 2443698,
+      "sha256": "172f030bcdcb76bcd5845c6c42f90821f77b3d035cfc89cb9d9bc143df65d5ae"
+    },
+    {
+      "path": "9/rewrites/condition_04.pdf",
+      "size_bytes": 2451284,
+      "sha256": "b13d21f60c48ec4b6297bbfc04cccbdf43356ff851d34b99d3ee1b5be31c6963"
+    },
+    {
+      "path": "9/rewrites/condition_05.pdf",
+      "size_bytes": 2444449,
+      "sha256": "41c9abe47735ad38c319117cc556df4e5f62919fdb281cd3265ed9963442789f"
+    },
+    {
+      "path": "9/rewrites/condition_06.pdf",
+      "size_bytes": 2457210,
+      "sha256": "5951b3e9873a33f9d68c8eb2735ece3e199416d9545f8726da004c4e5f1d54d3"
+    },
+    {
+      "path": "9/rewrites/condition_07.pdf",
+      "size_bytes": 2444445,
+      "sha256": "a9b7e450d5f76d7105b3a1665ae0968e737201751c9e6baa62b8cf36297e0e98"
+    },
+    {
+      "path": "9/rewrites/condition_08.pdf",
+      "size_bytes": 2458728,
+      "sha256": "b91b0bf5b5284aa24b0f7454096632f498a95ba64dd8fafcb2a94c4ebf230163"
+    },
+    {
+      "path": "9/rewrites/condition_09.pdf",
+      "size_bytes": 2434468,
+      "sha256": "6cc7b4f1a013f0f6312534dd67059bd48fa6ef0a70863d5e23b74f5d8aa55cf6"
+    },
+    {
+      "path": "9/rewrites/condition_10.pdf",
+      "size_bytes": 2440935,
+      "sha256": "77a443fe41e0af69d9b8fb46f8984a282d000db10f8c6f71a5c4eaa98178efc8"
+    },
+    {
+      "path": "9/rewrites/condition_11.pdf",
+      "size_bytes": 2438104,
+      "sha256": "9d4c2e9042be9ce80f8248eaa07022a181bbe8ed0d4b288793ef4820c047aa0a"
+    },
+    {
+      "path": "9/rewrites/condition_12.pdf",
+      "size_bytes": 2449579,
+      "sha256": "f5f3750331f30c90bb13d8e38123977df0a1e2c2ab328f232c2d8db80d0f5cfe"
+    },
+    {
+      "path": "9/rewrites/condition_13.pdf",
+      "size_bytes": 2441017,
+      "sha256": "187b701f12351ff94cbcae4f53883109ac6edf6dbafc53a2a8b8e5129dede28d"
+    },
+    {
+      "path": "9/rewrites/condition_14.pdf",
+      "size_bytes": 2446377,
+      "sha256": "4e37994126f9139b1790d5429378a8db51a1bd49830a3dd9a6be006b1b0e43b1"
+    },
+    {
+      "path": "9/rewrites/condition_15.pdf",
+      "size_bytes": 2441719,
+      "sha256": "88fcc17817ca4b1a6cbfd4990ff2a0fa47852b032d62137050a3d1b755450089"
+    },
+    {
+      "path": "9/rewrites/condition_16.pdf",
+      "size_bytes": 2456857,
+      "sha256": "624ad1f90547de0fe6144bbfe418e600dc2f4f9633cf4dab9ce8c29d7621cdfd"
+    },
+    {
+      "path": "9/rewrites/condition_17.pdf",
+      "size_bytes": 2438411,
+      "sha256": "3be106f25c44fd3a0a245575704efc11df802954c149cb0c594d18e21cdd2782"
+    },
+    {
+      "path": "9/rewrites/condition_18.pdf",
+      "size_bytes": 2444899,
+      "sha256": "37f0a554f1a058577cbe8326186c7797d5607e79f788c88458ec0af0017990a5"
+    },
+    {
+      "path": "9/rewrites/condition_19.pdf",
+      "size_bytes": 2436688,
+      "sha256": "3cce40fa376882f5d816b83ff19176e51f266bfbc752e2979698751bd713cce0"
+    },
+    {
+      "path": "9/rewrites/condition_20.pdf",
+      "size_bytes": 2439290,
+      "sha256": "a624f9e15bed293e1c78c135765df53b991ecbc5d00e0f0d5f1c05021e048b9e"
+    }
+  ]
+}

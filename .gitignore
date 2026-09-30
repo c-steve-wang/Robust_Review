@@ -1,0 +1,13 @@
+.DS_Store
+._*
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+results/
+openai_api
+openrouter_api
+.env
+.env.*
+.venv/

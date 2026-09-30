@@ -1,0 +1,805 @@
+{
+  "schema_version": 1,
+  "papers": [
+    {
+      "paper_id": 1,
+      "arxiv_id": "2505.24053v3",
+      "arxiv_url": "https://arxiv.org/abs/2505.24053v3",
+      "arxiv_title": "3DGEER: 3D Gaussian Rendering Made Exact and Efficient for Generic Cameras",
+      "arxiv_authors": [
+        "Zixun Huang",
+        "Cho-Ying Wu",
+        "Yuliang Guo",
+        "Xinyu Huang",
+        "Liu Ren"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2505.24053v3",
+      "checked_at_utc": "2026-09-09T18:25:13.937914+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 2,
+      "arxiv_id": "2503.09101v3",
+      "arxiv_url": "https://arxiv.org/abs/2503.09101v3",
+      "arxiv_title": "The Shape of Attraction in UMAP: Exploring the Embedding Forces in Dimensionality Reduction",
+      "arxiv_authors": [
+        "Mohammad Tariqul Islam",
+        "Jason W. Fleischer"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2503.09101v3",
+      "checked_at_utc": "2026-09-09T18:25:13.938556+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 3,
+      "arxiv_id": "2509.24566v1",
+      "arxiv_url": "https://arxiv.org/abs/2509.24566v1",
+      "arxiv_title": "TokenSwap: Backdoor Attack on the Compositional Understanding of Large Vision-Language Models",
+      "arxiv_authors": [
+        "Zhifang Zhang",
+        "Qiqi Tao",
+        "Jiaqi Lv",
+        "Na Zhao",
+        "Lei Feng",
+        "Joey Tianyi Zhou"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2509.24566v1",
+      "checked_at_utc": "2026-09-09T18:25:14.131935+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 4,
+      "arxiv_id": "2509.02333v2",
+      "arxiv_url": "https://arxiv.org/abs/2509.02333v2",
+      "arxiv_title": "DCPO: Dynamic Clipping Policy Optimization",
+      "arxiv_authors": [
+        "Yang, Shihui",
+        "Chengfeng Dou",
+        "Peidong Guo",
+        "Kai Lu",
+        "Qiang Ju",
+        "Fei Deng",
+        "Rihui Xin"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2509.02333v2",
+      "checked_at_utc": "2026-09-09T18:25:14.136756+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 5,
+      "arxiv_id": "2510.18221v3",
+      "arxiv_url": "https://arxiv.org/abs/2510.18221v3",
+      "arxiv_title": "The Emergence of Complex Behavior in Large-Scale Ecological Environments",
+      "arxiv_authors": [
+        "Joseph Bejjani",
+        "Chase Van Amburg",
+        "Chengrui Wang",
+        "Chloe Huangyuan Su",
+        "Sarah M. Pratt",
+        "Yasin Mazloumi",
+        "Naeem Khoshnevis",
+        "Sham M. Kakade",
+        "Kianté Brantley",
+        "Aaron Walsman"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2510.18221v3",
+      "checked_at_utc": "2026-09-09T18:25:14.240287+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 6,
+      "arxiv_id": "2502.02431v1",
+      "arxiv_url": "https://arxiv.org/abs/2502.02431v1",
+      "arxiv_title": "Connections between Schedule-Free Optimizers, AdEMAMix, and Accelerated SGD Variants",
+      "arxiv_authors": [
+        "Depen Morwani",
+        "Nikhil Vyas",
+        "Hanlin Zhang",
+        "Sham Kakade"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2502.02431v1",
+      "checked_at_utc": "2026-09-09T18:25:14.342404+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 7,
+      "arxiv_id": "2510.06505v1",
+      "arxiv_url": "https://arxiv.org/abs/2510.06505v1",
+      "arxiv_title": "A Median Perspective on Unlabeled Data for Out-of-Distribution Detection",
+      "arxiv_authors": [
+        "Mohammed Fadhil Abbas",
+        "Falahati, Ali",
+        "Hossein Goli",
+        "Mohammad Mohammadi Amiri"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2510.06505v1",
+      "checked_at_utc": "2026-09-09T18:25:14.388322+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 8,
+      "arxiv_id": "2510.09255v4",
+      "arxiv_url": "https://arxiv.org/abs/2510.09255v4",
+      "arxiv_title": "DSPO: Stable and Efficient Policy Optimization for Agentic Search and Reasoning",
+      "arxiv_authors": [
+        "Chenyang Gu",
+        "Yewen Pu",
+        "Bruce Yang",
+        "Xiaofan Li",
+        "Huan Gao"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2510.09255v4",
+      "checked_at_utc": "2026-09-09T18:25:14.456711+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by-sa/4.0/"
+      ],
+      "license_label": "CC BY-SA 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 9,
+      "arxiv_id": "2505.21422v1",
+      "arxiv_url": "https://arxiv.org/abs/2505.21422v1",
+      "arxiv_title": "When Shift Happens - Confounding Is to Blame",
+      "arxiv_authors": [
+        "Abbavaram Gowtham Reddy",
+        "Celia Rubio-Madrigal",
+        "Rebekka Burkholz",
+        "Krikamol Muandet"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2505.21422v1",
+      "checked_at_utc": "2026-09-09T18:25:14.486635+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 10,
+      "arxiv_id": "2512.10794v1",
+      "arxiv_url": "https://arxiv.org/abs/2512.10794v1",
+      "arxiv_title": "What matters for Representation Alignment: Global Information or Spatial Structure?",
+      "arxiv_authors": [
+        "Jaskirat Singh",
+        "Xingjian Leng",
+        "Zongze Wu",
+        "Liang Zheng",
+        "Richard Zhang",
+        "Eli Shechtman",
+        "Saining Xie"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2512.10794v1",
+      "checked_at_utc": "2026-09-09T18:25:14.671974+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 11,
+      "arxiv_id": "2506.04695v2",
+      "arxiv_url": "https://arxiv.org/abs/2506.04695v2",
+      "arxiv_title": "Reshaping Reasoning in LLMs: A Theoretical Analysis of RL Training Dynamics through Pattern Selection",
+      "arxiv_authors": [
+        "Xingwu Chen",
+        "Tianle Li",
+        "Difan Zou"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2506.04695v2",
+      "checked_at_utc": "2026-09-09T18:25:14.686517+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 12,
+      "arxiv_id": "2509.26404v2",
+      "arxiv_url": "https://arxiv.org/abs/2509.26404v2",
+      "arxiv_title": "SeedPrints: Fingerprints Can Even Tell Which Seed Your Large Language Model Was Trained From",
+      "arxiv_authors": [
+        "Yao Tong",
+        "Haonan Wang",
+        "Siquan Li",
+        "Kenji Kawaguchi",
+        "Tianyang Hu"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2509.26404v2",
+      "checked_at_utc": "2026-09-09T18:25:14.785713+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+      ],
+      "license_label": "CC BY-NC-SA 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 13,
+      "arxiv_id": "2602.18160v1",
+      "arxiv_url": "https://arxiv.org/abs/2602.18160v1",
+      "arxiv_title": "Unifying Formal Explanations: A Complexity-Theoretic Perspective",
+      "arxiv_authors": [
+        "Shahaf Bassan",
+        "Xuanxiang Huang",
+        "Guy Katz"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2602.18160v1",
+      "checked_at_utc": "2026-09-09T18:25:14.889909+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 14,
+      "arxiv_id": "2501.17727v2",
+      "arxiv_url": "https://arxiv.org/abs/2501.17727v2",
+      "arxiv_title": "Automated Interpretability Metrics Do Not Distinguish Trained and Random Transformers",
+      "arxiv_authors": [
+        "Thomas Heap",
+        "Tim Lawson",
+        "Lucy Farnik",
+        "Laurence Aitchison"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2501.17727v2",
+      "checked_at_utc": "2026-09-09T18:25:14.890104+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 15,
+      "arxiv_id": "2503.10375v1",
+      "arxiv_url": "https://arxiv.org/abs/2503.10375v1",
+      "arxiv_title": "Probabilistic Forecasting via Autoregressive Flow Matching",
+      "arxiv_authors": [
+        "Ahmed ElGazzar",
+        "Marcel van Gerven"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2503.10375v1",
+      "checked_at_utc": "2026-09-09T18:25:14.987900+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 16,
+      "arxiv_id": "2602.03916v3",
+      "arxiv_url": "https://arxiv.org/abs/2602.03916v3",
+      "arxiv_title": "SpatiaLab: Can Vision-Language Models Perform Spatial Reasoning in the Wild?",
+      "arxiv_authors": [
+        "Azmine Toushik Wasi",
+        "Wahid Faisal",
+        "Abdur Rahman",
+        "Mahfuz Ahmed Anik",
+        "Munem Shahriar",
+        "Mohsin Mahmud Topu",
+        "Sadia Tasnim Meem",
+        "Rahatun Nesa Priti",
+        "Sabrina Afroz Mitu",
+        "Md. Iqramul Hoque",
+        "Shahriyar Zaman Ridoy",
+        "Mohammed Eunus Ali",
+        "Majd Hawasly",
+        "Mohammad Raza",
+        "Md Rizwan Parvez"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2602.03916v3",
+      "checked_at_utc": "2026-09-09T18:25:14.995000+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 17,
+      "arxiv_id": "2605.30808v1",
+      "arxiv_url": "https://arxiv.org/abs/2605.30808v1",
+      "arxiv_title": "Differentially Private Preference Data Synthesis for Large Language Model Alignment",
+      "arxiv_authors": [
+        "Fengyu Gao",
+        "Jing Yang"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2605.30808v1",
+      "checked_at_utc": "2026-09-09T18:25:15.193111+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 18,
+      "arxiv_id": "2510.13080v2",
+      "arxiv_url": "https://arxiv.org/abs/2510.13080v2",
+      "arxiv_title": "Counting Hallucinations in Diffusion Models",
+      "arxiv_authors": [
+        "Shuai Fu",
+        "Jian Zhou",
+        "Qi Chen",
+        "Huang Jing",
+        "Huy Anh Nguyen",
+        "Xiaohan Liu",
+        "Zhixiong Zeng",
+        "Lin Ma",
+        "Quanshi Zhang",
+        "Qi Wu"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2510.13080v2",
+      "checked_at_utc": "2026-09-09T18:25:15.310909+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 19,
+      "arxiv_id": "2510.14163v1",
+      "arxiv_url": "https://arxiv.org/abs/2510.14163v1",
+      "arxiv_title": "Towards Reversible Model Merging For Low-rank Weights",
+      "arxiv_authors": [
+        "Mohammadsajad Alipour",
+        "Mohammad Mohammadi Amiri"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2510.14163v1",
+      "checked_at_utc": "2026-09-09T18:25:15.346175+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 20,
+      "arxiv_id": "2504.02648v4",
+      "arxiv_url": "https://arxiv.org/abs/2504.02648v4",
+      "arxiv_title": "Steering the Herd: A Framework for LLM-based Control of Social Learning",
+      "arxiv_authors": [
+        "Raghu Arghal",
+        "Kevin He",
+        "Shirin Saeedi Bidokhti",
+        "Saswati Sarkar"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2504.02648v4",
+      "checked_at_utc": "2026-09-09T18:25:15.433925+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 21,
+      "arxiv_id": "2506.10922v1",
+      "arxiv_url": "https://arxiv.org/abs/2506.10922v1",
+      "arxiv_title": "Robustly Improving LLM Fairness in Realistic Settings via Interpretability",
+      "arxiv_authors": [
+        "Adam Karvonen",
+        "Samuel D. Marks"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2506.10922v1",
+      "checked_at_utc": "2026-09-09T18:25:15.478290+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 22,
+      "arxiv_id": "2506.19708v1",
+      "arxiv_url": "https://arxiv.org/abs/2506.19708v1",
+      "arxiv_title": "Uncovering Conceptual Blindspots in Generative Image Models Using Sparse Autoencoders",
+      "arxiv_authors": [
+        "Matyas Bohacek",
+        "Thomas Fel",
+        "Maneesh Agrawala",
+        "Ekdeep Singh Lubana"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2506.19708v1",
+      "checked_at_utc": "2026-09-09T18:25:15.717725+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 23,
+      "arxiv_id": "2508.04894v1",
+      "arxiv_url": "https://arxiv.org/abs/2508.04894v1",
+      "arxiv_title": "Adversarial Attacks and Defenses on Graph-aware Large Language Models (LLMs)",
+      "arxiv_authors": [
+        "Iyiola E. Olatunji",
+        "Franziska Boenisch",
+        "Jing Xu",
+        "Adam Dziedzic"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2508.04894v1",
+      "checked_at_utc": "2026-09-09T18:25:15.776769+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 24,
+      "arxiv_id": "2606.09758v1",
+      "arxiv_url": "https://arxiv.org/abs/2606.09758v1",
+      "arxiv_title": "Difference-Aware Retrieval Policies for Imitation Learning",
+      "arxiv_authors": [
+        "Quinn Pfeifer",
+        "Ethan Pronovost",
+        "Paarth Shah",
+        "Khimya Khetarpal",
+        "Siddhartha Srinivasa",
+        "Abhishek Gupta"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2606.09758v1",
+      "checked_at_utc": "2026-09-09T18:25:15.836706+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 25,
+      "arxiv_id": "2510.02067v2",
+      "arxiv_url": "https://arxiv.org/abs/2510.02067v2",
+      "arxiv_title": "Adaptive Kernel Selection for Stein Variational Gradient Descent",
+      "arxiv_authors": [
+        "Moritz Melcher",
+        "Simon Weißmann",
+        "Ashia Wilson",
+        "Jakob Zech"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2510.02067v2",
+      "checked_at_utc": "2026-09-09T18:25:15.948841+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+      ],
+      "license_label": "CC BY-NC-SA 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 26,
+      "arxiv_id": "2506.10085v5",
+      "arxiv_url": "https://arxiv.org/abs/2506.10085v5",
+      "arxiv_title": "VITA: Zero-Shot Value Functions via Test-Time Adaptation of Vision-Language Models",
+      "arxiv_authors": [
+        "Christos Ziakas",
+        "Alessandra Russo"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2506.10085v5",
+      "checked_at_utc": "2026-09-09T18:25:16.026867+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 27,
+      "arxiv_id": "2509.23054v1",
+      "arxiv_url": "https://arxiv.org/abs/2509.23054v1",
+      "arxiv_title": "Mask What Matters: Controllable Text-Guided Masking for Self-Supervised Medical Image Analysis",
+      "arxiv_authors": [
+        "Ruilang Wang",
+        "Shuotong Xu",
+        "Bowen Liu",
+        "Runlin Huang",
+        "Donglong Chen",
+        "Weifeng Su"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2509.23054v1",
+      "checked_at_utc": "2026-09-09T18:25:16.094275+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 28,
+      "arxiv_id": "2410.05419v2",
+      "arxiv_url": "https://arxiv.org/abs/2410.05419v2",
+      "arxiv_title": "Joint Distribution-Informed Shapley Values for Sparse Counterfactual Explanations",
+      "arxiv_authors": [
+        "Lei You",
+        "Yijun Bian",
+        "Lele Cao"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2410.05419v2",
+      "checked_at_utc": "2026-09-09T18:25:16.242946+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 29,
+      "arxiv_id": "2502.12202v2",
+      "arxiv_url": "https://arxiv.org/abs/2502.12202v2",
+      "arxiv_title": "To Think or Not to Think: Exploring the Unthinking Vulnerability in Large Reasoning Models",
+      "arxiv_authors": [
+        "Zihao Zhu",
+        "Hongbao Zhang",
+        "Ruotong Wang",
+        "Ke Xu",
+        "Siwei Lyu",
+        "Baoyuan Wu"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2502.12202v2",
+      "checked_at_utc": "2026-09-09T18:25:16.326713+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 30,
+      "arxiv_id": "2506.20746v3",
+      "arxiv_url": "https://arxiv.org/abs/2506.20746v3",
+      "arxiv_title": "Dynamic Weight Grafting: Localizing Finetuned Factual Knowledge in Transformers",
+      "arxiv_authors": [
+        "Todd Nief",
+        "David Reber",
+        "Sean Richardson",
+        "Ari Holtzman"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2506.20746v3",
+      "checked_at_utc": "2026-09-09T18:25:16.398570+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 31,
+      "arxiv_id": "2510.11709v1",
+      "arxiv_url": "https://arxiv.org/abs/2510.11709v1",
+      "arxiv_title": "Adversarial Attacks Leverage Interference Between Features in Superposition",
+      "arxiv_authors": [
+        "Edward Stevinson",
+        "Lucas Prieto",
+        "Melih Barsbey",
+        "Tolga Birdal"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2510.11709v1",
+      "checked_at_utc": "2026-09-09T18:25:16.492551+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 32,
+      "arxiv_id": "2509.01444v1",
+      "arxiv_url": "https://arxiv.org/abs/2509.01444v1",
+      "arxiv_title": "Strata-Sword: A Hierarchical Safety Evaluation towards LLMs based on Reasoning Complexity of Jailbreak Instructions",
+      "arxiv_authors": [
+        "Shiji Zhao",
+        "Ranjie Duan",
+        "Jiexi Liu",
+        "Xiaojun Jia",
+        "Fengxiang Wang",
+        "Cheng Wei",
+        "Ruoxi Cheng",
+        "Yong Xie",
+        "Chang Liu",
+        "Qing Guo",
+        "Jialing Tao",
+        "Hui Xue",
+        "Xingxing Wei"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2509.01444v1",
+      "checked_at_utc": "2026-09-09T18:25:16.572759+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 33,
+      "arxiv_id": "2510.23671v2",
+      "arxiv_url": "https://arxiv.org/abs/2510.23671v2",
+      "arxiv_title": "Sparsity and Superposition in Mixture of Experts",
+      "arxiv_authors": [
+        "Marmik Chaudhari",
+        "Jeremi Nuer",
+        "Rome Thorstenson"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2510.23671v2",
+      "checked_at_utc": "2026-09-09T18:25:16.585714+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 34,
+      "arxiv_id": "2511.09477v1",
+      "arxiv_url": "https://arxiv.org/abs/2511.09477v1",
+      "arxiv_title": "Latent Planning via Embedding Arithmetic: A Contrastive Approach to Strategic Reasoning",
+      "arxiv_authors": [
+        "Andrew Hamara",
+        "Greg Hamerly",
+        "Pablo Rivas",
+        "Andrew C. Freeman"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2511.09477v1",
+      "checked_at_utc": "2026-09-09T18:25:16.728485+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 35,
+      "arxiv_id": "2602.17871v1",
+      "arxiv_url": "https://arxiv.org/abs/2602.17871v1",
+      "arxiv_title": "Understanding the Fine-Grained Knowledge Capabilities of Vision-Language Models",
+      "arxiv_authors": [
+        "Dhruba Ghosh",
+        "Yuhui Zhang",
+        "Ludwig Schmidt"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2602.17871v1",
+      "checked_at_utc": "2026-09-09T18:25:16.755242+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 36,
+      "arxiv_id": "2605.22158v1",
+      "arxiv_url": "https://arxiv.org/abs/2605.22158v1",
+      "arxiv_title": "ST-SimDiff: Balancing Spatiotemporal Similarity and Difference for Efficient Video Understanding with MLLMs",
+      "arxiv_authors": [
+        "Bingjun Luo",
+        "Tony Wang",
+        "Chaoqi Chen",
+        "Xinpeng Ding"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2605.22158v1",
+      "checked_at_utc": "2026-09-09T18:25:16.813175+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 37,
+      "arxiv_id": "2509.19296v1",
+      "arxiv_url": "https://arxiv.org/abs/2509.19296v1",
+      "arxiv_title": "Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation",
+      "arxiv_authors": [
+        "Sherwin Bahmani",
+        "Tianchang Shen",
+        "Jiawei Ren",
+        "Jiahui Huang",
+        "Yifeng Jiang",
+        "Haithem Turki",
+        "Andrea Tagliasacchi",
+        "David B. Lindell",
+        "Zan Gojcic",
+        "Sanja Fidler",
+        "Huan Ling",
+        "Jun Gao",
+        "Xuanchi Ren"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2509.19296v1",
+      "checked_at_utc": "2026-09-09T18:25:16.924261+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "license_label": "CC BY 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    },
+    {
+      "paper_id": 38,
+      "arxiv_id": "2510.09333v1",
+      "arxiv_url": "https://arxiv.org/abs/2510.09333v1",
+      "arxiv_title": "Efficient Bayesian Inference from Noisy Pairwise Comparisons",
+      "arxiv_authors": [
+        "Till Aczel",
+        "Lucas Theis",
+        "Roger Wattenhofer"
+      ],
+      "evidence_url": "https://arxiv.org/abs/2510.09333v1",
+      "checked_at_utc": "2026-09-09T18:25:16.957588+00:00",
+      "redistribution_status": "source_license_supports_adaptations_subject_to_terms",
+      "license_urls": [
+        "http://creativecommons.org/licenses/by-sa/4.0/"
+      ],
+      "license_label": "CC BY-SA 4.0",
+      "modification_notice": "The original is the benchmark reference PDF. condition_01 through condition_20 are model-generated rhetorical adaptations; condition and producer mappings are in meta.json."
+    }
+  ]
+}
