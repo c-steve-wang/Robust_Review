@@ -248,9 +248,10 @@ Metric evaluation produces:
 If you use this repository, please cite:
 
 ```bibtex
-@misc{wang2026robustreview,
-  title = {A Missing Piece for Trustworthy AI Reviewers: From Benchmarking Rhetorical Robustness to SciCore Review},
-  author = {Wang, Chenguang and Li, Ming and Fan, Chengrui and Chen, Jianpeng and Chen, Han and Zhou, Tianyi and Zhou, Dawei},
-  year = {2026}
+@article{wang2026missing,
+  title={A Missing Piece for Trustworthy AI Reviewers: From Benchmarking Rhetorical Robustness to SciCore Review},
+  author={Wang, Chenguang and Li, Ming and Fan, Chengrui and Chen, Jianpeng and Chen, Han and Zhou, Tianyi and Zhou, Dawei},
+  journal={arXiv preprint arXiv:2609.39027},
+  year={2026}
 }
 ```
